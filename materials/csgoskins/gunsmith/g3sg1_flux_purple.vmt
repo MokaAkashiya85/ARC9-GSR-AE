@@ -1,0 +1,8 @@
+Patch
+{
+	include materials\models\csgo\g3sg1\snip_g3sg1_2.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/gunsmith/workshop/g3sg1_flux_purple"
+	}
+}

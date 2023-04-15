@@ -1,0 +1,8 @@
+Patch
+{
+	include materials\models\csgo\galil\rif_galilar.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/custom/workshop/galil_eco"
+	}
+}

@@ -1,0 +1,30 @@
+This is a list of every skin that a weapon includes.
+
+
+[table][tr]
+	[th]Dual Eagles[/th]
+	[th]Changed name to 'Dual Deagles'
+	Increased RPM
+	Decreased damage[/th]
+[/tr][tr]
+	[th]Dual Five-SeveN[/th]
+	[th]Increased RPM[/th]
+[/tr][tr]
+	[th]Dual Glock-18[/th]
+	[th]Increased RPM (semi-automatic only)
+	Decreased damage[/th]
+[/tr][tr]
+	[th]Dual MP9[/th]
+	[th]Decreased recoil[/th]
+[/tr][tr]
+	[th]Dual P250[/th]
+	[th]Increased RPM
+	Removed unnecessary custom firing modes[/th]
+[/tr][tr]
+	[th]Dual Sawed-Off[/th]
+	[th]Changed name to 'Dual Sawed-Offs'
+	Decreased view kick[/th]
+[/tr][tr]
+	[th]Dual USP[/th]
+	[th]Increased RPM[/th]
+[/tr][/table]

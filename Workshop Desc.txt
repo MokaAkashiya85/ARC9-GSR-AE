@@ -20,7 +20,7 @@ Join the official [url=https://discord.gg/gaHXusZ]Diamond Doves Discord server h
 
 [h1]NOTE[/h1]
 [i]All of the skins are converted to GMod as-is and will not have any texture alterations. If a skin looks weird or incorrect in-game, or is missing entirely, that's because it was either a pain to get right, or impossible to do, or perhaps just forgotten.[/i]
-[i]If you are looking for a list of what skins are included and which are not, refer to the discussion page called "Included Skins". It details if it's included, incorrectly done on purpose or missing entirely, and why that is the case.[/i]
+[i]If you are looking for a list of what skins are included, refer to the discussion page called "Included Skins". It details if it's included or incorrectly done on purpose.[/i]
 
 [h1]FAQ[/h1]
 - [b]How do I equip them?:[/b] When in the customization screen, click on [b]PERSONALIZE[/b], then [b]Skins[/b], then [b]CS:GO Skins[/b] and then select the category and skin you want to use!

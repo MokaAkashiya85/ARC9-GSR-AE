@@ -1,0 +1,11 @@
+Patch
+{
+	include materials\models\csgo\g3sg1\snip_g3sg1_2.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/gunsmith/workshop/g3sg1_savage"
+		"$bumpmap"				"csgoskins/Files/gunsmith/workshop/g3sg1_savage_normal"
+		"$phongboost"				"0.25"
+		"$envmaptint"				"[ .01 .01 .01 ]"
+	}
+}

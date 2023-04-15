@@ -1171,6 +1171,210 @@ A silver flame on the muzzle overlays a purple base with a metal flake finish.
 "Element detected: Cs"]]
 ------------------------------------
 
+-- [[ G3SG1 ]]
+local skin = "moka_csgo_skin_g3sg1_"
+
+-- [[ Custom ]]
+L[skin .. "chronos.printname"] = "G3SG1 | Chronos"
+L[skin .. "chronos.compactname"] = "Chronos"
+L[skin .. "chronos.description"] = [[The Gods and Monsters Collection
+
+It has been decorated with a hydrographic of watch mechanisms in psychedelic colors and accented with heat transfer decals.
+
+"In time, all things are possible"]]
+------------------------------------
+L[skin .. "blacksand.printname"] = "G3SG1 | Black Sand"
+L[skin .. "blacksand.compactname"] = "Black Sand"
+L[skin .. "blacksand.description"] = [[The Shattered Web Collection
+
+It has been custom painted with a tan and black military camo pattern.
+
+"The Coalition Taskforce was winning, so Mikah turned to a more... aggressive approach"]]
+------------------------------------
+L[skin .. "executioner.printname"] = "G3SG1 | The Executioner"
+L[skin .. "executioner.compactname"] = "Executioner"
+L[skin .. "executioner.description"] = [[The Revolver Case Collection
+
+It has been hand painted with a gruesome display of bone.
+
+"I always take a trophy" - Javier Alviso, Fist of the Phoenix]]
+------------------------------------
+L[skin .. "glade.printname"] = "G3SG1 | Dream Glade"
+L[skin .. "glade.compactname"] = "Dream Glade"
+L[skin .. "glade.description"] = [[The Dreams & Nightmares Collection
+
+A green forest gives way to a blue sky at the center of this custom paint job.
+
+"There, a clearing in the forest!"]]
+------------------------------------
+L[skin .. "tacticalmap.printname"] = "G3SG1 | Keeping Tabs"
+L[skin .. "tacticalmap.compactname"] = "Keeping Tabs"
+L[skin .. "tacticalmap.description"] = [[The Operation Riptide Collection
+
+It has been custom painted using Danger Zone's tactical map display as inspiration.
+
+"You have all the information you need" - Franz Kriegeld, Phoenix Tactician]]
+------------------------------------
+
+-- [[ Gunsmith ]]
+L[skin .. "buccaneer.printname"] = "G3SG1 | High Seas"
+L[skin .. "buccaneer.compactname"] = "High Seas"
+L[skin .. "buccaneer.description"] = [[The Horizon Collection
+
+It has been custom painted with a nautical theme and decorative brass metal work.
+
+"Let dead reckoning be your guide"]]
+------------------------------------
+L[skin .. "cetme_redux.printname"] = "G3SG1 | Hunter"
+L[skin .. "cetme_redux.compactname"] = "Hunter"
+L[skin .. "cetme_redux.description"] = [[The Spectrum 2 Collection
+
+The gun's black base has been covered with dark wood paneling.
+
+"It smells of rich mahogany"]]
+------------------------------------
+L[skin .. "disrupt.printname"] = "G3SG1 | Digital Mesh"
+L[skin .. "disrupt.compactname"] = "Digital Mesh"
+L[skin .. "disrupt.description"] = [[The Operation Broken Fang Collection
+
+It has been painted with a custom red, white, and charcoal-colored DDPAT pattern.
+
+"Disruptingly intricate"]]
+------------------------------------
+L[skin .. "flux_purple.printname"] = "G3SG1 | Flux"
+L[skin .. "flux_purple.compactname"] = "Flux"
+L[skin .. "flux_purple.description"] = [[The Shadow Collection
+
+It has been painted with purple and silver metallic paints.
+
+"A plan is a list of things that don't happen"]]
+------------------------------------
+L[skin .. "savage.printname"] = "G3SG1 | Scavenger"
+L[skin .. "savage.compactname"] = "Scavenger"
+L[skin .. "savage.description"] = [[The Danger Zone Collection
+
+Originally green, parts of the weapon have been replaced with street signs and a tomato can.
+
+"Why run?"]]
+------------------------------------
+L[skin .. "ventilator.printname"] = "G3SG1 | Ventilator"
+L[skin .. "ventilator.compactname"] = "Ventilator"
+L[skin .. "ventilator.description"] = [[The Gamma 2 Collection
+
+It has been given an elegant black and chrome paintjob and a custom rubber stock.
+
+"Don't worry Naomi, I'll make Felix pay" - Mikha Biton, Phoenix Sniper]]
+------------------------------------
+L[skin .. "viper_yellow.printname"] = "G3SG1 | Stinger"
+L[skin .. "viper_yellow.compactname"] = "Stinger"
+L[skin .. "viper_yellow.description"] = [[The Glove Collection
+
+It has been given yellow and grey accents.
+
+"A moment of pain. Then nothing."]]
+------------------------------------
+
+-- [[ Galil AR ]]
+local skin = "moka_csgo_skin_galilar_"
+
+-- [[ Custom ]]
+L[skin .. "cerbrus.printname"] = "Galil AR | Cerberus"
+L[skin .. "cerbrus.compactname"] = "Cerberus"
+L[skin .. "cerbrus.description"] = [[The Cache Collection
+
+It has been custom painted with a depiction of Cerberus, the mythical three headed dog that guards the underworld.]]
+------------------------------------
+L[skin .. "abrasion.printname"] = "Galil AR | Chatterbox"
+L[skin .. "abrasion.compactname"] = "Chatterbox"
+L[skin .. "abrasion.description"] = [[The Chroma Collection
+
+It has been hand-painted and distressed. The skull painted over the dust cover appears to chatter when the bolt reciprocates.
+
+"Some say that when you laugh, the world laughs with you...but when Chatterbox laughs there are only screams"]]
+------------------------------------
+L[skin .. "camo.printname"] = "Galil AR | Black Sand"
+L[skin .. "camo.compactname"] = "Black Sand"
+L[skin .. "camo.description"] = [[The Glove Collection
+
+It has been custom pained in black and camo.
+
+"Mikah Baton is about to begin his campaign against the Coalition Taskforce"]]
+------------------------------------
+L[skin .. "candychaos.printname"] = "Galil AR | Sugar Rush"
+L[skin .. "candychaos.compactname"] = "Sugar Rush"
+L[skin .. "candychaos.description"] = [[The Glove Collection
+
+It has been custom pained in black and camo.
+
+"Mikah Baton is about to begin his campaign against the Coalition Taskforce"]]
+------------------------------------
+L[skin .. "chroma_pink.printname"] = "Galil AR | Chromatic Aberration"
+L[skin .. "chroma_pink.compactname"] = "Chromatic"
+L[skin .. "chroma_pink.description"] = [[The Snakebite Collection
+
+The colors in this custom paint job were applied in offset positions, leading to an eye-popping look.
+
+"(Not so) easy on the eyes..."]]
+------------------------------------
+L[skin .. "destroyer.printname"] = "Galil AR | Destroyer"
+L[skin .. "destroyer.compactname"] = "Destroyer"
+L[skin .. "destroyer.description"] = [[The Recoil Collection
+
+It has been custom painted with the word "DESTROYER", but it can only be read from certain angles.
+
+"Destroy them all"]]
+------------------------------------
+L[skin .. "eco.printname"] = "Galil AR | Eco"
+L[skin .. "eco.compactname"] = "Eco"
+L[skin .. "eco.description"] = [[The Chroma 2 Collection
+
+It has been painted white and green and detailed with heat-transfer decals.
+
+"For enough money, Elite Crew will take any cause on as their own"]]
+------------------------------------
+L[skin .. "particles.printname"] = "Galil AR | Rocket Pop"
+L[skin .. "particles.compactname"] = "Rocket Pop"
+L[skin .. "particles.description"] = [[The Falchion Collection
+
+It has been custom painted with a graphic design of stripes and pixellated particles.
+
+"The perfect thing for a hot summer's day"]]
+------------------------------------
+
+-- [[ Gunsmith ]]
+L[skin .. "incinerator.printname"] = "Galil AR | Firefight"
+L[skin .. "incinerator.compactname"] = "Firefight"
+L[skin .. "incinerator.description"] = [[The Chroma 3 Collection
+
+It has been given crimson accents and a hand painted icon.
+
+"Booth had this weapon commissioned for Valeria in an attempt to smooth things over with the Phoenix"]]
+------------------------------------
+L[skin .. "nightwing.printname"] = "Galil AR | Stone Cold"
+L[skin .. "nightwing.compactname"] = "Stone Cold"
+L[skin .. "nightwing.description"] = [[The Shadow Collection
+
+It has been highlighted with metallic blue paint. The stock and magazine bare its designer's mark.
+
+"Eventually you need to step outside of your mentor's shadow"]]
+------------------------------------
+L[skin .. "phoenix.printname"] = "Galil AR | Connexion"
+L[skin .. "phoenix.compactname"] = "Connexion"
+L[skin .. "phoenix.description"] = [[The Fracture Collection
+
+Phoenix faction logos have been spray painted over its white and red base.
+
+"They're bringing in the big guns"]]
+------------------------------------
+L[skin .. "vandal.printname"] = "Galil AR | Vandal"
+L[skin .. "vandal.compactname"] = "Vandal"
+L[skin .. "vandal.description"] = [[The Operation Broken Fang Collection
+
+Its green base coat has been covered with scattered white drawings.
+
+"Each drawing tells a story, some more memorable than others"]]
+------------------------------------
+
 -- [[ Template ]]
 -- local skin = "moka_csgo_skin_cz75_"
 

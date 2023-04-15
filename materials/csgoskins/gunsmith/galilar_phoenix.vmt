@@ -1,0 +1,9 @@
+Patch
+{
+	include materials\models\csgo\galil\rif_galilar.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/gunsmith/workshop/galil_phoenix"
+		"$bumpmap"				"csgoskins/Files/gunsmith/workshop/galil_phoenix_normal"
+	}
+}
