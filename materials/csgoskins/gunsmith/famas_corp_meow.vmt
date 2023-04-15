@@ -1,0 +1,11 @@
+Patch
+{
+	include materials\models\csgo\famas\rif_famas.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/gunsmith/workshop/famas_corp_meow"
+		"$bumpmap"				"csgoskins/Files/gunsmith/workshop/famas_corp_meow_normal"
+		"$phongboost"				"0.25"
+		"$envmaptint"				"[ .01 .01 .01 ]"
+	}
+}

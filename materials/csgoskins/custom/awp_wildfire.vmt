@@ -1,0 +1,11 @@
+Patch
+{
+	include materials\models\csgo\awp\awp.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/custom/workshop/awp_wildfire"
+		"$bumpmap"				"csgoskins/Files/custom/workshop/awp_wildfire_normal"
+		"$phongboost"				"0.25"
+		"$envmaptint"				"[ .01 .01 .01 ]"
+	}
+}

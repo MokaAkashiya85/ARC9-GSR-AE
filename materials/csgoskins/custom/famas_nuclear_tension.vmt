@@ -1,0 +1,11 @@
+Patch
+{
+	include materials\models\csgo\famas\rif_famas.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/custom/workshop/famas_nuclear_tension"
+		"$bumpmap"				"csgoskins/Files/custom/workshop/famas_nuclear_tension_normal"
+		"$phongboost"				"0.25"
+		"$envmaptint"				"[ .01 .01 .01 ]"
+	}
+}

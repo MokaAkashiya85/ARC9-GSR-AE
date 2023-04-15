@@ -1,0 +1,8 @@
+Patch
+{
+	include materials\models\csgo\fiveseven\fiveseven.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/custom/workshop/five_seven_daimyo_majestic_nose8c_srgb_3"
+	}
+}

@@ -1,0 +1,11 @@
+Patch
+{
+	include materials\models\csgo\ak47\ak47_body.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/custom/workshop/ak47_anubis"
+		"$bumpmap"				"csgoskins/Files/custom/workshop/ak47_anubis_normal"
+		"$phongboost"				"0.25"
+		"$envmaptint"				"[ .01 .01 .01 ]"
+	}
+}

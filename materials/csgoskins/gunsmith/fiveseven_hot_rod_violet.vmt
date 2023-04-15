@@ -1,0 +1,11 @@
+Patch
+{
+	include materials\models\csgo\fiveseven\fiveseven.vmt
+	insert
+	{
+		"$detail"				"csgoskins/Files/gunsmith/workshop/fiveseven_hot_rod_violet"
+		"$detailscale"		"1"
+		"$detailblendmode" "1"
+		"$detailblendfactor" "1"
+	}
+}

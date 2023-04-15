@@ -1,0 +1,8 @@
+Patch
+{
+	include materials\models\csgo\aug\mi_1p_aug.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/custom/anime_aug"
+	}
+}

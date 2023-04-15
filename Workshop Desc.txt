@@ -1,0 +1,36 @@
+[b]Make sure you download Part 2 of this addon - otherwise you will receive material or texture errors.[/b]
+[b]If you post a comment on the page claiming missing materials or texture errors just because you did not download Part 2, then you will be blocked.[/b]
+
+[h1][b] This mod is still a work in progress. If you discover missing or incorrect skins, report them. [/b][/h1]
+
+I present to you, Gunsmith Reloaded - Appearance Expansion (GSR-AE for short), an addition to the regular Gunsmith Reloaded addon that aims to offer as many of the original CS:GO skins for all applicable weapons as possible, all through the power of ARC9 and its universal attachment systems.
+
+Join the official [url=https://discord.gg/gaHXusZ]Diamond Doves Discord server here![/url]
+
+[h1]Highlights/Features[/h1]
+[list]
+[*] All possible skins for all weapons that have support for them
+[*] All skins alter the name of the weapon
+[*] All skins detail which collection they are from and have their original descriptions
+[*] Localization support! Currently available in:
+[list]
+[*]English
+[/list]
+[/list]
+
+[h1]NOTE[/h1]
+[i]All of the skins are converted to GMod as-is and will not have any texture alterations. If a skin looks weird or incorrect in-game, or is missing entirely, that's because it was either a pain to get right, or impossible to do, or perhaps just forgotten.[/i]
+[i]If you are looking for a list of what skins are included and which are not, refer to the discussion page called "Included Skins". It details if it's included, incorrectly done on purpose or missing entirely, and why that is the case.[/i]
+
+[h1]FAQ[/h1]
+- [b]How do I equip them?:[/b] When in the customization screen, click on [b]PERSONALIZE[/b], then [b]Skins[/b], then [b]CS:GO Skins[/b] and then select the category and skin you want to use!
+- [b]Do i require anything else to use this:[/b] You'll need the [url=https://steamcommunity.com/workshop/filedetails/?id=2910505837]ARC9 base[/url] and of course [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2910537020]Gunsmith Reloaded[/url].
+
+[h1]A big thanks to everyone who have helped bring Gunsmith Reloaded to what it is today:[/h1]
+[b] - Moka[/b]
+[b] - Twilight Sparkle[/b]
+[b] - Valve[/b]
+[b] - All of the skin authors[/b]
+[b] - (And you):[/b] For being patient and a good person :)
+
+If you encounter any bugs or want to suggest something as well as help improving this follow the development here [url=https://github.com/CurlySparkle/ARC9-GSR]GitHub page[/url].

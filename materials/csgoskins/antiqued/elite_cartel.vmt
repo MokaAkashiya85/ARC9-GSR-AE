@@ -1,0 +1,11 @@
+Patch
+{
+	include materials\models\csgo\elite\m9a1.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/antiqued/workshop/dualberettas_cartel"
+		"$bumpmap"				"csgoskins/Files/antiqued/workshop/dual_berettas_cartel_normal"
+		"$phongboost"				"0.25"
+		"$envmaptint"				"[ .01 .01 .01 ]"
+	}
+}

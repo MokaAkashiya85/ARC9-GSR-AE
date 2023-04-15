@@ -1,0 +1,8 @@
+Patch
+{
+	include materials\models\csgo\awp\awp.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/custom/workshop/awp_hannya"
+	}
+}

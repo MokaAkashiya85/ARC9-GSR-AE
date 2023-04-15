@@ -1,0 +1,11 @@
+Patch
+{
+	include materials\models\csgo\awp\awp.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/gunsmith/awp_hydra"
+		"$bumpmap"				"csgoskins/Files/gunsmith/awp_hydra_normal"
+		"$phongboost"				"0.25"
+		"$envmaptint"				"[ .01 .01 .01 ]"
+	}
+}

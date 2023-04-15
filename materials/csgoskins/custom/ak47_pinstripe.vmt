@@ -1,0 +1,8 @@
+Patch
+{
+	include materials\models\csgo\ak47\ak47_body.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/custom/pinstripe_ak47"
+	}
+}

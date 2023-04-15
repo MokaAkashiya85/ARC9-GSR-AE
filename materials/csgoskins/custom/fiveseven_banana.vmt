@@ -1,0 +1,8 @@
+Patch
+{
+	include materials\models\csgo\fiveseven\fiveseven.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/custom/workshop/fiveseven_banana"
+	}
+}

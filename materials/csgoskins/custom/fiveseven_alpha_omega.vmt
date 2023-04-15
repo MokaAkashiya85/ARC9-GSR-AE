@@ -1,0 +1,11 @@
+Patch
+{
+	include materials\models\csgo\fiveseven\fiveseven.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/custom/workshop/fiveseven_alpha_omega"
+		"$bumpmap"				"csgoskins/Files/custom/workshop/fiveseven_alpha_omega_normal"
+		"$phongboost"				"0.25"
+		"$envmaptint"				"[ .01 .01 .01 ]"
+	}
+}

@@ -1,0 +1,19 @@
+Patch
+{
+	include materials\models\csgo\ak47\ak47_body.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/gunsmith/ak47_gold_arabesque"
+		"$bumpmap"				"csgoskins/Files/gunsmith/ak47_gold_arabesque_normal"
+		"$phongboost"				"0.25"
+		"$envmaptint"				"[ .01 .01 .01 ]"
+		
+		// "$phongboost"				"1"
+		// "$envmaptint"				"[ .5 .35 .1 ]"
+	}
+	// insert
+	// {
+		// "$phongtint"				"[.75 .45 .45]"
+		// "$phongexponent"			"100"
+	// }
+}

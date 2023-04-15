@@ -1,0 +1,11 @@
+Patch
+{
+	include materials\models\csgo\elite\m9a1.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/gunsmith/workshop/dual_elites_rose"
+		"$bumpmap"				"csgoskins/Files/gunsmith/workshop/dual_elites_rose_normal"
+		"$phongboost"				"0.25"
+		"$envmaptint"				"[ .01 .01 .01 ]"
+	}
+}

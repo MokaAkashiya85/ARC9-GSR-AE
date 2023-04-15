@@ -1,0 +1,11 @@
+Patch
+{
+	include materials\models\csgo\deagle\pist_deagle.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/antiqued/workshop/de_constable"
+		"$bumpmap"				"csgoskins/Files/antiqued/workshop/de_constable_normal"
+		"$phongboost"				"0.25"
+		"$envmaptint"				"[ .01 .01 .01 ]"
+	}
+}

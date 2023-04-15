@@ -1,0 +1,11 @@
+Patch
+{
+	include materials\models\csgo\cz75\pist_cz_75_body.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/antiqued/etched_cz75"
+		"$bumpmap"				"csgoskins/Files/antiqued/etched_cz75_normal"
+		"$phongboost"				"0.25"
+		"$envmaptint"				"[ .01 .01 .01 ]"
+	}
+}

@@ -1,0 +1,11 @@
+Patch
+{
+	include materials\models\csgo\fiveseven\fiveseven.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/custom/workshop/five_seven_diary"
+		"$bumpmap"				"csgoskins/Files/custom/workshop/five_seven_diary_normal"
+		"$phongboost"				"0.25"
+		"$envmaptint"				"[ .01 .01 .01 ]"
+	}
+}

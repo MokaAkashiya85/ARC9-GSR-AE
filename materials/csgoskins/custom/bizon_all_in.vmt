@@ -1,0 +1,11 @@
+Patch
+{
+	include materials\models\csgo\bizon\bizon_body.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/custom/workshop/bizon_all_in"
+		"$bumpmap"				"csgoskins/Files/custom/workshop/bizon_all_in_normal"
+		"$phongboost"				"0.25"
+		"$envmaptint"				"[ .01 .01 .01 ]"
+	}
+}
