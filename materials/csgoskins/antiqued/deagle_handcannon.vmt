@@ -3,6 +3,13 @@ Patch
 	include materials\models\csgo\deagle\pist_deagle.vmt
 	replace
 	{
-		"$basetexture"				"csgoskins/Files/antiqued/handcannon"
+		"$basetexture"				"models/csgo/deagle/pist_deagle_skin"
+	}
+	insert
+	{
+		"$detail"				"csgoskins/Files/antiqued/handcannon"
+		"$detailscale"		"1"
+		"$detailblendmode" "4"
+		"$detailblendfactor" "1"
 	}
 }

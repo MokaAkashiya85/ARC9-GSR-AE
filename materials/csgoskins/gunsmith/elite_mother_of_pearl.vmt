@@ -1,0 +1,8 @@
+Patch
+{
+	include materials\models\csgo\elite\m9a1.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/gunsmith/mother_of_pearl_elite"
+	}
+}

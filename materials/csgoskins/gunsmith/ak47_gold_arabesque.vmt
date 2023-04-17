@@ -6,14 +6,10 @@ Patch
 		"$basetexture"				"csgoskins/Files/gunsmith/ak47_gold_arabesque"
 		"$bumpmap"				"csgoskins/Files/gunsmith/ak47_gold_arabesque_normal"
 		"$phongboost"				"0.25"
-		"$envmaptint"				"[ .01 .01 .01 ]"
+		"$normalmapalphaenvmapmask"              "0"
 		
-		// "$phongboost"				"1"
-		// "$envmaptint"				"[ .5 .35 .1 ]"
+		"$phongboost"				"1"
+		"$phongtint"				"[ 1 0 0 ]"
+		"$envmaptint"				"[ .35 .3 .1 ]"
 	}
-	// insert
-	// {
-		// "$phongtint"				"[.75 .45 .45]"
-		// "$phongexponent"			"100"
-	// }
 }

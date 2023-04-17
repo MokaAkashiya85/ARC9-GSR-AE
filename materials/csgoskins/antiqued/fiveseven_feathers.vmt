@@ -1,0 +1,8 @@
+Patch
+{
+	include materials\models\csgo\fiveseven\fiveseven.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/antiqued/workshop/57_feathers"
+	}
+}

@@ -1,6 +1,6 @@
 Patch
 {
-	include materials\models\csgo\glock\pist_glock18.vmt
+	include materials\models\csgo\elite\m9a1_skin.vmt
 	replace
 	{
 		"$basetexture"				"models/csgo/elite/m9a1_skin"

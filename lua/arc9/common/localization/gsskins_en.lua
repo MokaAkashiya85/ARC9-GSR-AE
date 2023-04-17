@@ -146,6 +146,14 @@ It has been given a bog oak stock and painted a white and green pinstripes.
 
 "Questioning Imogen is questioning me. Now Relax, have some scotch, and let's talk business" - The Father and The Phoenix Part 2]]
 ------------------------------------
+L[skin .. "well_travelled.printname"] = wpns .. "Jet Set"
+L[skin .. "well_travelled.compactname"] = "Jet Set"
+L[skin .. "well_travelled.description"] = collection.baggage .. "\n" .. [[
+
+Its stock has been wrapped in brown leather. This weapon has been to a lot of cities.
+
+"Anyone paying close attention will connect the dots and see what she did. We don't have much time to find a solution..." - A Father's Love Part 1]]
+------------------------------------
 L[skin .. "headshot.printname"] = wpns .. "Head Shot"
 L[skin .. "headshot.compactname"] = "Head Shot"
 L[skin .. "headshot.description"] = collection.revolution .. "\n" .. [[
@@ -646,6 +654,12 @@ A space art depiction of a cat has been custom painted over a black and purple b
 
 "The paws of creation"]]
 ------------------------------------
+L[skin .. "osiris.printname"] = wpns .. "Osiris"
+L[skin .. "osiris.compactname"] = "Osiris"
+L[skin .. "osiris.description"] = collection.breakout .. "\n" .. [[
+
+It has been custom painted with a high-tech design in black, white, and amber.]]
+------------------------------------
 
 -- [[ Gunsmith ]]
 L[skin .. "flasher.printname"] = wpns .. "Lumen"
@@ -804,6 +818,14 @@ It has brass parts that have been given an acid patina inspired by antique brass
 
 "Be prepared to encounter many thorns in the trials to come"]]
 ------------------------------------
+L[skin .. "pilot.printname"] = wpns .. "Pilot"
+L[skin .. "pilot.compactname"] = "Pilot"
+L[skin .. "pilot.description"] = collection.baggage .. "\n" .. [[
+
+It has a brass inlay of a pilot's wings.
+
+"Assume crash positions"]]
+------------------------------------
 L[skin .. "constable.printname"] = wpns .. "Directive"
 L[skin .. "constable.compactname"] = "Directive"
 L[skin .. "constable.description"] = collection.gamma2 .. "\n" .. [[
@@ -935,6 +957,14 @@ It has been engraved with skeletons, flowers and serpents.
 ------------------------------------
 
 -- [[ Custom ]]
+L[skin .. "season.printname"] = wpns .. "Black Limba"
+L[skin .. "season.compactname"] = "Black Limba"
+L[skin .. "season.description"] = collection.bravo .. "\n" .. [[
+
+This memento from Agency has a dark patina and grips of black limba wood.
+
+"Where classic construction meets modern aesthetics"]]
+------------------------------------
 L[skin .. "rally.printname"] = wpns .. "Twin Turbo"
 L[skin .. "rally.compactname"] = "Twin Turbo"
 L[skin .. "rally.description"] = collection.inferno_2018 .. "\n" .. [[
@@ -967,8 +997,30 @@ These berettas have been custom painted with a twisted, frightening depiction of
 
 "Sweet dreams..."]]
 ------------------------------------
+L[skin .. "urbanstorm.printname"] = wpns .. "Urban Shock"
+L[skin .. "urbanstorm.compactname"] = "Urban Shock"
+L[skin .. "urbanstorm.description"] = collection.chroma .. "\n" .. [[
+
+It has been custom painted with urban camo and blue accents.
+
+"With lightning always comes thunder"]]
+------------------------------------
+L[skin .. "retribution.printname"] = wpns .. "Retribution"
+L[skin .. "retribution.compactname"] = "Retribution"
+L[skin .. "retribution.description"] = collection.huntsman .. "\n" .. [[
+
+It has been custom painted in a military themed design.]]
+------------------------------------
 
 -- [[ Gunsmith ]]
+L[skin .. "mother_of_pearl.printname"] = wpns .. "Duelist"
+L[skin .. "mother_of_pearl.compactname"] = "Duelist"
+L[skin .. "mother_of_pearl.description"] = collection.glove .. "\n" .. [[
+
+Between the green dyed pearl handled grips, gryphon side plates, and laser etched slide; these pistols redefine elegance.
+
+"Face off and release the doves"]]
+------------------------------------
 L[skin .. "golden_venice.printname"] = wpns .. "Royal Consorts"
 L[skin .. "golden_venice.compactname"] = "Royal"
 L[skin .. "golden_venice.description"] = collection.glove .. "\n" .. [[
@@ -1154,6 +1206,12 @@ local wpns = wpn .. " | "
 local skin = "moka_csgo_skin_fiveseven_"
 
 -- [[ Antiqued ]]
+L[skin .. "feathers.printname"] = wpns .. "Fowl Play"
+L[skin .. "feathers.compactname"] = "Fowl Play"
+L[skin .. "feathers.description"] = collection.breakout .. "\n" .. [[
+
+It has been painted with a pattern of falling feathers.]]
+------------------------------------
 L[skin .. "scumbria2.printname"] = wpns .. "Scumbria"
 L[skin .. "scumbria2.compactname"] = "Scumbria"
 L[skin .. "scumbria2.description"] = collection.gamma2 .. "\n" .. [[

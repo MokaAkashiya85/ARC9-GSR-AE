@@ -7,7 +7,7 @@ local name = "medusa"
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
 ATT.PrintName = [[Medusa]]
 ATT.Description = [[]]
-ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
 ATT.Free = true
@@ -25,7 +25,7 @@ local name = "twine"
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
 ATT.PrintName = [[Worm God]]
 ATT.Description = [[]]
-ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
 ATT.Free = true
@@ -45,7 +45,7 @@ local name = "dragon"
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
 ATT.PrintName = [[Dragon Lore]]
 ATT.Description = [[]]
-ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
 ATT.Free = true
@@ -63,7 +63,7 @@ ARC9.LoadAttachment(ATT, "moka_csgo_skin_awp_" .. name)
 -- ATT.MenuCategory = "ARC9 - CSGO Attachments"
 -- ATT.PrintName = [[Corticera]]
 -- ATT.Description = [[]]
--- ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+-- ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 
 -- ATT.SortOrder = 0
 -- ATT.Free = true
@@ -81,7 +81,7 @@ local name = "chroma_pink"
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
 ATT.PrintName = [[Chromatic Aberration]]
 ATT.Description = [[]]
-ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
 ATT.Free = true
@@ -99,7 +99,7 @@ local name = "hannya"
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
 ATT.PrintName = [[Oni Taiji]]
 ATT.Description = [[]]
-ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
 ATT.Free = true
@@ -117,7 +117,7 @@ local name = "hyper_beast"
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
 ATT.PrintName = [[Hyper Beast]]
 ATT.Description = [[]]
-ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
 ATT.Free = true
@@ -135,7 +135,7 @@ local name = "mastery"
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
 ATT.PrintName = [[Elite Build]]
 ATT.Description = [[]]
-ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
 ATT.Free = true
@@ -153,7 +153,7 @@ local name = "neonoir"
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
 ATT.PrintName = [[Neo-Noir]]
 ATT.Description = [[]]
-ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
 ATT.Free = true
@@ -171,7 +171,7 @@ local name = "psychopath"
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
 ATT.PrintName = [[Fever Dream]]
 ATT.Description = [[]]
-ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
 ATT.Free = true
@@ -189,7 +189,7 @@ local name = "vein"
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
 ATT.PrintName = [[Capillary]]
 ATT.Description = [[]]
-ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
 ATT.Free = true
@@ -207,7 +207,7 @@ local name = "viper"
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
 ATT.PrintName = [[Atheris]]
 ATT.Description = [[]]
-ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
 ATT.Free = true
@@ -225,7 +225,7 @@ local name = "virus"
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
 ATT.PrintName = [[Containment Breach]]
 ATT.Description = [[]]
-ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
 ATT.Free = true
@@ -243,7 +243,7 @@ local name = "wildfire"
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
 ATT.PrintName = [[Wildfire]]
 ATT.Description = [[]]
-ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
 ATT.Free = true
@@ -261,7 +261,7 @@ local name = "elegantred"
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
 ATT.PrintName = [[Redline]]
 ATT.Description = [[]]
-ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
 ATT.Free = true
@@ -279,7 +279,7 @@ local name = "zone9"
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
 ATT.PrintName = [[Asiimov]]
 ATT.Description = [[]]
-ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
 ATT.Free = true
@@ -299,7 +299,7 @@ local name = "enamel"
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
 ATT.PrintName = [[The Prince]]
 ATT.Description = [[]]
-ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
 ATT.Free = true
@@ -317,7 +317,7 @@ local name = "gungnir"
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
 ATT.PrintName = [[Gungnir]]
 ATT.Description = [[]]
-ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
 ATT.Free = true
@@ -335,7 +335,7 @@ local name = "hydra"
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
 ATT.PrintName = [[Desert Hydra]]
 ATT.Description = [[]]
-ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
 ATT.Free = true
@@ -353,7 +353,7 @@ local name = "death"
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
 ATT.PrintName = [[Mortis]]
 ATT.Description = [[]]
-ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
 ATT.Free = true
@@ -371,7 +371,7 @@ local name = "exoskeleton"
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
 ATT.PrintName = [[Exoskeleton]]
 ATT.Description = [[]]
-ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
 ATT.Free = true
@@ -389,7 +389,7 @@ local name = "limbo_snake"
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
 ATT.PrintName = [[Duality]]
 ATT.Description = [[]]
-ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
 ATT.Free = true
@@ -407,7 +407,7 @@ local name = "phobos"
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
 ATT.PrintName = [[Phobos]]
 ATT.Description = [[]]
-ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
 ATT.Free = true

@@ -1,0 +1,15 @@
+Patch
+{
+	include materials\models\csgo\elite\m9a1_skin.vmt
+	replace
+	{
+		"$basetexture"				"models/csgo/elite/m9a1_skin"
+	}
+	insert
+	{
+		"$detail"				"csgoskins/Files/custom/season_elites"
+		"$detailscale"		"1"
+		"$detailblendmode" "4"
+		"$detailblendfactor" ".5"
+	}
+}

@@ -9,7 +9,7 @@ local name = "etched"
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
 ATT.PrintName = [[Victoria]]
 ATT.Description = [[]]
-ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+ATT.Icon = Material("csgoskins/Icons/cz75_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
 ATT.Free = true
@@ -29,7 +29,7 @@ local name = "cerakote"
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
 ATT.PrintName = [[Distressed]]
 ATT.Description = [[]]
-ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+ATT.Icon = Material("csgoskins/Icons/cz75_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
 ATT.Free = true
@@ -47,7 +47,7 @@ local name = "eco"
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
 ATT.PrintName = [[Eco]]
 ATT.Description = [[]]
-ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+ATT.Icon = Material("csgoskins/Icons/cz75_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
 ATT.Free = true
@@ -65,7 +65,7 @@ local name = "whirlwind"
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
 ATT.PrintName = [[Circaetus]]
 ATT.Description = [[]]
-ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+ATT.Icon = Material("csgoskins/Icons/cz75_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
 ATT.Free = true
@@ -83,7 +83,7 @@ local name = "chastizer"
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
 ATT.PrintName = [[Yellow Jacket]]
 ATT.Description = [[]]
-ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+ATT.Icon = Material("csgoskins/Icons/cz75_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
 ATT.Free = true
@@ -101,7 +101,7 @@ local name = "tiger"
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
 ATT.PrintName = [[Tigris]]
 ATT.Description = [[]]
-ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+ATT.Icon = Material("csgoskins/Icons/cz75_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
 ATT.Free = true
@@ -119,7 +119,7 @@ local name = "precision"
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
 ATT.PrintName = [[Pole Position]]
 ATT.Description = [[]]
-ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+ATT.Icon = Material("csgoskins/Icons/cz75_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
 ATT.Free = true
@@ -139,7 +139,7 @@ local name = "train"
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
 ATT.PrintName = [[Syndicate]]
 ATT.Description = [[]]
-ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+ATT.Icon = Material("csgoskins/Icons/cz75_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
 ATT.Free = true
@@ -157,7 +157,7 @@ local name = "snakes_purple"
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
 ATT.PrintName = [[Xiangliu]]
 ATT.Description = [[]]
-ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+ATT.Icon = Material("csgoskins/Icons/cz75_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
 ATT.Free = true
@@ -175,7 +175,7 @@ local name = "redastor"
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
 ATT.PrintName = [[Red Astor]]
 ATT.Description = [[]]
-ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+ATT.Icon = Material("csgoskins/Icons/cz75_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
 ATT.Free = true
@@ -193,7 +193,7 @@ local name = "tacticat"
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
 ATT.PrintName = [[Tacticat]]
 ATT.Description = [[]]
-ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+ATT.Icon = Material("csgoskins/Icons/cz75_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
 ATT.Free = true
@@ -211,7 +211,7 @@ local name = "tread"
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
 ATT.PrintName = [[Imprint]]
 ATT.Description = [[]]
-ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+ATT.Icon = Material("csgoskins/Icons/cz75_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
 ATT.Free = true
@@ -229,7 +229,7 @@ local name = "vendetta"
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
 ATT.PrintName = [[Vendetta]]
 ATT.Description = [[]]
-ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+ATT.Icon = Material("csgoskins/Icons/cz75_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
 ATT.Free = true
