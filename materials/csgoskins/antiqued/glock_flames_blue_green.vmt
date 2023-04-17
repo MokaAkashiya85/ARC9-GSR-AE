@@ -1,0 +1,15 @@
+Patch
+{
+	include materials\models\csgo\glock\pist_glock18.vmt
+	replace
+	{
+		"$basetexture"				"models/csgo/glock/pist_glock18_skin"
+	}
+	insert
+	{
+		"$detail"				"csgoskins/Files/antiqued/workshop/glock_flames_blue_green"
+		"$detailscale"		"1"
+		"$detailblendmode" "4"
+		"$detailblendfactor" ".5"
+	}
+}

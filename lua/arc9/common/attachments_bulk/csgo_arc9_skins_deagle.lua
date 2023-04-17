@@ -7,14 +7,14 @@ ATT = {}
 local name = "etched"
 
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
-ATT.PrintName = [[Cartel]]
+ATT.PrintName = [[Heirloom]]
 ATT.Description = [[]]
 ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Antiqued"
+ATT.Folder = "CS:GO Skins/Restricted"
 
 ATT.Category = {"go_skins_deagle"}
 ATT.Material = "csgoskins/antiqued/deagle_" .. name
@@ -32,7 +32,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Antiqued"
+ATT.Folder = "CS:GO Skins/Restricted"
 
 ATT.Category = {"go_skins_deagle"}
 ATT.Material = "csgoskins/antiqued/deagle_" .. name
@@ -50,7 +50,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Antiqued"
+ATT.Folder = "CS:GO Skins/Restricted"
 
 ATT.Category = {"go_skins_deagle"}
 ATT.Material = "csgoskins/antiqued/deagle_" .. name
@@ -68,7 +68,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Antiqued"
+ATT.Folder = "CS:GO Skins/Mil-Spec"
 
 ATT.Category = {"go_skins_deagle"}
 ATT.Material = "csgoskins/antiqued/deagle_" .. name
@@ -86,7 +86,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Antiqued"
+ATT.Folder = "CS:GO Skins/Restricted"
 
 ATT.Category = {"go_skins_deagle"}
 ATT.Material = "csgoskins/antiqued/deagle_" .. name
@@ -104,7 +104,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Antiqued"
+ATT.Folder = "CS:GO Skins/Classified"
 
 ATT.Category = {"go_skins_deagle"}
 ATT.Material = "csgoskins/antiqued/deagle_" .. name
@@ -124,7 +124,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Custom"
+ATT.Folder = "CS:GO Skins/Covert"
 
 ATT.Category = {"go_skins_deagle"}
 ATT.Material = "csgoskins/custom/deagle_" .. name
@@ -142,7 +142,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Custom"
+ATT.Folder = "CS:GO Skins/Restricted"
 
 ATT.Category = {"go_skins_deagle"}
 ATT.Material = "csgoskins/custom/deagle_" .. name
@@ -160,7 +160,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Custom"
+ATT.Folder = "CS:GO Skins/Classified"
 
 ATT.Category = {"go_skins_deagle"}
 ATT.Material = "csgoskins/custom/deagle_" .. name
@@ -178,7 +178,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Custom"
+ATT.Folder = "CS:GO Skins/Covert"
 
 ATT.Category = {"go_skins_deagle"}
 ATT.Material = "csgoskins/custom/deagle_" .. name
@@ -196,7 +196,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Custom"
+ATT.Folder = "CS:GO Skins/Mil-Spec"
 
 ATT.Category = {"go_skins_deagle"}
 ATT.Material = "csgoskins/custom/deagle_" .. name
@@ -214,7 +214,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Custom"
+ATT.Folder = "CS:GO Skins/Mil-Spec"
 
 ATT.Category = {"go_skins_deagle"}
 ATT.Material = "csgoskins/custom/deagle_" .. name
@@ -234,7 +234,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Gunsmith"
+ATT.Folder = "CS:GO Skins/Classified"
 
 ATT.Category = {"go_skins_deagle"}
 ATT.Material = "csgoskins/gunsmith/deagle_" .. name
@@ -252,7 +252,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Gunsmith"
+ATT.Folder = "CS:GO Skins/Covert"
 
 ATT.Category = {"go_skins_deagle"}
 ATT.Material = "csgoskins/gunsmith/deagle_" .. name
@@ -270,7 +270,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Gunsmith"
+ATT.Folder = "CS:GO Skins/Restricted"
 
 ATT.Category = {"go_skins_deagle"}
 ATT.Material = "csgoskins/gunsmith/deagle_" .. name
@@ -288,7 +288,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Gunsmith"
+ATT.Folder = "CS:GO Skins/Classified"
 
 ATT.Category = {"go_skins_deagle"}
 ATT.Material = "csgoskins/gunsmith/deagle_" .. name

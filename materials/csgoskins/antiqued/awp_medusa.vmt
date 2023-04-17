@@ -1,15 +1,15 @@
 Patch
 {
 	include materials\models\csgo\awp\awp.vmt
-	// insert
-	// {
-		// "$detail"				"csgoskins/Files/antiqued/workshop/awp_twine"
-		// "$detailblendmode"		"4"
-		// "$detailscale"			"1"
-        // "$detailblendfactor"	"1"
-	// }
 	replace
 	{
-		"$basetexture"				"csgoskins/Files/antiqued/medusa_awp"
+		"$basetexture"				"models/csgo/awp/awp_skin"
+	}
+	insert
+	{
+		"$detail"				"csgoskins/Files/antiqued/medusa_awp"
+		"$detailscale"		"1"
+		"$detailblendmode" "4"
+		"$detailblendfactor" ".5"
 	}
 }

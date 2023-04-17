@@ -1,11 +1,18 @@
 Patch
 {
-	include materials\models\csgo\cz75\pist_cz_75_body.vmt
+	include materials\models\csgo\cz75\pist_cz_75.vmt
 	replace
 	{
-		"$basetexture"				"csgoskins/Files/custom/workshop/cz75_whirlwind"
+		"$basetexture"				"models/csgo/cz75/pist_cz_75_skin"
 		"$bumpmap"				"csgoskins/Files/custom/workshop/cz75_whirlwind_normal"
 		"$phongboost"				"0.25"
 		"$envmaptint"				"[ .01 .01 .01 ]"
+	}
+	insert
+	{
+		"$detail"				"csgoskins/Files/custom/workshop/cz75_whirlwind"
+		"$detailscale"		"1"
+		"$detailblendmode" "4"
+		"$detailblendfactor" ".5"
 	}
 }

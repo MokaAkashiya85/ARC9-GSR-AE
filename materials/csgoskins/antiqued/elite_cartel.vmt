@@ -1,11 +1,18 @@
 Patch
 {
-	include materials\models\csgo\elite\m9a1.vmt
+	include materials\models\csgo\glock\pist_glock18.vmt
 	replace
 	{
-		"$basetexture"				"csgoskins/Files/antiqued/workshop/dualberettas_cartel"
+		"$basetexture"				"models/csgo/elite/m9a1_skin"
 		"$bumpmap"				"csgoskins/Files/antiqued/workshop/dual_berettas_cartel_normal"
 		"$phongboost"				"0.25"
 		"$envmaptint"				"[ .01 .01 .01 ]"
+	}
+	insert
+	{
+		"$detail"				"csgoskins/Files/antiqued/workshop/dualberettas_cartel"
+		"$detailscale"		"1"
+		"$detailblendmode" "4"
+		"$detailblendfactor" ".5"
 	}
 }

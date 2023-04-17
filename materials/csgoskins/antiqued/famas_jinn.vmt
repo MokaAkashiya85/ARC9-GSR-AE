@@ -4,10 +4,13 @@ Patch
 	replace
 	{
 		"$basetexture"				"models/csgo/famas/rif_famas_skin"
+		"$bumpmap"				"csgoskins/Files/antiqued/workshop/jinn_normal"
+		"$phongboost"				"0.25"
+		"$envmaptint"				"[ .01 .01 .01 ]"
 	}
 	insert
 	{
-		"$detail"				"csgoskins/Files/antiqued/workshop/staffsgt_famas"
+		"$detail"				"csgoskins/Files/antiqued/workshop/jinn"
 		"$detailscale"		"1"
 		"$detailblendmode" "4"
 		"$detailblendfactor" ".5"

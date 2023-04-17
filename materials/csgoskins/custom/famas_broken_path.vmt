@@ -3,6 +3,13 @@ Patch
 	include materials\models\csgo\famas\rif_famas.vmt
 	replace
 	{
-		"$basetexture"				"csgoskins/Files/custom/broken_path_famas"
+		"$basetexture"				"models/csgo/famas/rif_famas_skin"
+	}
+	insert
+	{
+		"$detail"				"csgoskins/Files/custom/broken_path_famas"
+		"$detailscale"		"1"
+		"$detailblendmode" "4"
+		"$detailblendfactor" ".5"
 	}
 }

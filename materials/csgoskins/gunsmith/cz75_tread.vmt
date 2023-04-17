@@ -1,11 +1,18 @@
 Patch
 {
-	include materials\models\csgo\cz75\pist_cz_75_body.vmt
+	include materials\models\csgo\cz75\pist_cz_75.vmt
 	replace
 	{
-		"$basetexture"				"csgoskins/Files/gunsmith/workshop/cz75_tread"
+		"$basetexture"				"models/csgo/cz75/pist_cz_75_skin"
 		"$bumpmap"				"csgoskins/Files/gunsmith/workshop/cz75_tread_normal"
 		"$phongboost"				"0.25"
 		"$envmaptint"				"[ .01 .01 .01 ]"
+	}
+	insert
+	{
+		"$detail"				"csgoskins/Files/gunsmith/workshop/cz75_tread"
+		"$detailscale"		"1"
+		"$detailblendmode" "4"
+		"$detailblendfactor" ".5"
 	}
 }

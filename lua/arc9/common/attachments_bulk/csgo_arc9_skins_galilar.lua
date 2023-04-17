@@ -14,7 +14,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Custom"
+ATT.Folder = "CS:GO Skins/Restricted"
 
 ATT.Category = {"go_skins_galilar"}
 ATT.Material = "csgoskins/custom/galilar_" .. name
@@ -32,7 +32,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Custom"
+ATT.Folder = "CS:GO Skins/Covert"
 
 ATT.Category = {"go_skins_galilar"}
 ATT.Material = "csgoskins/custom/galilar_" .. name
@@ -50,7 +50,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Custom"
+ATT.Folder = "CS:GO Skins/Mil-Spec"
 
 ATT.Category = {"go_skins_galilar"}
 ATT.Material = "csgoskins/custom/galilar_" .. name
@@ -68,7 +68,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Custom"
+ATT.Folder = "CS:GO Skins/Classified"
 
 ATT.Category = {"go_skins_galilar"}
 ATT.Material = "csgoskins/custom/galilar_" .. name
@@ -86,7 +86,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Custom"
+ATT.Folder = "CS:GO Skins/Classified"
 
 ATT.Category = {"go_skins_galilar"}
 ATT.Material = "csgoskins/custom/galilar_" .. name
@@ -104,7 +104,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Custom"
+ATT.Folder = "CS:GO Skins/Mil-Spec"
 
 ATT.Category = {"go_skins_galilar"}
 ATT.Material = "csgoskins/custom/galilar_" .. name
@@ -122,7 +122,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Custom"
+ATT.Folder = "CS:GO Skins/Classified"
 
 ATT.Category = {"go_skins_galilar"}
 ATT.Material = "csgoskins/custom/galilar_" .. name
@@ -140,7 +140,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Custom"
+ATT.Folder = "CS:GO Skins/Mil-Spec"
 
 ATT.Category = {"go_skins_galilar"}
 ATT.Material = "csgoskins/custom/galilar_" .. name
@@ -160,7 +160,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Gunsmith"
+ATT.Folder = "CS:GO Skins/Restricted"
 
 ATT.Category = {"go_skins_galilar"}
 ATT.Material = "csgoskins/gunsmith/galilar_" .. name
@@ -178,7 +178,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Gunsmith"
+ATT.Folder = "CS:GO Skins/Restricted"
 
 ATT.Category = {"go_skins_galilar"}
 ATT.Material = "csgoskins/gunsmith/galilar_" .. name
@@ -196,7 +196,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Gunsmith"
+ATT.Folder = "CS:GO Skins/Restricted"
 
 ATT.Category = {"go_skins_galilar"}
 ATT.Material = "csgoskins/gunsmith/galilar_" .. name
@@ -214,7 +214,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Gunsmith"
+ATT.Folder = "CS:GO Skins/Mil-Spec"
 
 ATT.Category = {"go_skins_galilar"}
 ATT.Material = "csgoskins/gunsmith/galilar_" .. name

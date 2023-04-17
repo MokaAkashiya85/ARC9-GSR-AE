@@ -14,7 +14,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Antiqued"
+ATT.Folder = "CS:GO Skins/Mil-Spec"
 
 ATT.Category = {"go_skins_fiveseven"}
 ATT.Material = "csgoskins/antiqued/fiveseven_" .. name
@@ -34,7 +34,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Custom"
+ATT.Folder = "CS:GO Skins/Classified"
 
 ATT.Category = {"go_skins_fiveseven"}
 ATT.Material = "csgoskins/custom/fiveseven_" .. name
@@ -52,7 +52,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Custom"
+ATT.Folder = "CS:GO Skins/Covert"
 
 ATT.Category = {"go_skins_fiveseven"}
 ATT.Material = "csgoskins/custom/fiveseven_" .. name
@@ -70,7 +70,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Custom"
+ATT.Folder = "CS:GO Skins/Mil-Spec"
 
 ATT.Category = {"go_skins_fiveseven"}
 ATT.Material = "csgoskins/custom/fiveseven_" .. name
@@ -88,7 +88,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Custom"
+ATT.Folder = "CS:GO Skins/Classified"
 
 ATT.Category = {"go_skins_fiveseven"}
 ATT.Material = "csgoskins/custom/fiveseven_" .. name
@@ -106,7 +106,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Custom"
+ATT.Folder = "CS:GO Skins/Mil-Spec"
 
 ATT.Category = {"go_skins_fiveseven"}
 ATT.Material = "csgoskins/custom/fiveseven_" .. name
@@ -124,7 +124,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Custom"
+ATT.Folder = "CS:GO Skins/Restricted"
 
 ATT.Category = {"go_skins_fiveseven"}
 ATT.Material = "csgoskins/custom/fiveseven_" .. name
@@ -142,7 +142,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Custom"
+ATT.Folder = "CS:GO Skins/Classified"
 
 ATT.Category = {"go_skins_fiveseven"}
 ATT.Material = "csgoskins/custom/fiveseven_" .. name
@@ -160,7 +160,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Custom"
+ATT.Folder = "CS:GO Skins/Restricted"
 
 ATT.Category = {"go_skins_fiveseven"}
 ATT.Material = "csgoskins/custom/fiveseven_" .. name
@@ -178,7 +178,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Custom"
+ATT.Folder = "CS:GO Skins/Covert"
 
 ATT.Category = {"go_skins_fiveseven"}
 ATT.Material = "csgoskins/custom/fiveseven_" .. name
@@ -196,7 +196,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Custom"
+ATT.Folder = "CS:GO Skins/Restricted"
 
 ATT.Category = {"go_skins_fiveseven"}
 ATT.Material = "csgoskins/custom/fiveseven_" .. name
@@ -214,7 +214,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Custom"
+ATT.Folder = "CS:GO Skins/Mil-Spec"
 
 ATT.Category = {"go_skins_fiveseven"}
 ATT.Material = "csgoskins/custom/fiveseven_" .. name
@@ -232,7 +232,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Custom"
+ATT.Folder = "CS:GO Skins/Mil-Spec"
 
 ATT.Category = {"go_skins_fiveseven"}
 ATT.Material = "csgoskins/custom/fiveseven_" .. name
@@ -252,7 +252,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Gunsmith"
+ATT.Folder = "CS:GO Skins/Restricted"
 
 ATT.Category = {"go_skins_fiveseven"}
 ATT.Material = "csgoskins/gunsmith/fiveseven_" .. name
@@ -270,7 +270,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Gunsmith"
+ATT.Folder = "CS:GO Skins/Mil-Spec"
 
 ATT.Category = {"go_skins_fiveseven"}
 ATT.Material = "csgoskins/gunsmith/fiveseven_" .. name

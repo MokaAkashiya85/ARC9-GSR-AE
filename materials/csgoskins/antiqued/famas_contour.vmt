@@ -3,6 +3,13 @@ Patch
 	include materials\models\csgo\famas\rif_famas.vmt
 	replace
 	{
-		"$basetexture"				"csgoskins/Files/antiqued/workshop/famas_contour"
+		"$basetexture"				"models/csgo/famas/rif_famas_skin"
+	}
+	insert
+	{
+		"$detail"				"csgoskins/Files/antiqued/workshop/famas_contour"
+		"$detailscale"		"1"
+		"$detailblendmode" "4"
+		"$detailblendfactor" ".5"
 	}
 }

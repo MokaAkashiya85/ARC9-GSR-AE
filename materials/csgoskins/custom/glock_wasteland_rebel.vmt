@@ -1,0 +1,15 @@
+Patch
+{
+	include materials\models\csgo\glock\pist_glock18.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/custom/workshop/glock_wasteland_rebel"
+	}
+	// insert
+	// {
+		// "$detail"				"csgoskins/Files/custom/workshop/glock_eyecontact"
+		// "$detailscale"		"1"
+		// "$detailblendmode" "4"
+		// "$detailblendfactor" "1"
+	// }
+}

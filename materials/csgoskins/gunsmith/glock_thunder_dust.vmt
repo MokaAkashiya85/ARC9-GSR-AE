@@ -1,0 +1,11 @@
+Patch
+{
+	include materials\models\csgo\glock\pist_glock18.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/gunsmith/workshop/glock_thunder_dust"
+		"$bumpmap"				"csgoskins/Files/gunsmith/workshop/glock_thunder_dust_normal"
+		"$phongboost"				"0.25"
+		"$envmaptint"				"[ .01 .01 .01 ]"
+	}
+}

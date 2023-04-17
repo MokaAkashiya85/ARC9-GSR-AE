@@ -14,7 +14,25 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Antiqued"
+ATT.Folder = "CS:GO Skins/Restricted"
+
+ATT.Category = {"go_skins_famas"}
+ATT.Material = "csgoskins/antiqued/famas_" .. name
+
+ARC9.LoadAttachment(ATT, "moka_csgo_skin_famas_" .. name)
+------------------------------------------------------------------
+ATT = {}
+local name = "jinn"
+
+ATT.MenuCategory = "ARC9 - CSGO Attachments"
+ATT.PrintName = [[Djinn]]
+ATT.Description = [[]]
+ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+
+ATT.SortOrder = 0
+ATT.Free = true
+
+ATT.Folder = "CS:GO Skins/Classified"
 
 ATT.Category = {"go_skins_famas"}
 ATT.Material = "csgoskins/antiqued/famas_" .. name
@@ -32,7 +50,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Antiqued"
+ATT.Folder = "CS:GO Skins/Restricted"
 
 ATT.Category = {"go_skins_famas"}
 ATT.Material = "csgoskins/antiqued/famas_" .. name
@@ -41,23 +59,23 @@ ARC9.LoadAttachment(ATT, "moka_csgo_skin_famas_" .. name)
 ------------------------------------------------------------------
 -- [[ Custom ]]
 ------------------------------------------------------------------
-ATT = {}
-local name = "ascii"
+-- ATT = {}
+-- local name = "ascii"
 
-ATT.MenuCategory = "ARC9 - CSGO Attachments"
-ATT.PrintName = [[<Unused> Decyphered]]
-ATT.Description = [[]]
-ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
+-- ATT.MenuCategory = "ARC9 - CSGO Attachments"
+-- ATT.PrintName = [[<Unused> Decyphered]]
+-- ATT.Description = [[]]
+-- ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 
-ATT.SortOrder = 0
-ATT.Free = true
+-- ATT.SortOrder = 0
+-- ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Custom"
+-- ATT.Folder = "CS:GO Skins/???"
 
-ATT.Category = {"go_skins_famas"}
-ATT.Material = "csgoskins/custom/famas_" .. name
+-- ATT.Category = {"go_skins_famas"}
+-- ATT.Material = "csgoskins/custom/famas_" .. name
 
-ARC9.LoadAttachment(ATT, "moka_csgo_skin_famas_" .. name)
+-- ARC9.LoadAttachment(ATT, "moka_csgo_skin_famas_" .. name)
 ------------------------------------------------------------------
 ATT = {}
 local name = "broken_path"
@@ -70,7 +88,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Custom"
+ATT.Folder = "CS:GO Skins/Classified"
 
 ATT.Category = {"go_skins_famas"}
 ATT.Material = "csgoskins/custom/famas_" .. name
@@ -88,7 +106,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Custom"
+ATT.Folder = "CS:GO Skins/Mil-Spec"
 
 ATT.Category = {"go_skins_famas"}
 ATT.Material = "csgoskins/custom/famas_" .. name
@@ -106,7 +124,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Custom"
+ATT.Folder = "CS:GO Skins/Mil-Spec"
 
 ATT.Category = {"go_skins_famas"}
 ATT.Material = "csgoskins/custom/famas_" .. name
@@ -124,7 +142,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Custom"
+ATT.Folder = "CS:GO Skins/Classified"
 
 ATT.Category = {"go_skins_famas"}
 ATT.Material = "csgoskins/custom/famas_" .. name
@@ -142,7 +160,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Custom"
+ATT.Folder = "CS:GO Skins/Restricted"
 
 ATT.Category = {"go_skins_famas"}
 ATT.Material = "csgoskins/custom/famas_" .. name
@@ -162,7 +180,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Gunsmith"
+ATT.Folder = "CS:GO Skins/Mil-Spec"
 
 ATT.Category = {"go_skins_famas"}
 ATT.Material = "csgoskins/gunsmith/famas_" .. name
@@ -180,7 +198,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Gunsmith"
+ATT.Folder = "CS:GO Skins/Covert"
 
 ATT.Category = {"go_skins_famas"}
 ATT.Material = "csgoskins/gunsmith/famas_" .. name
@@ -198,7 +216,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Gunsmith"
+ATT.Folder = "CS:GO Skins/Classified"
 
 ATT.Category = {"go_skins_famas"}
 ATT.Material = "csgoskins/gunsmith/famas_" .. name
@@ -216,7 +234,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Gunsmith"
+ATT.Folder = "CS:GO Skins/Covert"
 
 ATT.Category = {"go_skins_famas"}
 ATT.Material = "csgoskins/gunsmith/famas_" .. name
@@ -234,7 +252,7 @@ ATT.Icon = Material("entities/attachs/go_etc_skin.png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Gunsmith"
+ATT.Folder = "CS:GO Skins/Classified"
 
 ATT.Category = {"go_skins_famas"}
 ATT.Material = "csgoskins/gunsmith/famas_" .. name

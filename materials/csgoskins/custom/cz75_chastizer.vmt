@@ -1,8 +1,15 @@
 Patch
 {
-	include materials\models\csgo\cz75\pist_cz_75_body.vmt
+	include materials\models\csgo\cz75\pist_cz_75.vmt
 	replace
 	{
-		"$basetexture"				"csgoskins/Files/custom/workshop/cz75a_chastizer"
+		"$basetexture"				"models/csgo/cz75/pist_cz_75_skin"
+	}
+	insert
+	{
+		"$detail"				"csgoskins/Files/custom/workshop/cz75a_chastizer"
+		"$detailscale"		"1"
+		"$detailblendmode" "4"
+		"$detailblendfactor" ".5"
 	}
 }

@@ -1,0 +1,11 @@
+Patch
+{
+	include materials\models\csgo\glock\pist_glock18.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/gunsmith/workshop/glock_polymer"
+		"$bumpmap"				"csgoskins/Files/gunsmith/workshop/glock_polymer_normal"
+		"$phongboost"				"0.25"
+		"$envmaptint"				"[ .01 .01 .01 ]"
+	}
+}

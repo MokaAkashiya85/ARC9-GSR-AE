@@ -1,0 +1,8 @@
+Patch
+{
+	include materials\models\csgo\glock\pist_glock18.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/custom/workshop/liquescent"
+	}
+}
