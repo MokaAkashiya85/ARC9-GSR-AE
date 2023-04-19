@@ -1,0 +1,11 @@
+Patch
+{
+	include materials\models\csgo\m4a4\rif_m4a1.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/gunsmith/workshop/m4a4_chopper_ghost"
+		"$bumpmap"				"csgoskins/Files/gunsmith/workshop/m4a4_chopper_ghost_normal"
+		"$phongboost"				"0.25"
+		"$envmaptint"				"[ .01 .01 .01 ]"
+	}
+}

@@ -61,8 +61,9 @@ clutch = "The Clutch Collection", -- community_19
 horizon = "The Horizon Collection", -- community_20
 canals = "The Canals Collection",
 stmarc = "The St. Marc Collection",
-inferno_2018 = "The 2018 Inferno Collection",
+inferno_2018 = "The 2018 Inferno Collection", -- inferno_2
 norse = "The Norse Collection",
+nuke_2018 = "The 2018 Nuke Collection", -- nuke_2
 dangerzone = "The Danger Zone Collection", -- community_21
 xray = "The X-Ray Collection", -- xraymachine
 blacksire = "The Blacksite Collection",
@@ -1706,8 +1707,353 @@ It has lost souls custom painted on the slide.
 "First it pierces the shroud, then it pierces the shadow"]]
 ------------------------------------
 
+-- [[ M4A1-S ]]
+local wpn = "M4A1-S"
+local wpns = wpn .. " | "
+local skin = "moka_csgo_skin_m4a1_"
+
+-- [[ Antiqued ]]
+L[skin .. "basilisk.printname"] = wpns .. "Basilisk"
+L[skin .. "basilisk.compactname"] = "Basilisk"
+L[skin .. "basilisk.description"] = collection.vanguard .. "\n" .. [[
+
+It has been etched with a basilisk.
+
+"It's rude to stare, but war isn't the time for pleasantries"]]
+------------------------------------
+
+-- [[ Custom ]]
+L[skin .. "silence.printname"] = wpns .. "Master Piece"
+L[skin .. "silence.compactname"] = "Master Piece"
+L[skin .. "silence.description"] = collection.overpass .. "\n" .. [[
+
+It has been custom painted with wildstyle graffiti.]]
+------------------------------------
+L[skin .. "snake.printname"] = wpns .. "Welcome to the Jungle"
+L[skin .. "snake.compactname"] = "Jungle"
+L[skin .. "snake.description"] = collection.ancient .. "\n" .. [[
+
+This custom paint job features ancient iconography and a golden pit viper before a dusk-tinted jungle background.
+
+"Strike without warning"]]
+------------------------------------
+L[skin .. "hyper_beast.printname"] = wpns .. "Hyper Beast"
+L[skin .. "hyper_beast.compactname"] = "Hyper Beast"
+L[skin .. "hyper_beast.description"] = collection.chroma2 .. "\n" .. [[
+
+It has been custom painted with a beastly creature in psychadelic colours.
+
+"You really want to impress me Booth? Make this black light sensitive" - Rona Sabri, Rising Star]]
+------------------------------------
+L[skin .. "ct_elegant_update.printname"] = wpns .. "Guardian"
+L[skin .. "ct_elegant_update.compactname"] = "Guardian"
+L[skin .. "ct_elegant_update.description"] = collection.winteroffensive .. "\n" .. [[
+
+It has been painted cobalt blue and stenciled with the CT logo on the magazine.
+
+"I don't have to like you, I have to keep you safe" - Carmen Cocinero, Extraction Expert]]
+------------------------------------
+L[skin .. "cyrex.printname"] = wpns .. "Cyrex"
+L[skin .. "cyrex.compactname"] = "Cyrex"
+L[skin .. "cyrex.description"] = collection.breakout .. "\n" .. [[
+
+It has been custom painted with a high-tech design in black, white, and red.]]
+------------------------------------
+L[skin .. "flashback.printname"] = wpns .. "Flashback"
+L[skin .. "flashback.compactname"] = "Flashback"
+L[skin .. "flashback.description"] = collection.glove .. "\n" .. [[
+
+It has been hand painted in an attempt to make a suggestion about the duality of man.
+
+"For the joker in all of us"]]
+------------------------------------
+L[skin .. "csgo2048.printname"] = wpns .. "Player Two"
+L[skin .. "csgo2048.compactname"] = "Player Two"
+L[skin .. "csgo2048.description"] = collection.prisma2 .. "\n" .. [[
+
+It has been custom painted with bright colors and features animated versions of a GIGN CT and Pop Dog.
+
+"Press Start..."]]
+------------------------------------
+L[skin .. "feeding_frenzy.printname"] = wpns .. "Emphorosaur-S"
+L[skin .. "feeding_frenzy.compactname"] = "Emphorosaur"
+L[skin .. "feeding_frenzy.description"] = collection.revolution .. "\n" .. [[
+
+It has been custom painted to look like a dinosaur is clawing through the side of the weapon.
+
+"Feeding frenzy"]]
+------------------------------------
+L[skin .. "metritera.printname"] = wpns .. "Briefing"
+L[skin .. "metritera.compactname"] = "Briefing"
+L[skin .. "metritera.description"] = collection.hydra .. "\n" .. [[
+
+It has been given a hydrographic of a topographical map.
+
+"Everybody has a plan…"]]
+------------------------------------
+L[skin .. "nightmare.printname"] = wpns .. "Nightmare"
+L[skin .. "nightmare.compactname"] = "Nightmare"
+L[skin .. "nightmare.description"] = collection.horizon .. "\n" .. [[
+
+A custom paint job depicting a frightening nocturnal visitor has been applied.
+
+"Next time set an alarm"]]
+------------------------------------
+L[skin .. "printstream.printname"] = wpns .. "Printstream"
+L[skin .. "printstream.compactname"] = "Printstream"
+L[skin .. "printstream.description"] = collection.brokenfang .. "\n" .. [[
+
+It has been custom painted with a stark black and white design and finished with pearlescent highlights.
+
+"WHITE_1; BLACK_1; PEARLESCENT_1; SILENCED_1;"]]
+------------------------------------
+L[skin .. "soultaker.printname"] = wpns .. "Chantico's Fire"
+L[skin .. "soultaker.compactname"] = "Chantico's"
+L[skin .. "soultaker.description"] = collection.chroma3 .. "\n" .. [[
+
+It has been hand painted in vibrant colors and accentuated by a smiley face on the stock.
+
+"Protect what is yours"]]
+------------------------------------
+
+-- [[ Gunsmith ]]
+L[skin .. "operator.printname"] = wpns .. "Control Panel"
+L[skin .. "operator.compactname"] = "Control Panel"
+L[skin .. "operator.description"] = collection.nuke_2018 .. "\n" .. [[
+
+It has been hand painted with colorful dials and switches atop a blue base.
+
+"Is this line secure?"]]
+------------------------------------
+L[skin .. "vertigo.printname"] = wpns .. "Imminent Danger"
+L[skin .. "vertigo.compactname"] = "Imminent Danger"
+L[skin .. "vertigo.description"] = collection.vertigo_2021 .. "\n" .. [[
+
+A custom paint job of multicolored safety signs has been applied.
+
+"Don't say I didn't warn you…" - Booth, Arms Dealer]]
+------------------------------------
+L[skin .. "decimator.printname"] = wpns .. "Decimator"
+L[skin .. "decimator.compactname"] = "Decimator"
+L[skin .. "decimator.description"] = collection.spectrum .. "\n" .. [[
+
+It has been custom painted with totally radical blue and pink highlights.
+
+"Quiet retrofuturism"]]
+------------------------------------
+L[skin .. "shatter.printname"] = wpns .. "Leaded Glass"
+L[skin .. "shatter.compactname"] = "Leaded Glass"
+L[skin .. "shatter.description"] = collection.spectrum2 .. "\n" .. [[
+
+It has been hand painted to resemble shattered blue and orange glass.
+
+"Lethal fragility"]]
+------------------------------------
+L[skin .. "insomnia.printname"] = wpns .. "Night Terror"
+L[skin .. "insomnia.compactname"] = "Night Terror"
+L[skin .. "insomnia.description"] = collection.dreams .. "\n" .. [[
+
+Scattered thoughts from the mind of an insomniac have been scrawled across this custom-painted A1-S.
+
+"In the bosom of the gentle night, is when I search for the light"]]
+------------------------------------
+L[skin .. "mecha.printname"] = wpns .. "Mecha Industries"
+L[skin .. "mecha.compactname"] = "Mecha"
+L[skin .. "mecha.description"] = collection.gamma .. "\n" .. [[
+
+It is constructed of hardened ceramic panels.
+
+"Featuring all new technology"]]
+------------------------------------
+L[skin .. "snakebite_gold.printname"] = wpns .. "Golden Coil"
+L[skin .. "snakebite_gold.compactname"] = "Golden Coil"
+L[skin .. "snakebite_gold.description"] = collection.shadow .. "\n" .. [[
+
+It has been painted with a hydrographic of an attacking snake.
+
+"The viper can strike from anywhere"]]
+------------------------------------
+
+-- [[ M4A4 ]]
+local wpn = "M4A4"
+local wpns = wpn .. " | "
+local skin = "moka_csgo_skin_m4a4_"
+
+-- [[ Custom ]]
+L[skin .. "bullet_rain.printname"] = wpns .. "Bullet Rain"
+L[skin .. "bullet_rain.compactname"] = "Bullet Rain"
+L[skin .. "bullet_rain.description"] = collection.esports14 .. "\n" .. [[
+
+It has been custom-painted with a graphic of clouds raining bullets.]]
+------------------------------------
+L[skin .. "poseidon.printname"] = wpns .. "Poseidon"
+L[skin .. "poseidon.compactname"] = "Poseidon"
+L[skin .. "poseidon.description"] = collection.godsandmonsters .. "\n" .. [[
+
+It has been custom painted with a depiction of a battle between Pisces and Poseidon.
+
+"Three can keep a secret if two of them are dead"]]
+------------------------------------
+L[skin .. "xray.printname"] = wpns .. "X-Ray"
+L[skin .. "xray.compactname"] = "X-Ray"
+L[skin .. "xray.description"] = collection.esports13w .. "\n" .. [[
+
+A custom painted M4 showing its internals with an X-Ray]]
+------------------------------------
+L[skin .. "howling.printname"] = wpns .. "Howl"
+L[skin .. "howling.compactname"] = "Howl"
+L[skin .. "howling.description"] = collection.huntsman .. "\n" .. [[
+
+It has been custom painted with the image of a snarling wolf.]]
+------------------------------------
+L[skin .. "ancestral.printname"] = wpns .. "龍王 (Dragon King)"
+L[skin .. "ancestral.compactname"] = "龍王"
+L[skin .. "ancestral.description"] = collection.chroma .. "\n" .. [[
+
+It has been custom painted with the image of a dragon in red and blue.
+
+"A weapon worthy of The Monkey King himself" - Booth, Arms Dealer]]
+------------------------------------
+L[skin .. "cyberpunk.printname"] = wpns .. "Cyber Security"
+L[skin .. "cyberpunk.compactname"] = "Cyber"
+L[skin .. "cyberpunk.description"] = collection.brokenfang .. "\n" .. [[
+
+Diagonal bands of blue, red, and gold have been custom painted over this M4's black base.
+
+"AVAILABLE NOW AT YOUR LOCAL CYBERNETICS RETAILER"]]
+------------------------------------
+L[skin .. "desolatespace2.printname"] = wpns .. "Desolate Space"
+L[skin .. "desolatespace2.compactname"] = "Desolate"
+L[skin .. "desolatespace2.description"] = collection.gamma .. "\n" .. [[
+
+It has been custom painted with a space theme.
+
+"We've lost contact"]]
+------------------------------------
+L[skin .. "elite_tactical.printname"] = wpns .. "Poly Mag"
+L[skin .. "elite_tactical.compactname"] = "Poly Mag"
+L[skin .. "elite_tactical.description"] = collection.recoil .. "\n" .. [[
+
+This custom paint job features a clear polymer magazine and a tan colored stock, hand guard, and grip.
+
+"Standard operating procedure"]]
+------------------------------------
+L[skin .. "griffin.printname"] = wpns .. "Griffin"
+L[skin .. "griffin.compactname"] = "Griffin"
+L[skin .. "griffin.description"] = collection.vanguard .. "\n" .. [[
+
+It has been hand-painted with an illustration of a griffin.
+
+"Felix handpicked his team from operators all over the world... and while people question their personalities, they never question the results"]]
+------------------------------------
+L[skin .. "hellfire.printname"] = wpns .. "Hellfire"
+L[skin .. "hellfire.compactname"] = "Hellfire"
+L[skin .. "hellfire.description"] = collection.hydra .. "\n" .. [[
+
+A devil-like creature has been hand painted among fire and chains.
+
+"And brim pebbles"]]
+------------------------------------
+L[skin .. "love.printname"] = wpns .. "In Living Color"
+L[skin .. "love.compactname"] = "ILC"
+L[skin .. "love.description"] = collection.snakebite .. "\n" .. [[
+
+It has been custom painted using neon colors and covered with hand-drawn designs.
+
+"Fight for one, fight for all"]]
+------------------------------------
+L[skin .. "neo_noir.printname"] = wpns .. "Neo-Noir"
+L[skin .. "neo_noir.compactname"] = "Neo-Noir"
+L[skin .. "neo_noir.description"] = collection.clutch .. "\n" .. [[
+
+It has been custom painted with a stylized blue-magenta woman over a grayscale background.
+
+"She grabbed what she could and disappeared into a decaying dystopia"]]
+------------------------------------
+L[skin .. "queenfairy.printname"] = wpns .. "Tooth Fairy"
+L[skin .. "queenfairy.compactname"] = "Tooth Fairy"
+L[skin .. "queenfairy.description"] = collection.fracture .. "\n" .. [[
+
+A custom paint job depicting incisors, molars, and a chilling take on the Tooth Fairy has been applied.
+
+"No one said the teeth have to be yours…"]]
+------------------------------------
+L[skin .. "temukau.printname"] = wpns .. "Temukau"
+L[skin .. "temukau.compactname"] = "Temukau"
+L[skin .. "temukau.description"] = collection.revolution .. "\n" .. [[
+
+A custom paint job in the style of Japanese animation has been applied and depicts a female CT agent fighting against a T-side rush.
+
+"Stand your ground!"]]
+------------------------------------
+L[skin .. "titanstorm.printname"] = wpns .. "Desert-Strike"
+L[skin .. "titanstorm.compactname"] = "Desert-Strike"
+L[skin .. "titanstorm.description"] = collection.huntsman .. "\n" .. [[
+
+It has been custom painted with a high-tech design in tan and black.]]
+------------------------------------
+L[skin .. "zone9.printname"] = wpns .. "Asiimov"
+L[skin .. "zone9.compactname"] = "Asiimov"
+L[skin .. "zone9.description"] = collection.winteroffensive .. "\n" .. [[
+
+It has been custom painted with a sci-fi design.
+
+"Anyone can predict the future... a visionary shapes it"]]
+------------------------------------
+
+-- [[ Gunsmith ]]
+L[skin .. "coalition.printname"] = wpns .. "The Coalition"
+L[skin .. "coalition.compactname"] = "The Coalition"
+L[skin .. "coalition.description"] = collection.train_2021 .. "\n" .. [[
+
+A custom gold and black paint job with interlocking triangles and blue highlights has been applied.
+
+"This alliance is temporary, but you're making me reconsider…"]]
+------------------------------------
+L[skin .. "chopper_ghost.printname"] = wpns .. "Magnesium"
+L[skin .. "chopper_ghost.compactname"] = "Magnesium"
+L[skin .. "chopper_ghost.description"] = collection.dangerzone .. "\n" .. [[
+
+It has been hand painted with flames and a winged defuser in white atop a dark grey base.
+
+"For those who live fast"]]
+------------------------------------
+L[skin .. "emperor.printname"] = wpns .. "The Emperor"
+L[skin .. "emperor.compactname"] = "Emperor"
+L[skin .. "emperor.description"] = collection.prisma .. "\n" .. [[
+
+It has been custom painted using the Emperor tarot card as inspiration.
+
+"Lead with your head, even if it means ignoring your heart"]]
+------------------------------------
+L[skin .. "pioneer.printname"] = wpns .. "The Battlestar"
+L[skin .. "pioneer.compactname"] = "Battlestar"
+L[skin .. "pioneer.description"] = collection.wildfire .. "\n" .. [[
+
+All corners have been cut off the receipt of purchase.
+
+"Beware those who speak of the watchtower"]]
+------------------------------------
+L[skin .. "royal_squire.printname"] = wpns .. "Royal Paladin"
+L[skin .. "royal_squire.compactname"] = "Royal Paladin"
+L[skin .. "royal_squire.description"] = collection.revolver .. "\n" .. [[
+
+It has been painstakingly etched and painted to give a sense of grandeur.
+
+"This phonecall never happened, do you understand?" - The Paladin and the Father Part 1]]
+------------------------------------
+L[skin .. "sector.printname"] = wpns .. "Buzz Kill"
+L[skin .. "sector.compactname"] = "Buzz Kill"
+L[skin .. "sector.description"] = collection.glove .. "\n" .. [[
+
+This Sektor Industry firearm has been sleekly painted in yellow and green.
+
+"There's one at every party"]]
+------------------------------------
+
 -- [[ Template ]]
 -- local wpn = "CZ75-Auto"
+-- local wpns = wpn .. " | "
 -- local skin = "moka_csgo_skin_cz75_"
 
 -- [[ Antiqued ]]

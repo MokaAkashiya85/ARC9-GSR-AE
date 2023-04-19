@@ -1,6 +1,5 @@
 This is a list of every skin that a weapon includes.
 
-
 [table][tr]
 	[th]Dual Eagles[/th]
 	[th]Changed name to 'Dual Deagles'

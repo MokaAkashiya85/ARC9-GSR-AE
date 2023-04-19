@@ -1,0 +1,15 @@
+Patch
+{
+	include materials\models\csgo\m4a1\rif_m4a1_s_skin.vmt
+	replace
+	{
+		// "$basetexture"				"csgoskins/Files/custom/m4a1-s_silence"
+	}
+	insert
+	{
+		"$detail"				"csgoskins/Files/custom/m4a1-s_silence"
+		"$detailscale"		"1"
+		"$detailblendmode" "2"
+		"$detailblendfactor" "1"
+	}
+}

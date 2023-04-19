@@ -1,0 +1,8 @@
+Patch
+{
+	include materials\models\csgo\m4a4\rif_m4a1.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/custom/workshop/m4a4_desolatespace2"
+	}
+}

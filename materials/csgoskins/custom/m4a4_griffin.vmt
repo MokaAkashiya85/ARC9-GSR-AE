@@ -1,0 +1,15 @@
+Patch
+{
+	include materials\models\csgo\m4a4\rif_m4a1.vmt
+	replace
+	{
+		"$basetexture"				"models/csgo/m4a4/rif_m4a1"
+	}
+	insert
+	{
+		"$detail"				"csgoskins/Files/custom/workshop/m4a4_griffin"
+		"$detailscale"		"1"
+		"$detailblendmode" "4"
+		"$detailblendfactor" "1"
+	}
+}

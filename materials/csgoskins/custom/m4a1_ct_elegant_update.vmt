@@ -1,0 +1,15 @@
+Patch
+{
+	include materials\models\csgo\m4a1\rif_m4a1_s_skin.vmt
+	replace
+	{
+		"$basetexture"				"models/csgo/m4a1/rif_m4a1_s_skin"
+	}
+	insert
+	{
+		"$detail"				"csgoskins/Files/custom/workshop/m4a1-s_ct_elegant_update"
+		"$detailscale"		"1"
+		"$detailblendmode" "4"
+		"$detailblendfactor" "1"
+	}
+}

@@ -1,0 +1,11 @@
+Patch
+{
+	include materials\models\csgo\m4a1\rif_m4a1_s_skin.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/custom/workshop/m4a1s_printstream"
+		"$bumpmap"				"csgoskins/Files/custom/workshop/m4a1s_printstream_normal"
+		"$phongboost"				"0.25"
+		"$envmaptint"				"[ .01 .01 .01 ]"
+	}
+}

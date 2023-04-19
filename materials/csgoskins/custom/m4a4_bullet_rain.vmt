@@ -1,0 +1,15 @@
+Patch
+{
+	include materials\models\csgo\m4a4\rif_m4a1.vmt
+	replace
+	{
+		"$basetexture"				"models/csgo/m4a4/rif_m4a1_skin"
+	}
+	insert
+	{
+		"$detail"				"csgoskins/Files/custom/bullet_rain_m4"
+		"$detailscale"		"1"
+		"$detailblendmode" "4"
+		"$detailblendfactor" "1"
+	}
+}
