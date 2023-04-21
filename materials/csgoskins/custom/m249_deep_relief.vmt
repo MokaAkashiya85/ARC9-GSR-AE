@@ -1,0 +1,11 @@
+Patch
+{
+	include materials\models\csgo\m249\m249.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/custom/workshop/m249_deep_relief"
+		"$bumpmap"				"csgoskins/Files/custom/workshop/m249_deep_relief_normal"
+		"$phongboost"				"2"
+		"$envmaptint"				"[ .01 .01 .01 ]"
+	}
+}

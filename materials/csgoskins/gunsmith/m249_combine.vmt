@@ -1,0 +1,11 @@
+Patch
+{
+	include materials\models\csgo\m249\m249.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/gunsmith/workshop/m249_combine"
+		"$bumpmap"				"csgoskins/Files/gunsmith/workshop/m249_combine_normal"
+		"$phongboost"				"2"
+		"$envmaptint"				"[ .01 .01 .01 ]"
+	}
+}

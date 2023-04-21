@@ -105,17 +105,21 @@ It has been engraved with skeletons, flowers and serpents.
 ------------------------------------
 
 -- [[ Custom ]]
-L[skin .. "wildlotus.printname"] = wpns .. "Wild Lotus"
-L[skin .. "wildlotus.compactname"] = "Wild Lotus"
-L[skin .. "wildlotus.description"] = collection.stmarc .. "\n" .. [[
+L[skin .. "island_floral.printname"] = wpns .. "Wild Lotus"
+L[skin .. "island_floral.compactname"] = "Wild Lotus"
+L[skin .. "island_floral.description"] = collection.stmarc .. "\n" .. [[
 
-A custom paint job of an orange lotus has been hand painted over a green base.]]
+A custom paint job of an orange lotus has been hand painted over a green base.
+
+"Muck or nettles"]]
 ------------------------------------
 L[skin .. "xray.printname"] = wpns .. "X-Ray"
 L[skin .. "xray.compactname"] = "X-Ray"
 L[skin .. "xray.description"] = collection.havoc .. "\n" .. [[
 
-A custom painted AK-47 showing its internals with an X-Ray.]]
+A custom painted AK-47 showing its internals with an X-Ray.
+
+"When all is revealed you may not like what you see..."]]
 ------------------------------------
 L[skin .. "fireserpent.printname"] = wpns .. "Fire Serpent"
 L[skin .. "fireserpent.compactname"] = "Fire Serpent"
@@ -364,9 +368,9 @@ It has been decorated with a heat transfer vinyl of an anime magazine cover.
 ------------------------------------
 
 -- [[ Custom ]]
--- L[skin .. "wildlotus.printname"] = wpns .. "Wild Lotus"
--- L[skin .. "wildlotus.compactname"] = "Wild Lotus"
--- L[skin .. "wildlotus.description"] = collection.stmarc .. "\n" .. [[
+-- L[skin .. "island_floral.printname"] = wpns .. "Wild Lotus"
+-- L[skin .. "island_floral.compactname"] = "Wild Lotus"
+-- L[skin .. "island_floral.description"] = collection.stmarc .. "\n" .. [[
 
 -- A custom paint job of an orange lotus has been hand painted over a green base.]]
 ------------------------------------
@@ -2049,6 +2053,248 @@ L[skin .. "sector.description"] = collection.glove .. "\n" .. [[
 This Sektor Industry firearm has been sleekly painted in yellow and green.
 
 "There's one at every party"]]
+------------------------------------
+
+-- [[ M249 ]]
+local wpn = "M249"
+local wpns = wpn .. " | "
+local skin = "moka_csgo_skin_m249_"
+
+-- [[ Antiqued ]]
+L[skin .. "aztec.printname"] = wpns .. "Aztec"
+L[skin .. "aztec.compactname"] = "Aztec"
+L[skin .. "aztec.description"] = collection.cs20 .. "\n" .. [[
+
+Excavated from Aztec ruins, parts of this M249 have rusted and been covered in moss.
+
+"Never trust a rope bridge"]]
+------------------------------------
+
+-- [[ Custom ]]
+L[skin .. "deep_relief.printname"] = wpns .. "Deep Relief"
+L[skin .. "deep_relief.compactname"] = "Deep Relief"
+L[skin .. "deep_relief.description"] = collection.brokenfang .. "\n" .. [[
+
+A sand-colored top layer gives way to darker greens the deeper you go. This is a custom paint job you can feel.
+
+"How many bullets to get to the center?"]]
+------------------------------------
+L[skin .. "downvote.printname"] = wpns .. "Downtown"
+L[skin .. "downvote.compactname"] = "Downtown"
+L[skin .. "downvote.description"] = collection.recoil .. "\n" .. [[
+
+It has been tagged with blue and pink arrows pointing in every direction.
+
+"A different kind of spray pattern"]]
+------------------------------------
+L[skin .. "sektor.printname"] = wpns .. "System Lock"
+L[skin .. "sektor.compactname"] = "System Lock"
+L[skin .. "sektor.description"] = collection.chroma .. "\n" .. [[
+
+It has been custom painted with a sci-fi design.
+
+"Coverfire never looked so good"]]
+------------------------------------
+L[skin .. "spectre.printname"] = wpns .. "Spectre"
+L[skin .. "spectre.compactname"] = "Spectre"
+L[skin .. "spectre.description"] = collection.chroma3 .. "\n" .. [[
+
+It has been painted in a sleek and contemporary manner.
+
+"The Phoenix civil war is about to begin"]]
+------------------------------------
+
+-- [[ Gunsmith ]]
+L[skin .. "combine.printname"] = wpns .. "O.S.I.P.R."
+L[skin .. "combine.compactname"] = "O.S.I.P.R."
+L[skin .. "combine.description"] = collection.snakebite .. "\n" .. [[
+
+This M249 has been custom painted in gunmetal grey and finished with a Combine logo.
+
+"Overwatch Standard Issue Pulse Rifle"]]
+------------------------------------
+L[skin .. "nebula_crusader.printname"] = wpns .. "Nebula Crusader"
+L[skin .. "nebula_crusader.compactname"] = "Nebula Crusader"
+L[skin .. "nebula_crusader.description"] = collection.shadow .. "\n" .. [[
+
+It has been custom painted to look like a classic arcade cabinet.
+
+"You can use it, but you better put up a quarter first"]]
+------------------------------------
+L[skin .. "warbird_veteran.printname"] = wpns .. "Warbird"
+L[skin .. "warbird_veteran.compactname"] = "Warbird"
+L[skin .. "warbird_veteran.description"] = collection.shatteredweb .. "\n" .. [[
+
+Originally blue with a yellow heat shield, age and use have taken their toll on its appearance.
+
+"This old bird deserves a rest"]]
+------------------------------------
+
+-- [[ MAC-10 ]]
+local wpn = "MAC-10"
+local wpns = wpn .. " | "
+local skin = "moka_csgo_skin_mac10_"
+
+-- [[ Antiqued ]]
+L[skin .. "etched.printname"] = wpns .. "Graven"
+L[skin .. "etched.compactname"] = "Graven"
+L[skin .. "etched.description"] = collection.bravo .. "\n" .. [[
+
+This memento from Gwalior has engraved brass parts.
+
+"It breaks two commandments at the same time"]]
+------------------------------------
+
+-- [[ Custom ]]
+L[skin .. "propaganda.printname"] = wpns .. "Propaganda"
+L[skin .. "propaganda.compactname"] = "Propaganda"
+L[skin .. "propaganda.description"] = collection.train_2021 .. "\n" .. [[
+
+It has been custom painted with a pair of eyes and various words in Russian, including "control" and "fear".
+
+"You don't believe them, do you?"]]
+------------------------------------
+L[skin .. "decay.printname"] = wpns .. "Curse"
+L[skin .. "decay.compactname"] = "Curse"
+L[skin .. "decay.description"] = collection.huntsman .. "\n" .. [[
+
+It has been custom painted with a graphic image of a mummy.]]
+------------------------------------
+L[skin .. "alekhya_duo.printname"] = wpns .. "Rangeen"
+L[skin .. "alekhya_duo.compactname"] = "Rangeen"
+L[skin .. "alekhya_duo.description"] = collection.shadow .. "\n" .. [[
+
+It has been custom painted with an Ancient Egyptian motif.
+
+"Can you stand against it's wrathful gaze?"]]
+------------------------------------
+L[skin .. "isoonna.printname"] = wpns .. "Allure"
+L[skin .. "isoonna.compactname"] = "Allure"
+L[skin .. "isoonna.description"] = collection.fracture .. "\n" .. [[
+
+A woman in teal, believed to be iso onna, stands before koi fish and crashing waves on this custom painted MAC-10.
+
+"Beauty begets bloodshed"]]
+------------------------------------
+L[skin .. "korupt.printname"] = wpns .. "Tatter"
+L[skin .. "korupt.compactname"] = "Tatter"
+L[skin .. "korupt.description"] = collection.huntsman .. "\n" .. [[
+
+It has been custom painted with a high-tech design reminiscent of flames.]]
+------------------------------------
+L[skin .. "monkeyflage.printname"] = wpns .. "Monkeyflage"
+L[skin .. "monkeyflage.compactname"] = "Monkeyflage"
+L[skin .. "monkeyflage.description"] = collection.recoil .. "\n" .. [[
+
+Red, tan, and green monkeys adorn this custom painted MAC-10.
+
+"Spunky monkeys!"]]
+------------------------------------
+L[skin .. "nacre.printname"] = wpns .. "Disco Tech"
+L[skin .. "nacre.compactname"] = "Disco Tech"
+L[skin .. "nacre.description"] = collection.prisma2 .. "\n" .. [[
+
+It has been custom painted using a pearlescent finish to resemble holographic self-adhesive vinyl. Depending on the light its appearance changes.
+
+"Watch when you point that thing"]]
+------------------------------------
+L[skin .. "neonrider.printname"] = wpns .. "Neon Rider"
+L[skin .. "neonrider.compactname"] = "Neon Rider"
+L[skin .. "neonrider.description"] = collection.chroma2 .. "\n" .. [[
+
+It has been custom painted with the image of a deadly biker.
+
+"One part firearm, two parts Trapper Keeper"]]
+------------------------------------
+L[skin .. "pixie.printname"] = wpns .. "Ensnared"
+L[skin .. "pixie.compactname"] = "Ensnared"
+L[skin .. "pixie.description"] = collection.dreams .. "\n" .. [[
+
+A custom paint job of pixies, trapped inside the weapon and eager to escape, has been applied.
+
+"They have yet to find someone they cannot fool"]]
+------------------------------------
+L[skin .. "portable.printname"] = wpns .. "Button Masher"
+L[skin .. "portable.compactname"] = "Button Masher"
+L[skin .. "portable.description"] = collection.snakebite .. "\n" .. [[
+
+It has been custom painted to resemble a game pad and various buttons poking through a clear polymer casing.
+
+"Giving the phrase "console wars" a whole new meaning"]]
+------------------------------------
+L[skin .. "redhot.printname"] = wpns .. "Heat"
+L[skin .. "redhot.compactname"] = "Heat"
+L[skin .. "redhot.description"] = collection.phoenix .. "\n" .. [[
+
+It has been custom painted to look as though it just came out of the forge.
+
+"Make some outlines of your own"]]
+------------------------------------
+L[skin .. "sakkaku.printname"] = wpns .. "Sakkaku"
+L[skin .. "sakkaku.compactname"] = "Sakkaku"
+L[skin .. "sakkaku.description"] = collection.revolution .. "\n" .. [[
+
+In specific lighting the eyes on this custom painted MAC-10 glow red.
+
+"Make your perception their reality"]]
+------------------------------------
+L[skin .. "toybox.printname"] = wpns .. "Toybox"
+L[skin .. "toybox.compactname"] = "Toybox"
+L[skin .. "toybox.description"] = collection.riptide .. "\n" .. [[
+
+This custom paint job features brightly-colored drawings of chickens, aliens, defusers and more.
+
+"Clean up your mess"]]
+------------------------------------
+
+-- [[ Gunsmith ]]
+L[skin .. "checker.printname"] = wpns .. "Calf Skin"
+L[skin .. "checker.compactname"] = "Calf Skin"
+L[skin .. "checker.description"] = collection.inferno_2018 .. "\n" .. [[
+
+It has been hand painted with a brown checkerboard pattern and white accents.
+
+"Included with the $1,050 Premium Package"]]
+------------------------------------
+L[skin .. "snake.printname"] = wpns .. "Hot Snakes"
+L[skin .. "snake.compactname"] = "Hot Snakes"
+L[skin .. "snake.description"] = collection.havoc .. "\n" .. [[
+
+It has been custom painted with a bronze snakeskin pattern and a coiled snake beneath the wire form butt.
+
+"The hissing is bullets flying past you"]]
+------------------------------------
+L[skin .. "dust_crate.printname"] = wpns .. "Classic Crate"
+L[skin .. "dust_crate.compactname"] = "Classic"
+L[skin .. "dust_crate.description"] = collection.cs20 .. "\n" .. [[
+
+It has been hand painted to resemble the green metal crates originally found on de_dust2.
+
+"Rush B, don't stop"]]
+------------------------------------
+L[skin .. "exo_pipes.printname"] = wpns .. "Pipe Down"
+L[skin .. "exo_pipes.compactname"] = "Pipe Down"
+L[skin .. "exo_pipes.description"] = collection.dangerzone .. "\n" .. [[
+
+It has been custom painted to appear as if it is filled with red tubes.
+
+"Peek behind the curtain"]]
+------------------------------------
+L[skin .. "fish_bait.printname"] = wpns .. "Whitefish"
+L[skin .. "fish_bait.compactname"] = "Whitefish"
+L[skin .. "fish_bait.description"] = collection.prisma .. "\n" .. [[
+
+Fish scales, bones, and hooks have been hand painted in white over a black base.
+
+"Catch and decease"]]
+------------------------------------
+L[skin .. "stalker.printname"] = wpns .. "Stalker"
+L[skin .. "stalker.compactname"] = "Stalker"
+L[skin .. "stalker.description"] = collection.shatteredweb .. "\n" .. [[
+
+It has been custom painted with a neon blue cat and yellow and black stripes.
+
+"Here kitty, kitty..."]]
 ------------------------------------
 
 -- [[ Template ]]

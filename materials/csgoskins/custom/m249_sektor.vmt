@@ -1,0 +1,8 @@
+Patch
+{
+	include materials\models\csgo\m249\m249.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/custom/workshop/m249_sektor"
+	}
+}

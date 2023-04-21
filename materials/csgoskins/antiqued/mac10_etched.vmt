@@ -1,0 +1,17 @@
+Patch
+{
+	include materials\models\csgo\mac10\smg_mac10_1.vmt
+	replace
+	{
+		"$basetexture"				"models/csgo/mac10/smg_mac10_1_skin"
+		"$bumpmap"					"models/csgo/mac10/smg_mac10_1_skin_n"
+		"$basemapalphaphongmask" "0"
+	}
+	insert
+	{
+	"$detail"			"csgoskins/Files/antiqued/etched_mac10"
+	"$detailscale"		"1"
+	"$detailblendmode" "4"
+	"$detailblendfactor" ".5"
+	}
+}

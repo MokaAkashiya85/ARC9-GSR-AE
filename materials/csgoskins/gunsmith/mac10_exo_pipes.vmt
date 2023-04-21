@@ -1,0 +1,18 @@
+Patch
+{
+	include materials\models\csgo\mac10\smg_mac10_1.vmt
+	replace
+	{
+		"$basetexture"				"models/csgo/mac10/smg_mac10_1_skin3"
+		"$bumpmap"					"csgoskins/Files/gunsmith/workshop/mac10_exo_pipes_normal"
+		"$phongboost"				"2"
+		"$envmaptint"				"[ .01 .01 .01 ]"
+	}
+	insert
+	{
+		"$detail"			"csgoskins/Files/gunsmith/workshop/mac10_exo_pipes"
+		"$detailscale"		"1"
+		"$detailblendmode" "4"
+		"$detailblendfactor" "1"
+	}
+}

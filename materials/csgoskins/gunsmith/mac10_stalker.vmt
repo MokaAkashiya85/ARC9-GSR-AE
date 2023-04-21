@@ -1,0 +1,11 @@
+Patch
+{
+	include materials\models\csgo\mac10\smg_mac10_1.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/gunsmith/workshop/mac10_stalker"
+		"$bumpmap"				"csgoskins/Files/gunsmith/workshop/mac10_stalker_normal"
+		"$phongboost"				"2"
+		"$envmaptint"				"[ .01 .01 .01 ]"
+	}
+}

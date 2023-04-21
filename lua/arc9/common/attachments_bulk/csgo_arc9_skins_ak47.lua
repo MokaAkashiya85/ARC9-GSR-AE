@@ -22,7 +22,7 @@ ARC9.LoadAttachment(ATT, "moka_csgo_skin_ak47_" .. name)
 -- [[ Custom ]]
 ------------------------------------------------------------------
 ATT = {}
-local name = "wildlotus"
+local name = "island_floral"
 
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
 ATT.PrintName = [[Wild Lotus]]

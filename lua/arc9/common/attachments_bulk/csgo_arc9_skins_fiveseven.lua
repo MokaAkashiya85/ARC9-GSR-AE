@@ -1,5 +1,3 @@
--- [[
-
 local ATT = {}
 
 -- [[ Antiqued ]]

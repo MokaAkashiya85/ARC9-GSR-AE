@@ -1,0 +1,15 @@
+Patch
+{
+	include materials\models\csgo\m249\m249.vmt
+	replace
+	{
+		"$basetexture"				"models/csgo/m249/m249_skin"
+	}
+	insert
+	{
+	"$detail"			"csgoskins/Files/custom/workshop/m249_spectre"
+	"$detailscale"		"1"
+	"$detailblendmode" "1"
+	"$detailblendfactor" "1"
+	}
+}

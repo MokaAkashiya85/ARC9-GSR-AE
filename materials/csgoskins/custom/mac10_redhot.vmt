@@ -1,0 +1,10 @@
+Patch
+{
+	include materials\models\csgo\mac10\smg_mac10_1.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/custom/workshop/mac-10_redhot"
+		"$bumpmap"					"models/csgo/mac10/smg_mac10_1_skin_n"
+		"$basemapalphaphongmask" "0"
+	}
+}

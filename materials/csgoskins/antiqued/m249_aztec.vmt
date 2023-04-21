@@ -1,0 +1,11 @@
+Patch
+{
+	include materials\models\csgo\m249\m249.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/antiqued/workshop/m249_aztec"
+		"$bumpmap"				"csgoskins/Files/antiqued/workshop/m249_aztec_normal"
+		"$phongboost"				"2"
+		"$envmaptint"				"[ .01 .01 .01 ]"
+	}
+}

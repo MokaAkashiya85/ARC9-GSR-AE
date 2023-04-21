@@ -1,0 +1,11 @@
+Patch
+{
+	include materials\models\csgo\mac10\smg_mac10_1.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/custom/mac10_propaganda"
+		"$bumpmap"				"csgoskins/Files/custom/mac10_propaganda_normal"
+		"$phongboost"				"2"
+		"$envmaptint"				"[ .01 .01 .01 ]"
+	}
+}
