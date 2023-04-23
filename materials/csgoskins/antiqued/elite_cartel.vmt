@@ -14,5 +14,13 @@ Patch
 		"$detailscale"		"1"
 		"$detailblendmode" "4"
 		"$detailblendfactor" ".5"
+		 Proxies {
+			"Arc9EnvMapTint"
+			{
+				"specularity" "1"
+				"min" "0"
+				"max" "0.01"
+			}
+		}
 	}
 }

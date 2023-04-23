@@ -11,5 +11,13 @@ Patch
 		"$phongboost"				"1"
 		"$phongtint"				"[ 1 0 0 ]"
 		"$envmaptint"				"[ .35 .3 .1 ]"
+		 Proxies {
+			"Arc9EnvMapTint"
+			{
+				"specularity" "1"
+				"min" "0"
+				"max" "0.01"
+			}
+		}
 	}
 }

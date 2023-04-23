@@ -5,5 +5,13 @@ Patch
 	{
 		"$basetexture"				"csgoskins/Files/gunsmith/workshop/galil_vandal"
 		"$bumpmap"				"csgoskins/Files/gunsmith/workshop/galil_vandal_normal"
+		 Proxies {
+			"Arc9EnvMapTint"
+			{
+				"specularity" "1"
+				"min" "0"
+				"max" "0.01"
+			}
+		}
 	}
 }

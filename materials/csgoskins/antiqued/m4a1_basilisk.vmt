@@ -1,6 +1,6 @@
 Patch
 {
-	include materials\models\csgo\awp\awp.vmt
+	include materials\models\csgo\m4a1\rif_m4a1_s_skin.vmt
 	replace
 	{
 		"$basetexture"				"csgoskins/Files/antiqued/workshop/basilisk"

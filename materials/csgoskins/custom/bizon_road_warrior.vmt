@@ -7,5 +7,13 @@ Patch
 		"$bumpmap"				"csgoskins/Files/custom/workshop/bizon_road_warrior_normal"
 		"$phongboost"				"0.25"
 		"$envmaptint"				"[ .01 .01 .01 ]"
+		 Proxies {
+			"Arc9EnvMapTint"
+			{
+				"specularity" "1"
+				"min" "0"
+				"max" "0.01"
+			}
+		}
 	}
 }
