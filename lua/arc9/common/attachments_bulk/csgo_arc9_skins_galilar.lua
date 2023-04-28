@@ -1,12 +1,12 @@
 local ATT = {}
 
--- [[ Custom ]]
+-- " Custom "
 ATT = {}
 local name = "cerbrus"
 
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
-ATT.PrintName = [[Cerberus]]
-ATT.Description = [[]]
+ATT.PrintName = "Cerberus"
+ATT.Description = ""
 ATT.Icon = Material("csgoskins/Icons/galilar_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
@@ -23,8 +23,8 @@ ATT = {}
 local name = "abrasion"
 
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
-ATT.PrintName = [[Chatterbox]]
-ATT.Description = [[]]
+ATT.PrintName = "Chatterbox"
+ATT.Description = ""
 ATT.Icon = Material("csgoskins/Icons/galilar_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
@@ -41,8 +41,8 @@ ATT = {}
 local name = "camo"
 
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
-ATT.PrintName = [[Black Sand]]
-ATT.Description = [[]]
+ATT.PrintName = "Black Sand"
+ATT.Description = ""
 ATT.Icon = Material("csgoskins/Icons/galilar_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
@@ -59,8 +59,8 @@ ATT = {}
 local name = "candychaos"
 
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
-ATT.PrintName = [[Sugar Rush]]
-ATT.Description = [[]]
+ATT.PrintName = "Sugar Rush"
+ATT.Description = ""
 ATT.Icon = Material("csgoskins/Icons/galilar_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
@@ -77,8 +77,8 @@ ATT = {}
 local name = "chroma_pink"
 
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
-ATT.PrintName = [[Chromatic Aberration]]
-ATT.Description = [[]]
+ATT.PrintName = "Chromatic Aberration"
+ATT.Description = ""
 ATT.Icon = Material("csgoskins/Icons/galilar_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
@@ -95,8 +95,8 @@ ATT = {}
 local name = "destroyer"
 
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
-ATT.PrintName = [[Destroyer]]
-ATT.Description = [[]]
+ATT.PrintName = "Destroyer"
+ATT.Description = ""
 ATT.Icon = Material("csgoskins/Icons/galilar_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
@@ -113,8 +113,8 @@ ATT = {}
 local name = "eco"
 
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
-ATT.PrintName = [[Eco]]
-ATT.Description = [[]]
+ATT.PrintName = "Eco"
+ATT.Description = ""
 ATT.Icon = Material("csgoskins/Icons/galilar_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
@@ -131,8 +131,8 @@ ATT = {}
 local name = "particles"
 
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
-ATT.PrintName = [[Rocket Pop]]
-ATT.Description = [[]]
+ATT.PrintName = "Rocket Pop"
+ATT.Description = ""
 ATT.Icon = Material("csgoskins/Icons/galilar_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
@@ -145,14 +145,14 @@ ATT.Material = "csgoskins/custom/galilar_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_galilar_" .. name)
 ------------------------------------------------------------------
--- [[ Gunsmith ]]
+-- " Gunsmith "
 ------------------------------------------------------------------
 ATT = {}
 local name = "incinerator"
 
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
-ATT.PrintName = [[Firefight]]
-ATT.Description = [[]]
+ATT.PrintName = "Firefight"
+ATT.Description = ""
 ATT.Icon = Material("csgoskins/Icons/galilar_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
@@ -169,8 +169,8 @@ ATT = {}
 local name = "nightwing"
 
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
-ATT.PrintName = [[Stone Cold]]
-ATT.Description = [[]]
+ATT.PrintName = "Stone Cold"
+ATT.Description = ""
 ATT.Icon = Material("csgoskins/Icons/galilar_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
@@ -187,8 +187,8 @@ ATT = {}
 local name = "phoenix"
 
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
-ATT.PrintName = [[Connexion]]
-ATT.Description = [[]]
+ATT.PrintName = "Connexion"
+ATT.Description = ""
 ATT.Icon = Material("csgoskins/Icons/galilar_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
@@ -205,8 +205,8 @@ ATT = {}
 local name = "vandal"
 
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
-ATT.PrintName = [[Vandal]]
-ATT.Description = [[]]
+ATT.PrintName = "Vandal"
+ATT.Description = ""
 ATT.Icon = Material("csgoskins/Icons/galilar_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0

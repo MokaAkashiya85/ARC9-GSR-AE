@@ -1,12 +1,12 @@
 local ATT = {}
 
--- [[ Antiqued ]]
+-- " Antiqued "
 ATT = {}
 local name = "dark_fall"
 
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
-ATT.PrintName = [[Ironwork]]
-ATT.Description = [[]]
+ATT.PrintName = "Ironwork"
+ATT.Description = ""
 ATT.Icon = Material("csgoskins/Icons/glock_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
@@ -23,8 +23,8 @@ ATT = {}
 local name = "flames_blue_green"
 
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
-ATT.PrintName = [[Bunsen Burner]]
-ATT.Description = [[]]
+ATT.PrintName = "Bunsen Burner"
+ATT.Description = ""
 ATT.Icon = Material("csgoskins/Icons/glock_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
@@ -37,14 +37,32 @@ ATT.Material = "csgoskins/antiqued/glock_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_glock_" .. name)
 ------------------------------------------------------------------
--- [[ Custom ]]
+-- " Custom "
+------------------------------------------------------------------
+ATT = {}
+local name = "ramzes"
+
+ATT.MenuCategory = "ARC9 - CSGO Attachments"
+ATT.PrintName = "Ramese's Reach"
+ATT.Description = ""
+ATT.Icon = Material("csgoskins/Icons/glock_" .. name .. ".png", "mips smooth")
+
+ATT.SortOrder = 0
+ATT.Free = true
+
+ATT.Folder = "CS:GO Skins/Restricted"
+
+ATT.Category = {"go_skins_glock"}
+ATT.Material = "csgoskins/custom/glock_" .. name
+
+ARC9.LoadAttachment(ATT, "moka_csgo_skin_glock_" .. name)
 ------------------------------------------------------------------
 ATT = {}
 local name = "eyecontact"
 
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
-ATT.PrintName = [[Vogue]]
-ATT.Description = [[]]
+ATT.PrintName = "Vogue"
+ATT.Description = ""
 ATT.Icon = Material("csgoskins/Icons/glock_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
@@ -61,8 +79,8 @@ ATT = {}
 local name = "hero"
 
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
-ATT.PrintName = [[Sacrifice]]
-ATT.Description = [[]]
+ATT.PrintName = "Sacrifice"
+ATT.Description = ""
 ATT.Icon = Material("csgoskins/Icons/glock_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
@@ -79,8 +97,8 @@ ATT = {}
 local name = "indigo"
 
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
-ATT.PrintName = [[Off World]]
-ATT.Description = [[]]
+ATT.PrintName = "Off World"
+ATT.Description = ""
 ATT.Icon = Material("csgoskins/Icons/glock_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
@@ -97,8 +115,8 @@ ARC9.LoadAttachment(ATT, "moka_csgo_skin_glock_" .. name)
 -- local name = "lastrike2"
 
 -- ATT.MenuCategory = "ARC9 - CSGO Attachments"
--- ATT.PrintName = [[<Unused> Last Strike]]
--- ATT.Description = [[]]
+-- ATT.PrintName = "<Unused> Last Strike"
+-- ATT.Description = ""
 -- ATT.Icon = Material("csgoskins/Icons/glock_" .. name .. ".png", "mips smooth")
 
 -- ATT.SortOrder = 0
@@ -115,8 +133,8 @@ ATT = {}
 local name = "moon_rabbit"
 
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
-ATT.PrintName = [[Umbral Rabbit]]
-ATT.Description = [[]]
+ATT.PrintName = "Umbral Rabbit"
+ATT.Description = ""
 ATT.Icon = Material("csgoskins/Icons/glock_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
@@ -133,8 +151,8 @@ ATT = {}
 local name = "noir"
 
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
-ATT.PrintName = [[Neo-Noir]]
-ATT.Description = [[]]
+ATT.PrintName = "Neo-Noir"
+ATT.Description = ""
 ATT.Icon = Material("csgoskins/Icons/glock_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
@@ -151,8 +169,8 @@ ATT = {}
 local name = "snackattack"
 
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
-ATT.PrintName = [[Snack Attack]]
-ATT.Description = [[]]
+ATT.PrintName = "Snack Attack"
+ATT.Description = ""
 ATT.Icon = Material("csgoskins/Icons/glock_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
@@ -169,8 +187,8 @@ ATT = {}
 local name = "wasteland_rebel"
 
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
-ATT.PrintName = [[Wasteland Rebel]]
-ATT.Description = [[]]
+ATT.PrintName = "Wasteland Rebel"
+ATT.Description = ""
 ATT.Icon = Material("csgoskins/Icons/glock_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
@@ -187,8 +205,8 @@ ATT = {}
 local name = "corroden"
 
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
-ATT.PrintName = [[Oxide Blaze]]
-ATT.Description = [[]]
+ATT.PrintName = "Oxide Blaze"
+ATT.Description = ""
 ATT.Icon = Material("csgoskins/Icons/glock_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
@@ -205,8 +223,8 @@ ATT = {}
 local name = "warmaiden"
 
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
-ATT.PrintName = [[Bullet Queen]]
-ATT.Description = [[]]
+ATT.PrintName = "Bullet Queen"
+ATT.Description = ""
 ATT.Icon = Material("csgoskins/Icons/glock_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
@@ -223,8 +241,8 @@ ATT = {}
 local name = "weasel1j"
 
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
-ATT.PrintName = [[Weasel]]
-ATT.Description = [[]]
+ATT.PrintName = "Weasel"
+ATT.Description = ""
 ATT.Icon = Material("csgoskins/Icons/glock_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
@@ -241,8 +259,8 @@ ATT = {}
 local name = "liquescent"
 
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
-ATT.PrintName = [[Water Elemental]]
-ATT.Description = [[]]
+ATT.PrintName = "Water Elemental"
+ATT.Description = ""
 ATT.Icon = Material("csgoskins/Icons/glock_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
@@ -255,14 +273,14 @@ ATT.Material = "csgoskins/custom/glock_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_glock_" .. name)
 ------------------------------------------------------------------
--- [[ Gunsmith ]]
+-- " Gunsmith "
 ------------------------------------------------------------------
 ATT = {}
 local name = "elite_camo"
 
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
-ATT.PrintName = [[Winterized]]
-ATT.Description = [[]]
+ATT.PrintName = "Winterized"
+ATT.Description = ""
 ATT.Icon = Material("csgoskins/Icons/glock_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
@@ -279,8 +297,8 @@ ATT = {}
 local name = "polymer"
 
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
-ATT.PrintName = [[Clear Polymer]]
-ATT.Description = [[]]
+ATT.PrintName = "Clear Polymer"
+ATT.Description = ""
 ATT.Icon = Material("csgoskins/Icons/glock_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
@@ -297,8 +315,8 @@ ATT = {}
 local name = "thunder_dust"
 
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
-ATT.PrintName = [[Warhawk]]
-ATT.Description = [[]]
+ATT.PrintName = "Warhawk"
+ATT.Description = ""
 ATT.Icon = Material("csgoskins/Icons/glock_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
@@ -315,8 +333,8 @@ ATT = {}
 local name = "award"
 
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
-ATT.PrintName = [[Royal Legion]]
-ATT.Description = [[]]
+ATT.PrintName = "Royal Legion"
+ATT.Description = ""
 ATT.Icon = Material("csgoskins/Icons/glock_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0
@@ -333,8 +351,8 @@ ATT = {}
 local name = "wrathys"
 
 ATT.MenuCategory = "ARC9 - CSGO Attachments"
-ATT.PrintName = [[Wraiths]]
-ATT.Description = [[]]
+ATT.PrintName = "Wraiths"
+ATT.Description = ""
 ATT.Icon = Material("csgoskins/Icons/glock_" .. name .. ".png", "mips smooth")
 
 ATT.SortOrder = 0

@@ -34,4 +34,6 @@ Join the official [url=https://discord.gg/gaHXusZ]Diamond Doves Discord server h
 [b] - All of the skin authors[/b]
 [b] - (And you):[/b] For being patient and a good person :)
 
+[i]A gigantic thanks to [b]TheOnly8Z[/b] for helping significantly speed things along when it comes to localizations![/i]
+
 If you encounter any bugs or want to suggest something as well as help improving this follow the development here [url=https://github.com/CurlySparkle/ARC9-GSR]GitHub page[/url].

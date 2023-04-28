@@ -1,0 +1,19 @@
+Patch
+{
+	include materials\models\csgo\ak47\ak47_body.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/gunsmith/ak47_strone"
+		"$bumpmap"				"csgoskins/Files/gunsmith/ak47_strone_normal"
+		"$phongboost"				"0.25"
+		"$envmaptint"				"[ .01 .01 .01 ]"
+		 Proxies {
+			"Arc9EnvMapTint"
+			{
+				"specularity" "1"
+				"min" "0"
+				"max" "0.01"
+			}
+		}
+	}
+}
