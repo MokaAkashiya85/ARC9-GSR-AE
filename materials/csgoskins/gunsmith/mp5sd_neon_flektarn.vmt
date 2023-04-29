@@ -1,0 +1,8 @@
+Patch
+{
+	include materials\models\csgo\mp5sd\smg_mp5sd.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/gunsmith/mp5_neon_flektarn"
+	}
+}

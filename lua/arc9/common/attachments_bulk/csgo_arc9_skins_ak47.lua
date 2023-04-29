@@ -1,6 +1,7 @@
 local ATT = {}
 
 -- " Antiqued "
+------------------------------------------------------------------
 ATT = {}
 local name = "cartel"
 
@@ -69,6 +70,24 @@ ATT.SortOrder = 0
 ATT.Free = true
 
 ATT.Folder = "CS:GO Skins/Covert"
+
+ATT.Category = {"go_skins_ak47"}
+ATT.Material = "csgoskins/custom/ak47_" .. name
+
+ARC9.LoadAttachment(ATT, "moka_csgo_skin_ak47_" .. name)
+------------------------------------------------------------------
+ATT = {}
+local name = "green_leather"
+
+ATT.MenuCategory = "ARC9 - CSGO Attachments"
+ATT.PrintName = "First Class"
+ATT.Description = ""
+ATT.Icon = Material("csgoskins/Icons/ak47_" .. name .. ".png", "mips smooth")
+
+ATT.SortOrder = 0
+ATT.Free = true
+
+ATT.Folder = "CS:GO Skins/Restricted"
 
 ATT.Category = {"go_skins_ak47"}
 ATT.Material = "csgoskins/custom/ak47_" .. name

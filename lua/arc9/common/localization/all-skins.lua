@@ -19,6 +19,9 @@ L[skin .. "xray.description"] = collection.havoc .. "\n\n" .. text.cu_ak_xray.de
 L[skin .. "fireserpent.printname"] = text.cu_fireserpent_ak47_bravo.name
 L[skin .. "fireserpent.description"] = collection.bravo .. "\n\n" .. text.cu_fireserpent_ak47_bravo.desc
 ------------------------------------
+L[skin .. "green_leather.printname"] = text.cu_green_leather.name
+L[skin .. "green_leather.description"] = collection.baggage .. "\n\n" .. text.cu_green_leather.desc
+------------------------------------
 L[skin .. "jaguar.printname"] = text.cu_ak_jaguar.name
 L[skin .. "jaguar.description"] = collection.ancient .. "\n\n" .. text.cu_ak_jaguar.desc
 ------------------------------------
@@ -939,6 +942,91 @@ L[skin .. "fish_bait.description"] = collection.prisma .. "\n\n" .. text.gs_mac1
 ------------------------------------
 L[skin .. "stalker.printname"] = text.gs_mac10_stalker.name
 L[skin .. "stalker.description"] = collection.shatteredweb .. "\n\n" .. text.gs_mac10_stalker.desc
+------------------------------------
+
+-- [[ MAG-7 ]]
+local skin = "moka_csgo_skin_mag7_"
+
+-- [[ Antiqued ]]
+L[skin .. "swag7.printname"] = text.aq_mag7_swag7.name
+L[skin .. "swag7.description"] = collection.clutch .. "\n\n" .. text.aq_mag7_swag7.desc
+------------------------------------
+
+-- [[ Custom ]]
+L[skin .. "insomnia.printname"] = text.cu_mag7_insomnia.name
+L[skin .. "insomnia.description"] = collection.revolution .. "\n\n" .. text.cu_mag7_insomnia.desc
+------------------------------------
+L[skin .. "monster_call.printname"] = text.cu_mag7_monster_call.name
+L[skin .. "monster_call.description"] = collection.fracture .. "\n\n" .. text.cu_mag7_monster_call.desc
+------------------------------------
+L[skin .. "myrcene.printname"] = text.cu_mag7_myrcene.name
+L[skin .. "myrcene.description"] = collection.shadow .. "\n\n" .. text.cu_mag7_myrcene.desc
+------------------------------------
+L[skin .. "predictor.printname"] = text.cu_mag7_predictor.name
+L[skin .. "predictor.description"] = collection.dreams .. "\n\n" .. text.cu_mag7_predictor.desc
+------------------------------------
+L[skin .. "redhot_v2.printname"] = text.cu_mac10_redhot.name
+L[skin .. "redhot_v2.description"] = collection.chroma2 .. "\n\n" .. text.cu_mac10_redhot.desc
+------------------------------------
+L[skin .. "tribal03.printname"] = text.cu_MAG7_Tribal.name
+L[skin .. "tribal03.description"] = collection.chroma2 .. "\n\n" .. text.cu_MAG7_Tribal.desc
+------------------------------------
+
+-- [[ Gunsmith ]]
+L[skin .. "glass.printname"] = text.gs_mag7_glass.name
+L[skin .. "glass.description"] = collection.canals .. "\n\n" .. text.gs_mag7_glass.desc
+------------------------------------
+L[skin .. "goold.printname"] = text.gs_mag7_goold.name
+L[skin .. "goold.description"] = collection.anubis .. "\n\n" .. text.gs_mag7_goold.desc
+------------------------------------
+L[skin .. "bismuth.printname"] = text.gs_mag7_bismuth.name
+L[skin .. "bismuth.description"] = collection.riptide .. "\n\n" .. text.gs_mag7_bismuth.desc
+------------------------------------
+L[skin .. "justice.printname"] = text.gs_mag7_justice.name
+L[skin .. "justice.description"] = collection.prisma2 .. "\n\n" .. text.gs_mag7_justice.desc
+------------------------------------
+L[skin .. "popdog.printname"] = text.gs_mag7_popdog.name
+L[skin .. "popdog.description"] = collection.cs20 .. "\n\n" .. text.gs_mag7_popdog.desc
+------------------------------------
+L[skin .. "praetorian.printname"] = text.gs_mag7_praetorian.name
+L[skin .. "praetorian.description"] = collection.wildfire .. "\n\n" .. text.gs_mag7_praetorian.desc
+------------------------------------
+
+-- [[ MP5-SD ]]
+local skin = "moka_csgo_skin_mp5sd_"
+
+-- [[ Custom ]]
+L[skin .. "desert_strike.printname"] = text.cu_mp5_desert_strike.name
+L[skin .. "desert_strike.description"] = collection.prisma2 .. "\n\n" .. text.cu_mp5_desert_strike.desc
+------------------------------------
+L[skin .. "quick_liquidation.printname"] = text.cu_mp5sd_quick_liquidation.name
+L[skin .. "quick_liquidation.description"] = collection.revolution .. "\n\n" .. text.cu_mp5sd_quick_liquidation.desc
+------------------------------------
+
+-- [[ Gunsmith ]]
+L[skin .. "neon_flektarn.printname"] = text.gs_mp5_neon_flektarn.name
+L[skin .. "neon_flektarn.description"] = collection.mirage_2021 .. "\n\n" .. text.gs_mp5_neon_flektarn.desc
+------------------------------------
+L[skin .. "conditionzero.printname"] = text.gs_mp5_conditionzero.name
+L[skin .. "conditionzero.description"] = collection.brokenfang .. "\n\n" .. text.gs_mp5_conditionzero.desc
+------------------------------------
+L[skin .. "etch.printname"] = text.gs_mp5_etch.name
+L[skin .. "etch.description"] = collection.shatteredweb .. "\n\n" .. text.gs_mp5_etch.desc
+------------------------------------
+L[skin .. "fbi.printname"] = text.gs_mp5_fbi.name
+L[skin .. "fbi.description"] = collection.cs20 .. "\n\n" .. text.gs_mp5_fbi.desc
+------------------------------------
+L[skin .. "festival_drip.printname"] = text.gs_mp5_festival_drip.name
+L[skin .. "festival_drip.description"] = collection.dangerzone .. "\n\n" .. text.gs_mp5_festival_drip.desc
+------------------------------------
+L[skin .. "kid_necronomicon.printname"] = text.gs_mp5_kid_necronomicon.name
+L[skin .. "kid_necronomicon.description"] = collection.dreams .. "\n\n" .. text.gs_mp5_kid_necronomicon.desc
+------------------------------------
+L[skin .. "astromatic.printname"] = text.gs_mp5sd_astromatic.name
+L[skin .. "astromatic.description"] = collection.prisma .. "\n\n" .. text.gs_mp5sd_astromatic.desc
+------------------------------------
+L[skin .. "wasteland_legacy.printname"] = text.gs_mp5sd_wasteland_legacy.name
+L[skin .. "wasteland_legacy.description"] = collection.fracture .. "\n\n" .. text.gs_mp5sd_wasteland_legacy.desc
 ------------------------------------
 
 -- [[ Template ]]

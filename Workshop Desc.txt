@@ -12,10 +12,36 @@ Join the official [url=https://discord.gg/gaHXusZ]Diamond Doves Discord server h
 [*] All possible skins for all weapons that have support for them
 [*] All skins alter the name of the weapon
 [*] All skins detail which collection they are from and have their original descriptions
-[*] Localization support! Currently available in:
+[*] Localization support! Currently available in*:
 [list]
-[*]English
+[*]Bulgarian
+[*]Czech
+[*]Danish
+[*]German*
+[*]Greek
+[*]English*
+[*]Spanish*
+[*]Finnish
+[*]French
+[*]Hungarian
+[*]Italian
+[*]Japanese
+[*]Korean
+[*]Dutch
+[*]Norwegian
+[*]Polish
+[*]Brazilian Portuguese
+[*]Portuguese
+[*]Russian*
+[*]Swedish*
+[*]Thai
+[*]Turkish
+[*]Ukrainian
+[*]Vietnamese
+[*]Simplified Chinese*
+[*]Traditional Chinese
 [/list]
+*Also has official ARC9 support.
 [/list]
 
 [h1]NOTE[/h1]

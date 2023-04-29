@@ -1,0 +1,19 @@
+Patch
+{
+	include materials\models\csgo\mp5sd\smg_mp5sd.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/gunsmith/workshop/mp5sd_astromatic"
+		"$bumpmap"				"csgoskins/Files/gunsmith/workshop/mp5sd_astromatic_normal"
+		"$phongboost"				"1"
+		"$envmaptint"				"[ .01 .01 .01 ]"
+		 Proxies {
+			"Arc9EnvMapTint"
+			{
+				"specularity" "1"
+				"min" "0"
+				"max" "0.01"
+			}
+		}
+	}
+}

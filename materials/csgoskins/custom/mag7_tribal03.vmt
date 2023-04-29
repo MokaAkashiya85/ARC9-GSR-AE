@@ -1,0 +1,8 @@
+Patch
+{
+	include materials\models\csgo\mag7\shot_mag7.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/custom/workshop/mag7_tribal03"
+	}
+}

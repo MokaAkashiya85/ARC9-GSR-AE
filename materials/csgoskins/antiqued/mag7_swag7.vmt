@@ -1,0 +1,11 @@
+Patch
+{
+	include materials\models\csgo\mag7\shot_mag7.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/antiqued/workshop/mag7_swag7"
+		"$color2"					"[.55 .8 .8]"
+		"$blendTintByBaseAlpha"		"1"
+		Proxies {}
+	}
+}
