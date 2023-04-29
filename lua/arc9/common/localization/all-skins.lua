@@ -1029,6 +1029,94 @@ L[skin .. "wasteland_legacy.printname"] = text.gs_mp5sd_wasteland_legacy.name
 L[skin .. "wasteland_legacy.description"] = collection.fracture .. "\n\n" .. text.gs_mp5sd_wasteland_legacy.desc
 ------------------------------------
 
+-- [[ MP7 ]]
+local skin = "moka_csgo_skin_mp7_"
+
+-- [[ Antiqued ]]
+L[skin .. "um06.printname"] = text.aq_mp7_ultramodern.name
+L[skin .. "um06.description"] = collection.chroma2 .. "\n\n" .. text.aq_mp7_ultramodern.desc
+------------------------------------
+
+-- [[ Custom ]]
+L[skin .. "classified.printname"] = text.cu_mp7_classified.name
+L[skin .. "classified.description"] = collection.shadow .. "\n\n" .. text.cu_mp7_classified.desc
+------------------------------------
+L[skin .. "fear.printname"] = text.cu_mp7_fear.name
+L[skin .. "fear.description"] = collection.dreams .. "\n\n" .. text.cu_mp7_fear.desc
+------------------------------------
+L[skin .. "khaki.printname"] = text.cu_mp7_khaki.name
+L[skin .. "khaki.description"] = collection.riptide .. "\n\n" .. text.cu_mp7_khaki.desc
+------------------------------------
+L[skin .. "racketeer.printname"] = text.cu_mp7_racketeer.name
+L[skin .. "racketeer.description"] = collection.prisma .. "\n\n" .. text.cu_mp7_racketeer.desc
+------------------------------------
+L[skin .. "replica.printname"] = text.cu_mp7_replica.name
+L[skin .. "replica.description"] = collection.shatteredweb .. "\n\n" .. text.cu_mp7_replica.desc
+------------------------------------
+L[skin .. "commander.printname"] = text["cu_mp7-commander"].name
+L[skin .. "commander.description"] = collection.breakout .. "\n\n" .. text["cu_mp7-commander"].desc
+------------------------------------
+L[skin .. "nemesis.printname"] = text.cu_mp7_nemsis.name
+L[skin .. "nemesis.description"] = collection.falchion .. "\n\n" .. text.cu_mp7_nemsis.desc
+------------------------------------
+
+-- [[ Gunsmith ]]
+L[skin .. "strone.printname"] = text.gs_mp7_strone.name
+L[skin .. "strone.description"] = collection.anubis .. "\n\n" .. text.gs_mp7_strone.desc
+------------------------------------
+L[skin .. "bloodsport.printname"] = text.gs_mp7_bloodsport.name
+L[skin .. "bloodsport.description"] = collection.clutch .. "\n\n" .. text.gs_mp7_bloodsport.desc
+------------------------------------
+L[skin .. "pooldead.printname"] = text.gs_final_pooldeadv2.name
+L[skin .. "pooldead.description"] = collection.glove .. "\n\n" .. text.gs_final_pooldeadv2.desc
+------------------------------------
+L[skin .. "powercore.printname"] = text.gs_powercore_mp7.name
+L[skin .. "powercore.description"] = collection.horizon .. "\n\n" .. text.gs_powercore_mp7.desc
+------------------------------------
+
+-- [[ MP9 ]]
+local skin = "moka_csgo_skin_mp9_"
+
+-- [[ Custom ]]
+L[skin .. "island_floral.printname"] = text.cu_mp9_island_floral.name
+L[skin .. "island_floral.description"] = collection.stmarc .. "\n\n" .. text.cu_mp9_island_floral.desc
+------------------------------------
+L[skin .. "black_sand.printname"] = text.cu_mp9_black_sand.name
+L[skin .. "black_sand.description"] = collection.clutch .. "\n\n" .. text.cu_mp9_black_sand.desc
+------------------------------------
+L[skin .. "chevron.printname"] = text.cu_mp9_chevron.name
+L[skin .. "chevron.description"] = collection.vanguard .. "\n\n" .. text.cu_mp9_chevron.desc
+------------------------------------
+L[skin .. "deadly_poison.printname"] = text.cu_mp9_deadly_poison.name
+L[skin .. "deadly_poison.description"] = collection.chroma .. "\n\n" .. text.cu_mp9_deadly_poison.desc
+------------------------------------
+L[skin .. "food_chain.printname"] = text.cu_mp9_food_chain.name
+L[skin .. "food_chain.description"] = collection.snakebite .. "\n\n" .. text.cu_mp9_food_chain.desc
+------------------------------------
+L[skin .. "goo.printname"] = text.cu_mp9_goo.name
+L[skin .. "goo.description"] = collection.spectrum2 .. "\n\n" .. text.cu_mp9_goo.desc
+------------------------------------
+L[skin .. "hydra.printname"] = text.cu_mp9_hydra.name
+L[skin .. "hydra.description"] = collection.cs20 .. "\n\n" .. text.cu_mp9_hydra.desc
+------------------------------------
+L[skin .. "narcis.printname"] = text.cu_MP9_Narcis.name
+L[skin .. "narcis.description"] = collection.gamma2 .. "\n\n" .. text.cu_MP9_Narcis.desc
+------------------------------------
+L[skin .. "superlight.printname"] = text.cu_mp9_superlight.name
+L[skin .. "superlight.description"] = collection.revolution .. "\n\n" .. text.cu_mp9_superlight.desc
+------------------------------------
+L[skin .. "vein.printname"] = text.cu_mp9_vein.name
+L[skin .. "vein.description"] = collection.horizon .. "\n\n" .. text.cu_mp9_vein.desc
+------------------------------------
+
+-- [[ Gunsmith ]]
+L[skin .. "colony01.printname"] = text.gs_mp9_colony01.name
+L[skin .. "colony01.description"] = collection.dangerzone .. "\n\n" .. text.gs_mp9_colony01.desc
+------------------------------------
+L[skin .. "starlight.printname"] = text.gs_mp9_starlight.name
+L[skin .. "starlight.description"] = collection.dreams .. "\n\n" .. text.gs_mp9_starlight.desc
+------------------------------------
+
 -- [[ Template ]]
 -- local skin = "moka_csgo_skin_cz75_"
 

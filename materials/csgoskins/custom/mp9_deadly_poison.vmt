@@ -1,0 +1,8 @@
+Patch
+{
+	include materials\models\csgo\mp9\smg_mp9.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/custom/workshop/mp9_deadly_poison"
+	}
+}

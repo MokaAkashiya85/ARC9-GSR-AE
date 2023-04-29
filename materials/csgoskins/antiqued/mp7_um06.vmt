@@ -1,0 +1,14 @@
+Patch
+{
+	include materials\models\csgo\mp7\smg_mp7.vmt
+	// replace
+	// {
+	// }
+	insert
+	{
+		"$detail"				"csgoskins/Files/antiqued/workshop/mp7um06"
+		"$detailscale" "1"
+		"$detailblendmode" "1"
+		"$detailblendfactor" "1"
+	}
+}

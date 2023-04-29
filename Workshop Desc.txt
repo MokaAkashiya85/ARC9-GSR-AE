@@ -1,7 +1,7 @@
 [b]Make sure you download Part 2 of this addon - otherwise you will receive material or texture errors.[/b]
 [b]If you post a comment on the page claiming missing materials or texture errors just because you did not download Part 2, then you will be blocked.[/b]
 
-[h1][b] This mod is still a work in progress. If you discover missing or incorrect skins, report them. [/b][/h1]
+[h1][b]This mod is still a work in progress. If you discover missing or incorrect skins, report them.[/b][/h1]
 
 I present to you, Gunsmith Reloaded - Appearance Expansion (GSR-AE for short), an addition to the regular Gunsmith Reloaded addon that aims to offer as many of the original CS:GO skins for all applicable weapons as possible, all through the power of ARC9 and its universal attachment systems.
 
@@ -13,41 +13,113 @@ Join the official [url=https://discord.gg/gaHXusZ]Diamond Doves Discord server h
 [*] All skins alter the name of the weapon
 [*] All skins detail which collection they are from and have their original descriptions
 [*] Localization support! Currently available in*:
-[list]
-[*]Bulgarian
-[*]Czech
-[*]Danish
-[*]German*
-[*]Greek
-[*]English*
-[*]Spanish*
-[*]Finnish
-[*]French
-[*]Hungarian
-[*]Italian
-[*]Japanese
-[*]Korean
-[*]Dutch
-[*]Norwegian
-[*]Polish
-[*]Brazilian Portuguese
-[*]Portuguese
-[*]Russian*
-[*]Swedish*
-[*]Thai
-[*]Turkish
-[*]Ukrainian
-[*]Vietnamese
-[*]Simplified Chinese*
-[*]Traditional Chinese
-[/list]
+[table][tr]
+	[th]Bulgarian[/th]
+	[th]Czech[/th]
+	[th]Danish[/th]
+	[th]German*[/th]
+[/tr][tr]
+	[th]Greek[/th]
+	[th]English*[/th]
+	[th]Spanish*[/th]
+	[th]Finnish[/th]
+[/tr][tr]
+	[th]French[/th]
+	[th]Hungarian[/th]
+	[th]Italian*[/th]
+	[th]Japanese[/th]
+[/tr][tr]
+	[th]Korean[/th]
+	[th]Dutch[/th]
+	[th]Norwegian[/th]
+	[th]Polish[/th]
+[/tr][tr]
+	[th]Brazilian P.[/th]
+	[th]Portuguese[/th]
+	[th]Russian*[/th]
+	[th]Swedish*[/th]
+[/tr][tr]
+	[th]Thai[/th]
+	[th]Turkish[/th]
+	[th]Ukrainian[/th]
+	[th]Vietnamese[/th]
+[/tr][tr]
+	[th]S. Chinese[/th]
+	[th]T. Chinese[/th]
+[/tr][/table]
 *Also has official ARC9 support.
 [/list]
 
-[h1]NOTE[/h1]
-[i]All of the skins are converted to GMod as-is and will not have any texture alterations. If a skin looks weird or incorrect in-game, or is missing entirely, that's because it was either a pain to get right, or impossible to do, or perhaps just forgotten.[/i]
-[i]If you are looking for a list of what skins are included, refer to the discussion page called "Included Skins". It details if it's included or incorrectly done on purpose.[/i]
-[i]Remember that when using these skins, many weapon attachments will look incorrect. That is because of the base, not GSR or GSRAE.[/i]
+[h1]TONS 'O SKINS[/h1]
+As many skins as possible are included. Let's go over how many weapons have gotten skins, and just how many:
+[i]Weapons not listed did not get any skins[/i]
+[i]Dual weapons can also equip skins[/i]
+[b]Pistols[/b]
+[table][tr]
+	[th]Beretta (16)[/th]
+	[th]CZ75-Auto (13)[/th]
+	[th]Desert Eagle (17)[/th]
+	[th]Five-SeveN (16)[/th]
+[/tr][tr]
+	[th]Glock-18 (19)[/th]
+	[th]P2000 (12)[/th]
+	[th]P250 (23)[/th]
+	[th]R8 Revolver (23)[/th]
+[/tr][tr]
+	[th]Tec-9 (23)[/th]
+	[th]USP-S (12)[/th]
+[/tr][/table]
+
+[b]SMGs[/b]
+[table][tr]
+	[th]MAC-10 (21)[/th]
+	[th]MP5-SD (10)[/th]
+	[th]MP7 (12)[/th]
+	[th]MP9 (12)[/th]
+[/tr][tr]
+	[th]P90 (23)[/th]
+	[th]PP-Bizon (12)[/th]
+	[th]UMP-45 (23)[/th]
+[/tr][/table]
+
+[b]Shotguns[/b]
+[table][tr]
+	[th]MAC-7 (13)[/th]
+	[th]Nova (10)[/th]
+	[th]Sawed-Off (12)[/th]
+	[th]XM1014 (12)[/th]
+[/tr][/table]
+
+[b]Assault Rifles[/b]
+[table][tr]
+	[th]AK-47 (34)[/th]
+	[th]FAMAS (14)[/th]
+	[th]Galil AR (12)[/th]
+	[th]M4A1-S (21)[/th]
+[/tr][tr]
+	[th]M4A4 (23)[/th]
+	[th]SIG556 (23)[/th]
+[/tr][/table]
+
+[b]LMGs[/b]
+[table][tr]
+	[th]M249 (9)[/th]
+	[th]Negev (10)[/th]
+[/tr][/table]
+
+[b]Sniper Rifles[/b]
+[table][tr]
+	[th]AWP (23)[/th]
+	[th]G3SG1 (12)[/th]
+	[th]SCAR-20 (10)[/th]
+	[th]SSG 08 (10)[/th]
+[/tr][/table]
+
+
+[h1]NOTES[/h1]
+1 - [i]All the skins converted to GMod are ported mostly as-is and will not have texture alterations. If a skin looks weird of incorrect, or is missing entirely, that's because of it being impossible to get, difficult to recreate or it was just missed entirely.[/i]
+2 - [i]Remember that when using these skins, many weapon attachments will look incorrect. That is because of the base, not GSR or GSRAE.[/i]
+3 - [i]The skins are categorised on their rarity in CS:GO.[/i]
 
 [h1]FAQ[/h1]
 - [b]How do I equip them?:[/b] When in the customization screen, click on [b]PERSONALIZE[/b], then [b]Skins[/b], then [b]CS:GO Skins[/b] and then select the category and skin you want to use!
