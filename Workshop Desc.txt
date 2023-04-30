@@ -104,7 +104,7 @@ As many skins as possible are included. Let's go over how many weapons have gott
 [b]LMGs[/b]
 [table][tr]
 	[th]M249 (9)[/th]
-	[th]Negev (10)[/th]
+	[th]Negev (9)[/th]
 [/tr][/table]
 
 [b]Sniper Rifles[/b]

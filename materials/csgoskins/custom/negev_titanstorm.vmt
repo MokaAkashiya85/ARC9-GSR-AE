@@ -1,0 +1,8 @@
+Patch
+{
+	include materials\models\csgo\negev\mach_negev.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/custom/workshop/mach_negev_titanstorm"
+	}
+}

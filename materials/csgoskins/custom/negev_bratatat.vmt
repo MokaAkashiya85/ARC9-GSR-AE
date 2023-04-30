@@ -1,0 +1,11 @@
+Patch
+{
+	include materials\models\csgo\negev\mach_negev.vmt
+	insert
+	{
+		"$detail"				"csgoskins/Files/custom/bratatat_negev"
+		"$detailscale" "1"
+		"$detailblendmode" "1"
+		"$detailblendfactor" "1"
+	}
+}

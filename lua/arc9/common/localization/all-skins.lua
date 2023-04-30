@@ -1117,6 +1117,40 @@ L[skin .. "starlight.printname"] = text.gs_mp9_starlight.name
 L[skin .. "starlight.description"] = collection.dreams .. "\n\n" .. text.gs_mp9_starlight.desc
 ------------------------------------
 
+-- [[ Negev ]]
+local skin = "moka_csgo_skin_negev_"
+
+-- [[ Custom ]]
+L[skin .. "bratatat.printname"] = text.cu_bratatat_negev.name
+L[skin .. "bratatat.description"] = collection.esports14 .. "\n\n" .. text.cu_bratatat_negev.desc
+------------------------------------
+L[skin .. "titanstorm.printname"] = text.cu_titanstorm.name
+L[skin .. "titanstorm.description"] = collection.breakout .. "\n\n" .. text.cu_titanstorm.desc
+------------------------------------
+L[skin .. "annihilator.printname"] = text.cu_negev_annihilator.name
+L[skin .. "annihilator.description"] = collection.falchion .. "\n\n" .. text.cu_negev_annihilator.desc
+------------------------------------
+L[skin .. "clear_sky.printname"] = text.cu_negev_clear_sky.name
+L[skin .. "clear_sky.description"] = collection.recoil .. "\n\n" .. text.cu_negev_clear_sky.desc
+------------------------------------
+L[skin .. "devtexture.printname"] = text.cu_negev_devtexture.name
+L[skin .. "devtexture.description"] = collection.snakebite .. "\n\n" .. text.cu_negev_devtexture.desc
+------------------------------------
+L[skin .. "impact.printname"] = text.cu_negev_impact.name
+L[skin .. "impact.description"] = collection.revolver .. "\n\n" .. text.cu_negev_impact.desc
+------------------------------------
+L[skin .. "prototype.printname"] = text.cu_negev_prototype.name
+L[skin .. "prototype.description"] = collection.prisma2 .. "\n\n" .. text.cu_negev_prototype.desc
+------------------------------------
+L[skin .. "ultralight.printname"] = text.cu_negev_ultralight.name
+L[skin .. "ultralight.description"] = collection.fracture .. "\n\n" .. text.cu_negev_ultralight.desc
+------------------------------------
+
+-- [[ Gunsmith ]]
+L[skin .. "thor.printname"] = text.gs_negev_thor.name
+L[skin .. "thor.description"] = collection.norse .. "\n\n" .. text.gs_negev_thor.desc
+------------------------------------
+
 -- [[ Template ]]
 -- local skin = "moka_csgo_skin_cz75_"
 
