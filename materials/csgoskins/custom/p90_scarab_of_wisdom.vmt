@@ -1,0 +1,19 @@
+Patch
+{
+	include materials\models\csgo\p90\smg_p90.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/custom/p90_scarab_of_wisdom"
+		"$bumpmap"				"csgoskins/Files/custom/p90_scarab_of_wisdom_normal"
+		"$phongboost"				".5"
+		"$envmaptint"				"[ .01 .01 .01 ]"
+		 Proxies {
+			"Arc9EnvMapTint"
+			{
+				"specularity" "1"
+				"min" "0"
+				"max" "0.01"
+			}
+		}
+	}
+}

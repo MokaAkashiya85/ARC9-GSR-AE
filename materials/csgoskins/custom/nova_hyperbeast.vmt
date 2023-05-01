@@ -1,0 +1,15 @@
+Patch
+{
+	include materials\models\csgo\nova\shot_nova.vmt
+	replace
+	{
+		"$basetexture"				"models/csgo/nova/shot_nova_skin3"
+	}
+	insert
+	{
+		"$detail"				"csgoskins/Files/custom/workshop/nova_hyperbeast"
+		"$detailscale"		"1"
+		"$detailblendmode" "4"
+		"$detailblendfactor" "1"
+	}
+}

@@ -1,0 +1,15 @@
+Patch
+{
+	include materials\models\csgo\nova\shot_nova.vmt
+	replace
+	{
+		"$basetexture"				"models/csgo/nova/shot_nova_skin2"
+	}
+	insert
+	{
+		"$detail"				"csgoskins/Files/custom/spring_nova"
+		"$detailscale"		"1"
+		"$detailblendmode" "4"
+		"$detailblendfactor" "1"
+	}
+}

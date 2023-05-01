@@ -1,0 +1,11 @@
+Patch
+{
+	include materials\models\csgo\p90\smg_p90.vmt
+	insert
+	{
+		"$detail"				"csgoskins/Files/custom/dragon_p90"
+		"$detailscale"		"1"
+		"$detailblendmode" "1"
+		"$detailblendfactor" "1"
+	}
+}

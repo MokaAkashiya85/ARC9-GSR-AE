@@ -774,7 +774,7 @@ L[skin .. "xray.printname"] = text.cu_xray_m4.name
 L[skin .. "xray.description"] = collection.esports13w .. "\n\n" .. text.cu_xray_m4.desc
 ------------------------------------
 L[skin .. "howling.printname"] = text.cu_howling.name
-L[skin .. "howling.description"] = collection.huntsman .. "\n\n" .. text.cu_howling.desc
+L[skin .. "howling.description"] = text.cu_howling.desc
 ------------------------------------
 L[skin .. "ancestral.printname"] = text.cu_m4a4_ancestral.name
 L[skin .. "ancestral.description"] = collection.chroma .. "\n\n" .. text.cu_m4a4_ancestral.desc
@@ -1149,6 +1149,114 @@ L[skin .. "ultralight.description"] = collection.fracture .. "\n\n" .. text.cu_n
 -- [[ Gunsmith ]]
 L[skin .. "thor.printname"] = text.gs_negev_thor.name
 L[skin .. "thor.description"] = collection.norse .. "\n\n" .. text.gs_negev_thor.desc
+------------------------------------
+
+-- [[ Nova ]]
+local skin = "moka_csgo_skin_nova_"
+
+-- [[ Antiqued ]]
+L[skin .. "sci_fi.printname"] = text.aq_nova_sci_fi.name
+L[skin .. "sci_fi.description"] = collection.gamma .. "\n\n" .. text.aq_nova_sci_fi.desc
+------------------------------------
+
+-- [[ Custom ]]
+L[skin .. "spring.printname"] = text.cu_spring_nova.name
+L[skin .. "spring.description"] = collection.esports14 .. "\n\n" .. text.cu_spring_nova.desc
+------------------------------------
+L[skin .. "walnut.printname"] = text.cu_walnut_nova.name
+L[skin .. "walnut.description"] = collection.inferno .. "\n\n" .. text.cu_walnut_nova.desc
+------------------------------------
+L[skin .. "antique.printname"] = text.cu_nova_antique.name
+L[skin .. "antique.description"] = collection.phoenix .. "\n\n" .. text.cu_nova_antique.desc
+------------------------------------
+L[skin .. "featherswing.printname"] = text.cu_nova_featherswing.name
+L[skin .. "featherswing.description"] = collection.shatteredweb .. "\n\n" .. text.cu_nova_featherswing.desc
+------------------------------------
+L[skin .. "hyperbeast.printname"] = text.cu_fiveseven_hyperbeast.name
+L[skin .. "hyperbeast.description"] = collection.wildfire .. "\n\n" .. text.cu_nova_hyperbeast.desc
+------------------------------------
+L[skin .. "koi.printname"] = text.cu_nova_koi.name
+L[skin .. "koi.description"] = collection.breakout .. "\n\n" .. text.cu_nova_koi.desc
+------------------------------------
+L[skin .. "polymer.printname"] = text.cu_nova_polymer.name
+L[skin .. "polymer.description"] = collection.brokenfang .. "\n\n" .. text.cu_nova_polymer.desc
+------------------------------------
+L[skin .. "ranger.printname"] = text.cu_nova_ranger.name
+L[skin .. "ranger.description"] = collection.falchion .. "\n\n" .. text.cu_nova_ranger.desc
+------------------------------------
+L[skin .. "toysoldier.printname"] = text.cu_nova_toy_soldier.name
+L[skin .. "toysoldier.description"] = collection.horizon .. "\n\n" .. text.cu_nova_toy_soldier.desc
+------------------------------------
+
+-- [[ Gunsmith ]]
+L[skin .. "sobek.printname"] = text.gs_nova_sobek.name
+L[skin .. "sobek.description"] = collection.anubis .. "\n\n" .. text.gs_nova_sobek.desc
+------------------------------------
+
+-- [[ P90 ]]
+local skin = "moka_csgo_skin_p90_"
+
+-- [[ Antiqued ]]
+L[skin .. "royalbleed.printname"] = text.an_royalbleed.name
+L[skin .. "royalbleed.description"] = collection.huntsman .. "\n\n" .. text.an_royalbleed.desc
+------------------------------------
+
+-- [[ Custom ]]
+L[skin .. "brown_leather.printname"] = text.cu_brown_leather_p90.name
+L[skin .. "brown_leather.description"] = collection.baggage .. "\n\n" .. text.cu_brown_leather_p90.desc
+------------------------------------
+L[skin .. "dragon.printname"] = text.cu_dragon_p90_bravo.name
+L[skin .. "dragon.description"] = collection.bravo .. "\n\n" .. text.cu_dragon_p90_bravo.desc
+------------------------------------
+L[skin .. "jaguar_leather.printname"] = text.cu_jaguar_p90.name
+L[skin .. "jaguar_leather.description"] = collection.ancient .. "\n\n" .. text.cu_jaguar_p90.desc
+------------------------------------
+L[skin .. "scarab_of_wisdom.printname"] = text.cu_p90_scarab_of_wisdom.name
+L[skin .. "scarab_of_wisdom.description"] = collection.anubis .. "\n\n" .. text.cu_p90_scarab_of_wisdom.desc
+------------------------------------
+L[skin .. "faceit.printname"] = text.cu_p90_trigon.name
+L[skin .. "faceit.description"] = collection.phoenix .. "\n\n" .. text.cu_p90_trigon.desc
+------------------------------------
+L[skin .. "grimm.printname"] = text.cu_P90_Grimm.name
+L[skin .. "grimm.description"] = collection.gamma2 .. "\n\n" .. text.cu_P90_Grimm.desc
+------------------------------------
+L[skin .. "mastery.printname"] = text.cu_ak47_mastery.name
+L[skin .. "mastery.description"] = collection.falchion .. "\n\n" .. text.cu_ak47_mastery.desc
+------------------------------------
+L[skin .. "nostalgia.printname"] = text.cu_p90_nostalgia.name
+L[skin .. "nostalgia.description"] = collection.cs20 .. "\n\n" .. text.cu_p90_nostalgia.desc
+------------------------------------
+L[skin .. "offworld.printname"] = text.cu_p90_offworld.name
+L[skin .. "offworld.description"] = collection.prisma .. "\n\n" .. text.cu_p90_offworld.desc
+------------------------------------
+L[skin .. "shapewood.printname"] = text.cu_p90_shapewood.name
+L[skin .. "shapewood.description"] = collection.revolver .. "\n\n" .. text.cu_p90_shapewood.desc
+------------------------------------
+L[skin .. "scorpius_reborn.printname"] = text.cu_scorpius_p90.name
+L[skin .. "scorpius_reborn.description"] = collection.huntsman .. "\n\n" .. text.cu_scorpius_p90.desc
+------------------------------------
+L[skin .. "zone9.printname"] = text.cu_ak47_asiimov.name
+L[skin .. "zone9.description"] = collection.breakout .. "\n\n" .. text.cu_ak47_asiimov.desc
+------------------------------------
+
+-- [[ Gunsmith ]]
+L[skin .. "container.printname"] = text.gs_p90_container.name
+L[skin .. "container.description"] = collection.fracture .. "\n\n" .. text.gs_p90_container.desc
+------------------------------------
+L[skin .. "fullthrottle.printname"] = text.gs_p90_full_throttle.name
+L[skin .. "fullthrottle.description"] = collection.gamma .. "\n\n" .. text.gs_p90_full_throttle.desc
+------------------------------------
+L[skin .. "neoqueen.printname"] = text.gs_p90_neoqueen.name
+L[skin .. "neoqueen.description"] = collection.revolution .. "\n\n" .. text.gs_p90_neoqueen.desc
+------------------------------------
+L[skin .. "shallow_grave.printname"] = text.gs_p90_shallow_grave.name
+L[skin .. "shallow_grave.description"] = collection.glove .. "\n\n" .. text.gs_p90_shallow_grave.desc
+------------------------------------
+L[skin .. "tangled.printname"] = text.gs_p90_tangled.name
+L[skin .. "tangled.description"] = collection.recoil .. "\n\n" .. text.gs_p90_tangled.desc
+------------------------------------
+L[skin .. "tread.printname"] = text.gs_p90_tread.name
+L[skin .. "tread.description"] = collection.horizon .. "\n\n" .. text.gs_p90_tread.desc
 ------------------------------------
 
 -- [[ Template ]]

@@ -1,0 +1,20 @@
+
+Patch
+{
+	include materials\models\csgo\nova\shot_nova.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/gunsmith/nova_sobek"
+		"$bumpmap"				"csgoskins/Files/gunsmith/nova_sobek_normal"
+		"$phongboost"				".5"
+		"$envmaptint"				"[ .01 .01 .01 ]"
+		 Proxies {
+			"Arc9EnvMapTint"
+			{
+				"specularity" "1"
+				"min" "0"
+				"max" "0.01"
+			}
+		}
+	}
+}

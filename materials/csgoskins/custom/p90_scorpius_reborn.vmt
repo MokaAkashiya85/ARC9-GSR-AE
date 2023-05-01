@@ -1,0 +1,8 @@
+Patch
+{
+	include materials\models\csgo\p90\smg_p90.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/custom/workshop/scorpius_reborn_p90"
+	}
+}

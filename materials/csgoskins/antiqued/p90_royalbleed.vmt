@@ -1,0 +1,15 @@
+Patch
+{
+	include materials\models\csgo\p90\smg_p90.vmt
+	replace
+	{
+		"$basetexture"				"models/csgo/p90/smg_p90_skin"
+	}
+	insert
+	{
+		"$detail"				"csgoskins/Files/antiqued/workshop/p90_royalbleed"
+		"$detailscale"		"1"
+		"$detailblendmode" "4"
+		"$detailblendfactor" "1"
+	}
+}
