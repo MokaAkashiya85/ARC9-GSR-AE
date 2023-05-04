@@ -1,0 +1,11 @@
+Patch
+{
+	include materials\models\csgo\p2000\pist_hkp2000.vmt
+	insert
+	{
+		"$detail"				"csgoskins/Files/antiqued/workshop/p2000_acid_clover"
+		"$detailscale"		"1.4"
+		"$detailblendmode" "4"
+		"$detailblendfactor" "1"
+	}
+}

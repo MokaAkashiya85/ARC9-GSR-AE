@@ -1,0 +1,8 @@
+Patch
+{
+	include materials\models\csgo\p250\p250_body.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/custom/workshop/p250_asiimov"
+	}
+}

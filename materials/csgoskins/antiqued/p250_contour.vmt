@@ -1,0 +1,8 @@
+Patch
+{
+	include materials\models\csgo\p250\p250_body.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/antiqued/workshop/coridium_p250_contour_blue"
+	}
+}

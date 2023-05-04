@@ -1,0 +1,8 @@
+Patch
+{
+	include materials\models\csgo\p2000\pist_hkp2000.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/antiqued/workshop/p2000_boom"
+	}
+}

@@ -1,0 +1,19 @@
+Patch
+{
+	include materials\models\csgo\p250\p250_body.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/antiqued/workshop/p250_cartel"
+		"$bumpmap"				"csgoskins/Files/antiqued/workshop/p250_cartel_normal"
+		"$phongboost"				".5"
+		"$envmaptint"				"[ .01 .01 .01 ]"
+		 Proxies {
+			"Arc9EnvMapTint"
+			{
+				"specularity" "1"
+				"min" "0"
+				"max" "0.01"
+			}
+		}
+	}
+}

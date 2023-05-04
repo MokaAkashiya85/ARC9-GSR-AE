@@ -1259,6 +1259,117 @@ L[skin .. "tread.printname"] = text.gs_p90_tread.name
 L[skin .. "tread.description"] = collection.horizon .. "\n\n" .. text.gs_p90_tread.desc
 ------------------------------------
 
+-- [[ P250 ]]
+local skin = "moka_csgo_skin_p250_"
+
+-- [[ Antiqued ]]
+L[skin .. "contour.printname"] = text.aq_p250_contour.name
+L[skin .. "contour.description"] = collection.chroma2 .. "\n\n" .. text.aq_p250_contour.desc
+------------------------------------
+L[skin .. "verdigris.printname"] = text.aq_p250_verdigris.name
+L[skin .. "verdigris.description"] = collection.prisma .. "\n\n" .. text.aq_p250_verdigris.desc
+------------------------------------
+L[skin .. "cartel.printname"] = text.aq_p250_cartel.name
+L[skin .. "cartel.description"] = collection.vanguard .. "\n\n" .. text.aq_p250_cartel.desc
+------------------------------------
+
+-- [[ Custom ]]
+L[skin .. "xray.printname"] = text.cu_xray_p250.name
+L[skin .. "xray.description"] = collection.xray .. "\n\n" .. text.cu_xray_p250.desc
+------------------------------------
+L[skin .. "asiimov.printname"] = text.cu_p250_asiimov.name
+L[skin .. "asiimov.description"] = collection.chroma3 .. "\n\n" .. text.cu_p250_asiimov.desc
+------------------------------------
+L[skin .. "axiom.printname"] = text.cu_p250_axiom.name
+L[skin .. "axiom.description"] = collection.hydra .. "\n\n" .. text.cu_p250_axiom.desc
+------------------------------------
+L[skin .. "casette.printname"] = text.cu_p250_cassette.name
+L[skin .. "casette.description"] = collection.fracture .. "\n\n" .. text.cu_p250_cassette.desc
+------------------------------------
+L[skin .. "cybercroc.printname"] = text.cu_p250_cybercroc.name
+L[skin .. "cybercroc.description"] = collection.spectrum2 .. "\n\n" .. text.cu_p250_cybercroc.desc
+------------------------------------
+L[skin .. "infect.printname"] = text.cu_p250_infect.name
+L[skin .. "infect.description"] = collection.brokenfang .. "\n\n" .. text.cu_p250_infect.desc
+------------------------------------
+L[skin .. "mandala.printname"] = text.cu_p250_mandala.name
+L[skin .. "mandala.description"] = collection.chroma .. "\n\n" .. text.cu_p250_mandala.desc
+------------------------------------
+L[skin .. "orange_gun_refined.printname"] = text.cu_p250_refined.name
+L[skin .. "orange_gun_refined.description"] = collection.winteroffensive .. "\n\n" .. text.cu_p250_refined.desc
+------------------------------------
+L[skin .. "rebuilt.printname"] = text.cu_p250_rebuilt.name
+L[skin .. "rebuilt.description"] = collection.revolution .. "\n\n" .. text.cu_p250_rebuilt.desc
+------------------------------------
+
+-- [[ Gunsmith ]]
+L[skin .. "apep.printname"] = text.gs_p250_apep.name
+L[skin .. "apep.description"] = collection.anubis .. "\n\n" .. text.gs_p250_apep.desc
+------------------------------------
+L[skin .. "checker.printname"] = text.gs_p250_checker.name
+L[skin .. "checker.description"] = collection.inferno_2018 .. "\n\n" .. text.gs_p250_checker.desc
+------------------------------------
+L[skin .. "cybershell.printname"] = text.gs_p250_cybershell.name
+L[skin .. "cybershell.description"] = collection.snakebite .. "\n\n" .. text.gs_p250_cybershell.desc
+------------------------------------
+L[skin .. "inferno.printname"] = text.gs_p250_inferno.name
+L[skin .. "inferno.description"] = collection.cs20 .. "\n\n" .. text.gs_p250_inferno.desc
+------------------------------------
+L[skin .. "visions.printname"] = text.gs_p250_visions.name
+L[skin .. "visions.description"] = collection.recoil .. "\n\n" .. text.gs_p250_visions.desc
+------------------------------------
+
+-- [[ P2000 ]]
+local skin = "moka_csgo_skin_p2000_"
+
+-- [[ Antiqued ]]
+L[skin .. "acid_clover.printname"] = text.aq_p2000_acid_clover.name
+L[skin .. "acid_clover.description"] = collection.prisma2 .. "\n\n" .. text.aq_p2000_acid_clover.desc
+------------------------------------
+L[skin .. "boom.printname"] = text.aq_p2000_boom.name
+L[skin .. "boom.description"] = collection.falchion .. "\n\n" .. text.aq_p2000_boom.desc
+------------------------------------
+L[skin .. "lost_world.printname"] = text.aq_p2000_lost_world.name
+L[skin .. "lost_world.description"] = collection.fracture .. "\n\n" .. text.aq_p2000_lost_world.desc
+------------------------------------
+
+-- [[ Custom ]]
+-- L[skin .. "favela.printname"] = text.cu_favela.name
+-- L[skin .. "favela.description"] = collection.esports14 .. "\n\n" .. text.cu_favela.desc
+------------------------------------
+L[skin .. "leather.printname"] = text.cu_luggage_p2000.name
+L[skin .. "leather.description"] = collection.baggage .. "\n\n" .. text.cu_luggage_p2000.desc
+------------------------------------
+L[skin .. "decline.printname"] = text.cu_p2000_decline.name
+L[skin .. "decline.description"] = collection.revolution .. "\n\n" .. text.cu_p2000_decline.desc
+------------------------------------
+L[skin .. "fire.printname"] = text.cu_p2000_fire_elemental.name
+L[skin .. "fire.description"] = collection.vanguard .. "\n\n" .. text.cu_p2000_fire_elemental.desc
+------------------------------------
+L[skin .. "hunter.printname"] = text.cu_p2000_hunter.name
+L[skin .. "hunter.description"] = collection.hydra .. "\n\n" .. text.cu_p2000_hunter.desc
+------------------------------------
+L[skin .. "ivory.printname"] = text.cu_p2000_ivory.name
+L[skin .. "ivory.description"] = collection.breakout .. "\n\n" .. text.cu_p2000_ivory.desc
+------------------------------------
+L[skin .. "obsidian.printname"] = text.cu_p2000_obsidian.name
+L[skin .. "obsidian.description"] = collection.shatteredweb .. "\n\n" .. text.cu_p2000_obsidian.desc
+------------------------------------
+L[skin .. "pulse.printname"] = text.cu_famas_pulse.name
+L[skin .. "pulse.description"] = collection.huntsman .. "\n\n" .. text.cu_famas_pulse.desc
+------------------------------------
+L[skin .. "urban_hazard.printname"] = text.cu_p2000_urban_hazard.name
+L[skin .. "urban_hazard.description"] = collection.clutch .. "\n\n" .. text.cu_p2000_urban_hazard.desc
+------------------------------------
+
+-- [[ Gunsmith ]]
+L[skin .. "asiandawn_final.printname"] = text.gs_p2000_imperial_dragon.name
+L[skin .. "asiandawn_final.description"] = collection.gamma .. "\n\n" .. text.gs_p2000_imperial_dragon.desc
+------------------------------------
+L[skin .. "sport.printname"] = text["gs_p2000-sport"].name
+L[skin .. "sport.description"] = collection.glove .. "\n\n" .. text["gs_p2000-sport"].desc
+------------------------------------
+
 -- [[ Template ]]
 -- local skin = "moka_csgo_skin_cz75_"
 

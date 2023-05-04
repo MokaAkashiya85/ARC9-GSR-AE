@@ -1,0 +1,11 @@
+Patch
+{
+	include materials\models\csgo\p2000\pist_hkp2000.vmt
+	insert
+	{
+		"$detail"				"csgoskins/Files/custom/workshop/p2000_ivory"
+		"$detailscale"		"1"
+		"$detailblendmode" "1"
+		"$detailblendfactor" "1"
+	}
+}
