@@ -62,14 +62,13 @@ As many skins as possible are included. Let's go over how many weapons have gott
 	[th]Five-SeveN (16)[/th]
 [/tr][tr]
 	[th]Glock-18 (19)[/th]
-	[th]P2000 (12)[/th]
-	[th]P250 (23)[/th]
-	[th]R8 Revolver (23)[/th]
+	[th]P2000 (13)[/th]
+	[th]P250 (17)[/th]
+	[th]R8 Revolver (11)[/th]
 [/tr][tr]
 	[th]Tec-9 (23)[/th]
 	[th]USP-S (12)[/th]
 [/tr][/table]
-
 [b]SMGs[/b]
 [table][tr]
 	[th]MAC-10 (21)[/th]
@@ -81,7 +80,6 @@ As many skins as possible are included. Let's go over how many weapons have gott
 	[th]PP-Bizon (12)[/th]
 	[th]UMP-45 (23)[/th]
 [/tr][/table]
-
 [b]Shotguns[/b]
 [table][tr]
 	[th]MAC-7 (13)[/th]
@@ -89,7 +87,6 @@ As many skins as possible are included. Let's go over how many weapons have gott
 	[th]Sawed-Off (12)[/th]
 	[th]XM1014 (12)[/th]
 [/tr][/table]
-
 [b]Assault Rifles[/b]
 [table][tr]
 	[th]AK-47 (34)[/th]
@@ -100,13 +97,11 @@ As many skins as possible are included. Let's go over how many weapons have gott
 	[th]M4A4 (23)[/th]
 	[th]SIG556 (23)[/th]
 [/tr][/table]
-
 [b]LMGs[/b]
 [table][tr]
 	[th]M249 (9)[/th]
 	[th]Negev (9)[/th]
 [/tr][/table]
-
 [b]Sniper Rifles[/b]
 [table][tr]
 	[th]AWP (23)[/th]
@@ -114,7 +109,6 @@ As many skins as possible are included. Let's go over how many weapons have gott
 	[th]SCAR-20 (10)[/th]
 	[th]SSG 08 (10)[/th]
 [/tr][/table]
-
 
 [h1]NOTES[/h1]
 1 - [i]All the skins converted to GMod are ported mostly as-is and will not have texture alterations. If a skin looks weird of incorrect, or is missing entirely, that's because of it being impossible to get, difficult to recreate or it was just missed entirely.[/i]

@@ -5,7 +5,7 @@ local ATT = {}
 -- local name = "cartel"
 
 -- ATT.MenuCategory = "ARC9 - CSGO Attachments"
--- ATT.PrintName = "Cartel"
+-- ATT.PrintName = "<MISSINGLOC>"
 -- ATT.Description = ""
 -- ATT.Icon = Material("csgoskins/Icons/ssg08_" .. name .. ".png", "mips smooth")
 
@@ -25,7 +25,7 @@ local ATT = {}
 -- local name = "wildlotus"
 
 -- ATT.MenuCategory = "ARC9 - CSGO Attachments"
--- ATT.PrintName = "Wild Lotus"
+-- ATT.PrintName = "<MISSINGLOC>"
 -- ATT.Description = ""
 -- ATT.Icon = Material("csgoskins/Icons/ssg08_" .. name .. ".png", "mips smooth")
 
@@ -45,7 +45,7 @@ local ATT = {}
 -- local name = "gold_arabesque"
 
 -- ATT.MenuCategory = "ARC9 - CSGO Attachments"
--- ATT.PrintName = "Gold Arabesque"
+-- ATT.PrintName = "<MISSINGLOC>"
 -- ATT.Description = ""
 -- ATT.Icon = Material("csgoskins/Icons/ssg08_" .. name .. ".png", "mips smooth")
 

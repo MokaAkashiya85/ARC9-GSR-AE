@@ -1370,6 +1370,46 @@ L[skin .. "sport.printname"] = text["gs_p2000-sport"].name
 L[skin .. "sport.description"] = collection.glove .. "\n\n" .. text["gs_p2000-sport"].desc
 ------------------------------------
 
+-- [[ R8 Revolver ]]
+local skin = "moka_csgo_skin_r8_"
+
+-- [[ Custom ]]
+L[skin .. "survivalist.printname"] = text.cu_r8_survivalist.name
+L[skin .. "survivalist.description"] = collection.horizon .. "\n\n" .. text.cu_r8_survivalist.desc
+------------------------------------
+L[skin .. "cybersport.printname"] = text.cu_r8_cybersport.name
+L[skin .. "cybersport.description"] = collection.gamma .. "\n\n" .. text.cu_r8_cybersport.desc
+------------------------------------
+L[skin .. "oppressor.printname"] = text.cu_revolver_oppressor.name
+L[skin .. "oppressor.description"] = collection.prisma .. "\n\n" .. text.cu_revolver_oppressor.desc
+------------------------------------
+
+-- [[ Gunsmith ]]
+L[skin .. "acanthus_bronze.printname"] = text.gs_revolver_acanthus_bronze.name
+L[skin .. "acanthus_bronze.description"] = collection.anubis .. "\n\n" .. text.gs_revolver_acanthus_bronze.desc
+------------------------------------
+L[skin .. "banana.printname"] = text.gs_r8_banana.name
+L[skin .. "banana.description"] = collection.revolution .. "\n\n" .. text.gs_r8_banana.desc
+------------------------------------
+L[skin .. "leviathan.printname"] = text.gs_r8_leviathan.name
+L[skin .. "leviathan.description"] = collection.prisma2 .. "\n\n" .. text.gs_r8_leviathan.desc
+------------------------------------
+L[skin .. "llamacannon.printname"] = text.gs_r8_llamacannon.name
+L[skin .. "llamacannon.description"] = collection.spectrum2 .. "\n\n" .. text.gs_r8_llamacannon.desc
+------------------------------------
+L[skin .. "memento.printname"] = text.gs_r8_memento.name
+L[skin .. "memento.description"] = collection.shatteredweb .. "\n\n" .. text.gs_r8_memento.desc
+------------------------------------
+L[skin .. "rustking.printname"] = text.gs_r8_rustking.name
+L[skin .. "rustking.description"] = collection.snakebite .. "\n\n" .. text.gs_r8_rustking.desc
+------------------------------------
+L[skin .. "purple_elite.printname"] = text.gs_revolver_purple_elite.name
+L[skin .. "purple_elite.description"] = collection.snakebite .. "\n\n" .. text.gs_revolver_purple_elite.desc
+------------------------------------
+L[skin .. "tread.printname"] = text.gs_revolver_tread.name
+L[skin .. "tread.description"] = collection.clutch .. "\n\n" .. text.gs_revolver_tread.desc
+------------------------------------
+
 -- [[ Template ]]
 -- local skin = "moka_csgo_skin_cz75_"
 

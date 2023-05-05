@@ -1,0 +1,8 @@
+Patch
+{
+	include materials\models\csgo\r8\pist_revolver.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/custom/workshop/revolver_cybersport"
+	}
+}
