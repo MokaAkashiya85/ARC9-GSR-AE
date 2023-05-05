@@ -1,0 +1,15 @@
+Patch
+{
+	include materials\models\csgo\scar20\snip_scar20.vmt
+	replace
+	{
+		"$basetexture"		"models/csgo/scar20/snip_scar20_body_skin"
+	}
+	insert
+	{
+		"$detail"				"csgoskins/Files/antiqued/workshop/scar20_leak"
+		"$detailscale" "1"
+		"$detailblendmode" "4"
+		"$detailblendfactor" ".25"
+	}
+}

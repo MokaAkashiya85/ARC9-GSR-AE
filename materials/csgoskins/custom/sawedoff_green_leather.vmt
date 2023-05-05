@@ -1,0 +1,8 @@
+Patch
+{
+	include materials\models\csgo\sawedoff\shot_sawedoff_01.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/custom/green_leather_sawedoff"
+	}
+}

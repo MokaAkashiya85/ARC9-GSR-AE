@@ -84,7 +84,7 @@ As many skins as possible are included. Let's go over how many weapons have gott
 [table][tr]
 	[th]MAC-7 (13)[/th]
 	[th]Nova (10)[/th]
-	[th]Sawed-Off (12)[/th]
+	[th]Sawed-Off (15)[/th]
 	[th]XM1014 (12)[/th]
 [/tr][/table]
 [b]Assault Rifles[/b]

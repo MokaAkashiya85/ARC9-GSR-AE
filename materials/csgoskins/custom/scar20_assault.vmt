@@ -1,0 +1,19 @@
+Patch
+{
+	include materials\models\csgo\scar20\snip_scar20.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/custom/workshop/scar_assault"
+		"$bumpmap"				"csgoskins/Files/custom/workshop/scar_assault_normal"
+		"$phongboost"				".5"
+		"$envmaptint"				"[ .01 .01 .01 ]"
+		 Proxies {
+			"Arc9EnvMapTint"
+			{
+				"specularity" "1"
+				"min" "0"
+				"max" "0.01"
+			}
+		}
+	}
+}
