@@ -1,0 +1,15 @@
+Patch
+{
+	include materials\models\csgo\sg556\rif_sg556.vmt
+	replace
+	{
+		"$basetexture"		"models/csgo/sg556/rif_sg556_skin"
+	}
+	insert
+	{
+		"$detail"				"csgoskins/Files/antiqued/damascus_sg553"
+		"$detailscale" "1"
+		"$detailblendmode" "4"
+		"$detailblendfactor" "1"
+	}
+}

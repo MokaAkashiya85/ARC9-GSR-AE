@@ -1,0 +1,19 @@
+Patch
+{
+	include materials\models\csgo\sg556\rif_sg556.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/custom/workshop/sg553_cyberforce"
+		"$bumpmap"				"csgoskins/Files/custom/workshop/sg553_cyberforce_normal"
+		"$phongboost"				".5"
+		"$envmaptint"				"[ .01 .01 .01 ]"
+		 Proxies {
+			"Arc9EnvMapTint"
+			{
+				"specularity" "1"
+				"min" "0"
+				"max" "0.01"
+			}
+		}
+	}
+}

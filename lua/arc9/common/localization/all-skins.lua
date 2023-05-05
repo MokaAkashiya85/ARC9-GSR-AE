@@ -1503,6 +1503,63 @@ L[skin .. "powercore.printname"] = text.gs_SCAR20_Powercore.name
 L[skin .. "powercore.description"] = collection.gamma2 .. "\n\n" .. text.gs_SCAR20_Powercore.desc
 ------------------------------------
 
+-- [[ SIG556 ]]
+local skin = "moka_csgo_skin_sg556_"
+
+-- [[ Antiqued ]]
+L[skin .. "damascus.printname"] = text.aq_damascus.name
+L[skin .. "damascus.description"] = collection.dust2 .. "\n\n" .. text.aq_damascus.desc
+------------------------------------
+
+-- [[ Custom ]]
+L[skin .. "luggage.printname"] = text.cu_luggage_sg553.name
+L[skin .. "luggage.description"] = collection.baggage .. "\n\n" .. text.cu_luggage_sg553.desc
+------------------------------------
+L[skin .. "caution.printname"] = text.cu_sg553_caution.name
+L[skin .. "caution.description"] = collection.vertigo_2021 .. "\n\n" .. text.cu_sg553_caution.desc
+------------------------------------
+L[skin .. "rally.printname"] = text.cu_sg553_rally.name
+L[skin .. "rally.description"] = collection.inferno_2018 .. "\n\n" .. text.cu_sg553_rally.desc
+------------------------------------
+L[skin .. "atlas.printname"] = text.cu_sg553_atlas.name
+L[skin .. "atlas.description"] = collection.chroma3 .. "\n\n" .. text.cu_sg553_atlas.desc
+------------------------------------
+L[skin .. "cyber_dragon.printname"] = text.cu_sg553_cyber_dragon.name
+L[skin .. "cyber_dragon.description"] = collection.recoil .. "\n\n" .. text.cu_sg553_cyber_dragon.desc
+------------------------------------
+L[skin .. "cyberforce.printname"] = text.cu_sg553_cyberforce.name
+L[skin .. "cyberforce.description"] = collection.revolution .. "\n\n" .. text.cu_sg553_cyberforce.desc
+------------------------------------
+L[skin .. "darkwing.printname"] = text.cu_sg553_darkwing.name
+L[skin .. "darkwing.description"] = collection.prisma2 .. "\n\n" .. text.cu_sg553_darkwing.desc
+------------------------------------
+L[skin .. "reactor.printname"] = text.cu_sg553_reactor.name
+L[skin .. "reactor.description"] = collection.shatteredweb .. "\n\n" .. text.cu_sg553_reactor.desc
+------------------------------------
+L[skin .. "triarch.printname"] = text.cu_SG556_Triarch.name
+L[skin .. "triarch.description"] = collection.gamma2 .. "\n\n" .. text.cu_SG556_Triarch.desc
+------------------------------------
+
+-- [[ Gunsmith ]]
+L[skin .. "aerial.printname"] = text.cu_sg553_aerial.name
+L[skin .. "aerial.description"] = collection.gamma .. "\n\n" .. text.cu_sg553_aerial.desc
+------------------------------------
+L[skin .. "deathmetal.printname"] = text.gs_sg553_deathmetal.name
+L[skin .. "deathmetal.description"] = collection.snakebite .. "\n\n" .. text.gs_sg553_deathmetal.desc
+------------------------------------
+L[skin .. "over_heated.printname"] = text.gs_sg553_over_heated.name
+L[skin .. "over_heated.description"] = collection.dangerzone .. "\n\n" .. text.gs_sg553_over_heated.desc
+------------------------------------
+L[skin .. "phantom.printname"] = text.gs_sg553_phantom.name
+L[skin .. "phantom.description"] = collection.spectrum2 .. "\n\n" .. text.gs_sg553_phantom.desc
+------------------------------------
+L[skin .. "rusty.printname"] = text.gs_sg553_rusty.name
+L[skin .. "rusty.description"] = collection.fracture .. "\n\n" .. text.gs_sg553_rusty.desc
+------------------------------------
+L[skin .. "tigermoth.printname"] = text.gs_sg553_tiger_moth.name
+L[skin .. "tigermoth.description"] = collection.revolver .. "\n\n" .. text.gs_sg553_tiger_moth.desc
+------------------------------------
+
 -- [[ Template ]]
 -- local skin = "moka_csgo_skin_cz75_"
 

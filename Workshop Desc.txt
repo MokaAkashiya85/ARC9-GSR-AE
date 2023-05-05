@@ -95,7 +95,7 @@ As many skins as possible are included. Let's go over how many weapons have gott
 	[th]M4A1-S (21)[/th]
 [/tr][tr]
 	[th]M4A4 (23)[/th]
-	[th]SIG556 (23)[/th]
+	[th]SIG556 (16)[/th]
 [/tr][/table]
 [b]LMGs[/b]
 [table][tr]
