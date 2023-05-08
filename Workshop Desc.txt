@@ -107,7 +107,7 @@ As many skins as possible are included. Let's go over how many weapons have gott
 	[th]AWP (23)[/th]
 	[th]G3SG1 (12)[/th]
 	[th]SCAR-20 (10)[/th]
-	[th]SSG 08 (10)[/th]
+	[th]SSG 08 (14)[/th]
 [/tr][/table]
 
 [h1]NOTES[/h1]

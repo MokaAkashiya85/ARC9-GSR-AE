@@ -1560,6 +1560,55 @@ L[skin .. "tigermoth.printname"] = text.gs_sg553_tiger_moth.name
 L[skin .. "tigermoth.description"] = collection.revolver .. "\n\n" .. text.gs_sg553_tiger_moth.desc
 ------------------------------------
 
+-- [[ SSG 08 ]]
+local skin = "moka_csgo_skin_ssg08_"
+
+-- [[ Custom ]]
+L[skin .. "bloodinthewater.printname"] = text.cu_shark.name
+L[skin .. "bloodinthewater.description"] = collection.armsdeal2 .. "\n\n" .. text.cu_shark.desc
+------------------------------------
+L[skin .. "scorpion.printname"] = text.cu_ssg08_scorpion.name
+L[skin .. "scorpion.description"] = collection.dust2_2021 .. "\n\n" .. text.cu_ssg08_scorpion.desc
+------------------------------------
+L[skin .. "overtake.printname"] = text.cu_ssg_overtake.name
+L[skin .. "overtake.description"] = collection.riptide .. "\n\n" .. text.cu_ssg_overtake.desc
+------------------------------------
+L[skin .. "chromatic.printname"] = text.cu_ssg08_chromatic.name
+L[skin .. "chromatic.description"] = collection.brokenfang .. "\n\n" .. text.cu_ssg08_chromatic.desc
+------------------------------------
+L[skin .. "deathshead.printname"] = text.cu_ssg08_deathshead.name
+L[skin .. "deathshead.description"] = collection.hydra .. "\n\n" .. text.cu_ssg08_deathshead.desc
+------------------------------------
+L[skin .. "dragonfire.printname"] = text.cu_ssg08_dragonfire_scope.name
+L[skin .. "dragonfire.description"] = collection.glove .. "\n\n" .. text.cu_ssg08_dragonfire_scope.desc
+------------------------------------
+L[skin .. "fever_dream.printname"] = text.cu_ssg08_fever_dream.name
+L[skin .. "fever_dream.description"] = collection.prisma2 .. "\n\n" .. text.cu_ssg08_fever_dream.desc
+------------------------------------
+L[skin .. "mainframe.printname"] = text.cu_ssg08_mainframe.name
+L[skin .. "mainframe.description"] = collection.fracture .. "\n\n" .. text.cu_ssg08_mainframe.desc
+------------------------------------
+L[skin .. "necropos.printname"] = text.cu_ssg08_necropos.name
+L[skin .. "necropos.description"] = collection.wildfire .. "\n\n" .. text.cu_ssg08_necropos.desc
+------------------------------------
+L[skin .. "technicality.printname"] = text.cu_ssg08_technicality.name
+L[skin .. "technicality.description"] = collection.shadow .. "\n\n" .. text.cu_ssg08_technicality.desc
+------------------------------------
+L[skin .. "tickler.printname"] = text.cu_ssg08_tickler.name
+L[skin .. "tickler.description"] = collection.shatteredweb .. "\n\n" .. text.cu_ssg08_tickler.desc
+------------------------------------
+
+-- [[ Gunsmith ]]
+L[skin .. "anubis.printname"] = text.gs_ssg08_anubis.name
+L[skin .. "anubis.description"] = collection.anubis .. "\n\n" .. text.gs_ssg08_anubis.desc
+------------------------------------
+L[skin .. "checker.printname"] = text.gs_ssg08_checker.name
+L[skin .. "checker.description"] = collection.inferno_2018 .. "\n\n" .. text.gs_ssg08_checker.desc
+------------------------------------
+L[skin .. "armacore.printname"] = text.gs_ssg08_armacore.name
+L[skin .. "armacore.description"] = collection.chroma3 .. "\n\n" .. text.gs_ssg08_armacore.desc
+------------------------------------
+
 -- [[ Template ]]
 -- local skin = "moka_csgo_skin_cz75_"
 

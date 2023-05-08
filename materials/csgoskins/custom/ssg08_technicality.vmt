@@ -1,0 +1,8 @@
+Patch
+{
+	include materials\models\csgo\ssg08\snip_ssg08.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/custom/workshop/ssg08_technicality"
+	}
+}
