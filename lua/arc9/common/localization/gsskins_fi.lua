@@ -88,7 +88,7 @@ riptide = "Operaatio Ristiaallokko -kokoelma", -- community_29
 dreams = "Unelmia ja painajaisia -kokoelma", -- community_30
 recoil = "Rekyyli-kokoelma", -- community_31
 revolution = "Vallankumous-kokoelma", -- community_32
-anubis = "The Anubis Collection",
+anubis = "Anubis-kokoelma",
 
 secret = "HushHush-kokoelma"
 }

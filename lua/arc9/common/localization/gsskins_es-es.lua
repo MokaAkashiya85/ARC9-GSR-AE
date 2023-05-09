@@ -88,7 +88,7 @@ riptide = "Colección Operation Riptide", -- community_29
 dreams = "Colección Sueños y Pesadillas", -- community_30
 recoil = "Colección Retroceso", -- community_31
 revolution = "Colección Revolución", -- community_32
-anubis = "The Anubis Collection",
+anubis = "Colección Anubis",
 
 secret = "Colección HushHush"
 }

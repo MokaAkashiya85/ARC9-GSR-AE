@@ -1,0 +1,11 @@
+Patch
+{
+	include materials\models\csgo\xm1014\shot_xm1014_skin.vmt
+	insert
+	{
+		"$detail"				"csgoskins/Files/antiqued/workshop/xm1014_punk"
+		"$detailscale" "1.25"
+		"$detailblendmode" "4"
+		"$detailblendfactor" "1"
+	}
+}

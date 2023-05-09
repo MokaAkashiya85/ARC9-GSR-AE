@@ -88,7 +88,7 @@ riptide = "ชุดสะสมปฏิบัติการ Riptide", -- comm
 dreams = "ชุดสะสม Dreams & Nightmares", -- community_30
 recoil = "ชุดสะสม Recoil", -- community_31
 revolution = "ชุดสะสม Revolution", -- community_32
-anubis = "The Anubis Collection",
+anubis = "ชุดสะสม Anubis",
 
 secret = "ชุดสะสม HushHush"
 }

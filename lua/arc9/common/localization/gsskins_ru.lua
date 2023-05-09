@@ -88,7 +88,7 @@ riptide = "Коллекция операции «Хищные воды»", -- co
 dreams = "Коллекция «Грёзы и кошмары»", -- community_30
 recoil = "Гремучая коллекция", -- community_31
 revolution = "Коллекция «Революция»", -- community_32
-anubis = "The Anubis Collection",
+anubis = "Коллекция Anubis",
 
 secret = "Коллекция «HushHush»"
 }

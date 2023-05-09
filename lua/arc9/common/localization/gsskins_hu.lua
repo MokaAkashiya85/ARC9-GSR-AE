@@ -88,7 +88,7 @@ riptide = "Az Operation Riptide Gyűjtemény", -- community_29
 dreams = "Az Álmok és Rémálmok Gyűjtemény", -- community_30
 recoil = "A Visszarúgás Gyűjtemény", -- community_31
 revolution = "A Forradalom Gyűjtemény", -- community_32
-anubis = "The Anubis Collection",
+anubis = "Az Anubis Gyűjtemény",
 
 secret = "HushHush Gyűjtemény"
 }

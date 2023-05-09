@@ -1,0 +1,19 @@
+Patch
+{
+	include materials\models\csgo\xm1014\shot_xm1014.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/gunsmith/workshop/xm1014_watchdog"
+		"$bumpmap"				"csgoskins/Files/gunsmith/workshop/xm1014_watchdog_normal"
+		"$phongboost"				"0.25"
+		"$envmaptint"				"[ .01 .01 .01 ]"
+		 Proxies {
+			"Arc9EnvMapTint"
+			{
+				"specularity" "1"
+				"min" "0"
+				"max" "0.01"
+			}
+		}
+	}
+}

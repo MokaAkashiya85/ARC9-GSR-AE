@@ -88,7 +88,7 @@ riptide = "Girdap Operasyonu Koleksiyonu", -- community_29
 dreams = "Rüyalar ve Kâbuslar Koleksiyonu", -- community_30
 recoil = "Yılan Koleksiyonu", -- community_31
 revolution = "Devrim Koleksiyonu", -- community_32
-anubis = "The Anubis Collection",
+anubis = "Anubis Koleksiyonu",
 
 secret = "HushHush Koleksiyonu"
 }

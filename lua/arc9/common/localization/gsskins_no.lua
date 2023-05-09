@@ -88,7 +88,7 @@ riptide = "Operasjon Riptide-samlingen", -- community_29
 dreams = "Drømmer og mareritt-samlingen", -- community_30
 recoil = "Recoil-samlingen", -- community_31
 revolution = "Revolution-samlingen", -- community_32
-anubis = "The Anubis Collection",
+anubis = "Anubis-samlingen",
 
 secret = "HushHush Collection"
 }

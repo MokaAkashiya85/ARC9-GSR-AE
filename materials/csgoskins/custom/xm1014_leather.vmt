@@ -1,0 +1,8 @@
+Patch
+{
+	include materials\models\csgo\xm1014\shot_xm1014.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/custom/leather_xm1014"
+	}
+}

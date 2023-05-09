@@ -1,0 +1,9 @@
+Patch
+{
+	include materials\models\csgo\knife_bayonet\knife_bayonet.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/gunsmith/flip_future"
+		"$phongalbedoboost" "1"
+	}
+}

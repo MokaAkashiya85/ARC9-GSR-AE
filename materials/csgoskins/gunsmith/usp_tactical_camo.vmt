@@ -1,0 +1,19 @@
+Patch
+{
+	include materials\models\csgo\usp\pist_223.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/gunsmith/usps_tactical_camo"
+		"$bumpmap"				"csgoskins/Files/gunsmith/usps_tactical_camo_normal"
+		"$phongboost"				"0.25"
+		"$envmaptint"				"[ .01 .01 .01 ]"
+		 Proxies {
+			"Arc9EnvMapTint"
+			{
+				"specularity" "1"
+				"min" "0"
+				"max" "0.01"
+			}
+		}
+	}
+}

@@ -88,7 +88,7 @@ riptide = "Η Συλλογή Επιχείρησης Riptide", -- community_29
 dreams = "Η Συλλογή «Όνειρα και Εφιάλτες»", -- community_30
 recoil = "Συλλογή Recoil", -- community_31
 revolution = "Συλλογή Revolution", -- community_32
-anubis = "The Anubis Collection",
+anubis = "Η συλλογή Anubis",
 
 secret = "Συλλογή HushHush"
 }

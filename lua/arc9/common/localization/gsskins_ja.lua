@@ -88,7 +88,7 @@ riptide = "Operation Riptide コレクション", -- community_29
 dreams = "Dreams & Nightmares コレクション", -- community_30
 recoil = "Recoil コレクション", -- community_31
 revolution = "Revolution コレクション", -- community_32
-anubis = "The Anubis Collection",
+anubis = "Anubis コレクション",
 
 secret = "HushHush コレクション"
 }

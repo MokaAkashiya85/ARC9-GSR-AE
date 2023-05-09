@@ -88,7 +88,7 @@ riptide = "“激流大行动”收藏品", -- community_29
 dreams = "梦魇收藏品", -- community_30
 recoil = "反冲收藏品", -- community_31
 revolution = "变革收藏品", -- community_32
-anubis = "The Anubis Collection",
+anubis = "阿努比斯收藏品",
 
 secret = "The HushHush Collection"
 }

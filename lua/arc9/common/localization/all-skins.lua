@@ -1711,6 +1711,161 @@ L[skin .. "roadblock.printname"] = text.gs_ump_roadblock.name
 L[skin .. "roadblock.description"] = collection.recoil .. "\n\n" .. text.gs_ump_roadblock.desc
 ------------------------------------
 
+-- [[ USP-S ]]
+local skin = "moka_csgo_skin_usp_"
+
+-- [[ Antiqued ]]
+L[skin .. "silver.printname"] = text.aq_usp_stainless.name
+L[skin .. "silver.description"] = collection.armsdeal3 .. "\n\n" .. text.aq_usp_stainless.desc
+------------------------------------
+
+-- [[ Custom ]]
+L[skin .. "luggage.printname"] = text["cu_luggage_usp-s"].name
+L[skin .. "luggage.description"] = collection.baggage .. "\n\n" .. text["cu_luggage_usp-s"].desc
+------------------------------------
+L[skin .. "sandpapered.printname"] = text.cu_usp_sandpapered.name
+L[skin .. "sandpapered.description"] = collection.overpass .. "\n\n" .. text.cu_usp_sandpapered.desc
+------------------------------------
+L[skin .. "spitfire.printname"] = text.cu_spitfire.name
+L[skin .. "spitfire.description"] = collection.huntsman .. "\n\n" .. text.cu_spitfire.desc
+------------------------------------
+L[skin .. "black_lotus.printname"] = text.cu_usp_black_lotus.name
+L[skin .. "black_lotus.description"] = collection.riptide .. "\n\n" .. text.cu_usp_black_lotus.desc
+------------------------------------
+L[skin .. "cut.printname"] = text.cu_usp_cut.name
+L[skin .. "cut.description"] = collection.clutch .. "\n\n" .. text.cu_usp_cut.desc
+------------------------------------
+L[skin .. "cyrex.printname"] = text.cu_cyrex.name
+L[skin .. "cyrex.description"] = collection.glove .. "\n\n" .. text.cu_cyrex.desc
+------------------------------------
+L[skin .. "flashback.printname"] = text.cu_usp_flashback.name
+L[skin .. "flashback.description"] = collection.dangerzone .. "\n\n" .. text.cu_usp_flashback.desc
+------------------------------------
+L[skin .. "kaiman.printname"] = text.cu_kaiman.name
+L[skin .. "kaiman.description"] = collection.huntsman .. "\n\n" .. text.cu_kaiman.desc
+------------------------------------
+L[skin .. "kill_confirmed.printname"] = text.cu_usp_kill_confirmed.name
+L[skin .. "kill_confirmed.description"] = collection.shadow .. "\n\n" .. text.cu_usp_kill_confirmed.desc
+------------------------------------
+L[skin .. "krokos.printname"] = text.cu_usp_krokos.name
+L[skin .. "krokos.description"] = collection.brokenfang .. "\n\n" .. text.cu_usp_krokos.desc
+------------------------------------
+L[skin .. "printstream.printname"] = text.cu_printstream.name
+L[skin .. "printstream.description"] = collection.recoil .. "\n\n" .. text.cu_usp_printstream.desc
+------------------------------------
+L[skin .. "to_hell.printname"] = text.cu_usp_to_hell.name
+L[skin .. "to_hell.description"] = collection.dreams .. "\n\n" .. text.cu_usp_to_hell.desc
+------------------------------------
+L[skin .. "blueprint.printname"] = text.cu_usps_blueprint.name
+L[skin .. "blueprint.description"] = collection.hydra .. "\n\n" .. text.cu_usps_blueprint.desc
+------------------------------------
+L[skin .. "ct_elegant.printname"] = text["cu_m4a1-s_elegant"].name
+L[skin .. "ct_elegant.description"] = collection.phoenix .. "\n\n" .. text["cu_usp-s_elegant"].desc
+------------------------------------
+L[skin .. "noir.printname"] = text.cu_usps_noir.name
+L[skin .. "noir.description"] = collection.spectrum .. "\n\n" .. text.cu_usps_noir.desc
+------------------------------------
+L[skin .. "progressiv.printname"] = text.cu_usp_progressiv.name
+L[skin .. "progressiv.description"] = collection.falchion .. "\n\n" .. text.cu_usp_progressiv.desc
+------------------------------------
+
+-- [[ Gunsmith ]]
+L[skin .. "tactical_camo.printname"] = text.gs_usps_tactical_camo.name
+L[skin .. "tactical_camo.description"] = collection.anubis .. "\n\n" .. text.gs_usps_tactical_camo.desc
+------------------------------------
+L[skin .. "voltage.printname"] = text.gs_usp_voltage.name
+L[skin .. "voltage.description"] = collection.wildfire .. "\n\n" .. text.gs_usp_voltage.desc
+------------------------------------
+L[skin .. "hangedman.printname"] = text.gs_usps_hangedman.name
+L[skin .. "hangedman.description"] = collection.snakebite .. "\n\n" .. text.gs_usps_hangedman.desc
+------------------------------------
+
+-- [[ XM1014 ]]
+local skin = "moka_csgo_skin_xm1014_"
+
+-- [[ Antiqued ]]
+L[skin .. "leaf_fade.printname"] = text.aq_xm_leaf_fade.name
+L[skin .. "leaf_fade.description"] = collection.spectrum .. "\n\n" .. text.aq_xm_leaf_fade.desc
+------------------------------------
+L[skin .. "flames_yellow.printname"] = text.aq_xm1014_hot_rod.name
+L[skin .. "flames_yellow.description"] = collection.revolver .. "\n\n" .. text.aq_xm1014_hot_rod.desc
+------------------------------------
+L[skin .. "punk.printname"] = text.aq_xm1014_punk.name
+L[skin .. "punk.description"] = collection.snakebite .. "\n\n" .. text.aq_xm1014_punk.desc
+------------------------------------
+L[skin .. "scumbria.printname"] = text.aq_xm1014_scumbria.name
+L[skin .. "scumbria.description"] = collection.shadow .. "\n\n" .. text.aq_xm1014_scumbria.desc
+------------------------------------
+L[skin .. "sigla.printname"] = text.aq_xm1014_sigla.name
+L[skin .. "sigla.description"] = collection.chroma .. "\n\n" .. text.aq_xm1014_sigla.desc
+------------------------------------
+L[skin .. "ziggy_anarchy.printname"] = text.aq_xm1014_ziggy_anarchy.name
+L[skin .. "ziggy_anarchy.description"] = collection.spectrum2 .. "\n\n" .. text.aq_xm1014_ziggy_anarchy.desc
+------------------------------------
+
+-- [[ Custom ]]
+L[skin .. "leather.printname"] = text.cu_leather_xm1014.name
+L[skin .. "leather.description"] = collection.baggage .. "\n\n" .. text.cu_leather_xm1014.desc
+------------------------------------
+L[skin .. "pharaoh.printname"] = text.cu_xm1014_pharaoh.name
+L[skin .. "pharaoh.description"] = collection.anubis .. "\n\n" .. text.cu_xm1014_pharaoh.desc
+------------------------------------
+L[skin .. "heaven_guard.printname"] = text.cu_mag7_heaven.name
+L[skin .. "heaven_guard.description"] = collection.huntsman .. "\n\n" .. text.cu_mag7_heaven.desc
+------------------------------------
+L[skin .. "amulet_blue.printname"] = text.cu_xm1014_amulet_blue.name
+L[skin .. "amulet_blue.description"] = collection.fracture .. "\n\n" .. text.cu_xm1014_amulet_blue.desc
+------------------------------------
+L[skin .. "caritas.printname"] = text.cu_xm1014_caritas.name
+L[skin .. "caritas.description"] = collection.vanguard .. "\n\n" .. text.cu_xm1014_caritas.desc
+------------------------------------
+L[skin .. "incinerator.printname"] = text.cu_xm1014_incinerator.name
+L[skin .. "incinerator.description"] = collection.prisma .. "\n\n" .. text.cu_xm1014_incinerator.desc
+------------------------------------
+L[skin .. "oxide_blaze.printname"] = text.cu_xm1014_oxide_blaze.name
+L[skin .. "oxide_blaze.description"] = collection.clutch .. "\n\n" .. text.cu_xm1014_oxide_blaze.desc
+------------------------------------
+L[skin .. "spectrum.printname"] = text.cu_xm1014_spectrum.name
+L[skin .. "spectrum.description"] = collection.chroma3 .. "\n\n" .. text.cu_xm1014_spectrum.desc
+------------------------------------
+
+-- [[ Gunsmith ]]
+L[skin .. "watchdog.printname"] = text.gs_xm1014_watchdog.name
+L[skin .. "watchdog.description"] = collection.riptide .. "\n\n" .. text.gs_xm1014_watchdog.desc
+------------------------------------
+
+-- [[ Knife - Bayonet ]]
+local skin = "moka_csgo_skin_knife_bayonet_"
+
+-- [[ Custom ]]
+L[skin .. "lore.printname"] = text.cu_lore.name
+L[skin .. "lore.description"] = collection.gamma .. " | " .. collection.gamma2 .. "\n\n" .. text.cu_lore.desc
+------------------------------------
+
+-- [[ Gunsmith ]]
+L[skin .. "future.printname"] = text.gs_autotronic.name
+L[skin .. "future.description"] = collection.gamma .. " | " .. collection.gamma2 .. "\n\n" .. text.gs_autotronic.desc
+------------------------------------
+L[skin .. "black_laminate.printname"] = text.cu_stonewash.name
+L[skin .. "black_laminate.description"] = collection.gamma .. " | " .. collection.gamma2 .. "\n\n" .. text.cu_stonewash.desc
+------------------------------------
+
+-- [[ Knife - Flip Knife ]]
+local skin = "moka_csgo_skin_knife_flip_"
+
+-- [[ Custom ]]
+L[skin .. "lore.printname"] = text.cu_lore.name
+L[skin .. "lore.description"] = collection.gamma .. " | " .. collection.gamma2 .. "\n\n" .. text.cu_lore.desc
+------------------------------------
+
+-- [[ Gunsmith ]]
+L[skin .. "future.printname"] = text.gs_autotronic.name
+L[skin .. "future.description"] = collection.gamma .. " | " .. collection.gamma2 .. "\n\n" .. text.gs_autotronic.desc
+------------------------------------
+L[skin .. "black_laminate.printname"] = text.cu_stonewash.name
+L[skin .. "black_laminate.description"] = collection.gamma .. " | " .. collection.gamma2 .. "\n\n" .. text.cu_stonewash.desc
+------------------------------------
+
 -- [[ Template ]]
 -- local skin = "moka_csgo_skin_cz75_"
 

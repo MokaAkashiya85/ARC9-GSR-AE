@@ -1,0 +1,8 @@
+Patch
+{
+	include materials\models\csgo\usp\pist_223.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/custom/workshop/usps_noir"
+	}
+}
