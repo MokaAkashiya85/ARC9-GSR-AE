@@ -1,0 +1,15 @@
+Patch
+{
+	include materials\models\csgo\ump45\smg_ump45.vmt
+	replace
+	{
+		"$basetexture"		"models/csgo/ump45/smg_ump45_skin"
+	}
+	insert
+	{
+		"$detail"				"csgoskins/Files/antiqued/workshop/ump45_flameflower"
+		"$detailscale" "2"
+		"$detailblendmode" "4"
+		"$detailblendfactor" "1"
+	}
+}

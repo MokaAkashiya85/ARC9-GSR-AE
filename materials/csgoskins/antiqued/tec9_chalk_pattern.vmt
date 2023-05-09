@@ -1,0 +1,15 @@
+Patch
+{
+	include materials\models\csgo\tec9\pist_tec9.vmt
+	replace
+	{
+		"$basetexture"		"models/csgo/tec9/pist_tec9_skin"
+	}
+	insert
+	{
+		"$detail"				"csgoskins/Files/antiqued/workshop/tec9_chalk_pattern"
+		"$detailscale" "1"
+		"$detailblendmode" "4"
+		"$detailblendfactor" ".5"
+	}
+}

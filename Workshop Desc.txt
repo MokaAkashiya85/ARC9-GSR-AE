@@ -66,7 +66,7 @@ As many skins as possible are included. Let's go over how many weapons have gott
 	[th]P250 (17)[/th]
 	[th]R8 Revolver (11)[/th]
 [/tr][tr]
-	[th]Tec-9 (23)[/th]
+	[th]Tec-9 (14)[/th]
 	[th]USP-S (12)[/th]
 [/tr][/table]
 [b]SMGs[/b]

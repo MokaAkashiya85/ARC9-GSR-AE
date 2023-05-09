@@ -1,0 +1,8 @@
+Patch
+{
+	include materials\models\csgo\ump45\smg_ump45.vmt
+	replace
+	{
+		"$basetexture"				"csgoskins/Files/custom/workshop/ump_arrows"
+	}
+}

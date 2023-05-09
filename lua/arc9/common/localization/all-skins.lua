@@ -1609,6 +1609,108 @@ L[skin .. "armacore.printname"] = text.gs_ssg08_armacore.name
 L[skin .. "armacore.description"] = collection.chroma3 .. "\n\n" .. text.gs_ssg08_armacore.desc
 ------------------------------------
 
+-- [[ Tec-9 ]]
+local skin = "moka_csgo_skin_tec9_"
+
+-- [[ Antiqued ]]
+L[skin .. "chalk_pattern.printname"] = text.aq_tec9_chalk_pattern.name
+L[skin .. "chalk_pattern.description"] = collection.hydra .. "\n\n" .. text.aq_tec9_chalk_pattern.desc
+------------------------------------
+
+-- [[ Custom ]]
+L[skin .. "mummy.printname"] = text.cu_tec9_mummy.name
+L[skin .. "mummy.description"] = collection.anubis .. "\n\n" .. text.cu_tec9_mummy.desc
+------------------------------------
+L[skin .. "asiimov.printname"] = text.cu_tec_isaac.name
+L[skin .. "asiimov.description"] = collection.huntsman .. "\n\n" .. text.cu_tec_isaac.desc
+------------------------------------
+L[skin .. "avalanche.printname"] = text.cu_tec9_avalanche.name
+L[skin .. "avalanche.description"] = collection.revolver .. "\n\n" .. text.cu_tec9_avalanche.desc
+------------------------------------
+L[skin .. "bamboo.printname"] = text.cu_tec9_bamboo.name
+L[skin .. "bamboo.description"] = collection.prisma .. "\n\n" .. text.cu_tec9_bamboo.desc
+------------------------------------
+L[skin .. "cracked_opal.printname"] = text.cu_tec9_cracked_opal.name
+L[skin .. "cracked_opal.description"] = collection.spectrum2 .. "\n\n" .. text.cu_tec9_cracked_opal.desc
+------------------------------------
+L[skin .. "flash.printname"] = text.cu_tec9_flash.name
+L[skin .. "flash.description"] = collection.cs20 .. "\n\n" .. text.cu_tec9_flash.desc
+------------------------------------
+L[skin .. "snake.printname"] = text.cu_tec9_snake.name
+L[skin .. "snake.description"] = collection.horizon .. "\n\n" .. text.cu_tec9_snake.desc
+------------------------------------
+
+-- [[ Gunsmith ]]
+L[skin .. "envoy.printname"] = text.gs_tec9_envoy.name
+L[skin .. "envoy.description"] = collection.nuke_2018 .. "\n\n" .. text.gs_tec9_envoy.desc
+------------------------------------
+L[skin .. "decimator.printname"] = text.gs_tec9_decimator.name
+L[skin .. "decimator.description"] = collection.shatteredweb .. "\n\n" .. text.gs_tec9_decimator.desc
+------------------------------------
+L[skin .. "fubar.printname"] = text.gs_tec9_fubar.name
+L[skin .. "fubar.description"] = collection.dangerzone .. "\n\n" .. text.gs_tec9_fubar.desc
+------------------------------------
+L[skin .. "guerilla.printname"] = text.gs_tec9_guerilla.name
+L[skin .. "guerilla.description"] = collection.fracture .. "\n\n" .. text.gs_tec9_guerilla.desc
+------------------------------------
+L[skin .. "jambiya.printname"] = text.gs_tec9_jambiya.name
+L[skin .. "jambiya.description"] = collection.wildfire .. "\n\n" .. text.gs_tec9_jambiya.desc
+------------------------------------
+L[skin .. "supercharged.printname"] = text.gs_TEC9_Supercharged.name
+L[skin .. "supercharged.description"] = collection.gamma2 .. "\n\n" .. text.gs_TEC9_Supercharged.desc
+------------------------------------
+
+-- [[ UMP-45 ]]
+local skin = "moka_csgo_skin_ump_"
+
+-- [[ Antiqued ]]
+L[skin .. "flameflower.printname"] = text.aq_ump45_flameflower.name
+L[skin .. "flameflower.description"] = collection.hydra .. "\n\n" .. text.aq_ump45_flameflower.desc
+------------------------------------
+
+-- [[ Custom ]]
+L[skin .. "crimescene.printname"] = text.cu_ump_crime_scene.name
+L[skin .. "crimescene.description"] = collection.control .. "\n\n" .. text.cu_ump_crime_scene.desc
+------------------------------------
+L[skin .. "corporal.printname"] = text.cu_ump_corporal.name
+L[skin .. "corporal.description"] = collection.phoenix .. "\n\n" .. text.cu_ump_corporal.desc
+------------------------------------
+L[skin .. "arrows.printname"] = text.cu_ump_arrows.name
+L[skin .. "arrows.description"] = collection.dangerzone .. "\n\n" .. text.cu_ump_arrows.desc
+------------------------------------
+L[skin .. "bomb.printname"] = text.cu_ump_bomb.name
+L[skin .. "bomb.description"] = collection.cs20 .. "\n\n" .. text.cu_ump_bomb.desc
+------------------------------------
+L[skin .. "clutch_kick.printname"] = text.cu_ump_clutch_kick.name
+L[skin .. "clutch_kick.description"] = collection.revolution .. "\n\n" .. text.cu_ump_clutch_kick.desc
+------------------------------------
+L[skin .. "metritera.printname"] = text.cu_UMP45_Metritera.name
+L[skin .. "metritera.description"] = collection.gamma2 .. "\n\n" .. text.cu_UMP45_Metritera.desc
+------------------------------------
+L[skin .. "primalsaber.printname"] = text.cu_ump45_primalsaber.name
+L[skin .. "primalsaber.description"] = collection.chroma3 .. "\n\n" .. text.cu_ump45_primalsaber.desc
+------------------------------------
+L[skin .. "uproar.printname"] = text.cu_ump45_uproar.name
+L[skin .. "uproar.description"] = collection.falchion .. "\n\n" .. text.cu_ump45_uproar.desc
+------------------------------------
+L[skin .. "white_fang.printname"] = text.cu_ump45_white_fang.name
+L[skin .. "white_fang.description"] = collection.clutch .. "\n\n" .. text.cu_ump45_white_fang.desc
+------------------------------------
+L[skin .. "xray_machine.printname"] = text["cu_ump45_x-ray_machine"].name
+L[skin .. "xray_machine.description"] = collection.spectrum2 .. "\n\n" .. text["cu_ump45_x-ray_machine"].desc
+------------------------------------
+
+-- [[ Gunsmith ]]
+L[skin .. "abyss.printname"] = text.gs_ump_abyss.name
+L[skin .. "abyss.description"] = collection.spectrum .. "\n\n" .. text.gs_ump_abyss.desc
+------------------------------------
+L[skin .. "gold_bismuth.printname"] = text.gs_ump_gold_bismuth.name
+L[skin .. "gold_bismuth.description"] = collection.brokenfang .. "\n\n" .. text.gs_ump_gold_bismuth.desc
+------------------------------------
+L[skin .. "roadblock.printname"] = text.gs_ump_roadblock.name
+L[skin .. "roadblock.description"] = collection.recoil .. "\n\n" .. text.gs_ump_roadblock.desc
+------------------------------------
+
 -- [[ Template ]]
 -- local skin = "moka_csgo_skin_cz75_"
 
