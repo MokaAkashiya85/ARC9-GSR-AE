@@ -1,3 +1,5 @@
+if not GSR_AE_Part2_Installed then return end
+
 local ATT = {}
 
 -- " Custom "

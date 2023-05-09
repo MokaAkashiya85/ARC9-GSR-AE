@@ -1,3 +1,5 @@
+if not GSR_AE_Part2_Installed then return end
+
 local ATT = {}
 
 -- " Antiqued "
@@ -12,7 +14,7 @@ ATT.Icon = Material("csgoskins/Icons/nova_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Mil-Spec"
+ATT.Folder = "CS:GO Skins/3) Mil-Spec"
 
 ATT.Category = {"go_skins_nova"}
 ATT.Material = "csgoskins/antiqued/nova_" .. name
@@ -32,7 +34,7 @@ ATT.Icon = Material("csgoskins/Icons/nova_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Classified"
+ATT.Folder = "CS:GO Skins/5) Classified"
 
 ATT.Category = {"go_skins_nova"}
 ATT.Material = "csgoskins/custom/nova_" .. name
@@ -50,7 +52,7 @@ ATT.Icon = Material("csgoskins/Icons/nova_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Consumer"
+ATT.Folder = "CS:GO Skins/1) Consumer"
 
 ATT.Category = {"go_skins_nova"}
 ATT.Material = "csgoskins/custom/nova_" .. name
@@ -68,7 +70,7 @@ ATT.Icon = Material("csgoskins/Icons/nova_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Classified"
+ATT.Folder = "CS:GO Skins/5) Classified"
 
 ATT.Category = {"go_skins_nova"}
 ATT.Material = "csgoskins/custom/nova_" .. name
@@ -86,7 +88,7 @@ ATT.Icon = Material("csgoskins/Icons/nova_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Mil-Spec"
+ATT.Folder = "CS:GO Skins/3) Mil-Spec"
 
 ATT.Category = {"go_skins_nova"}
 ATT.Material = "csgoskins/custom/nova_" .. name
@@ -104,7 +106,7 @@ ATT.Icon = Material("csgoskins/Icons/nova_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Classified"
+ATT.Folder = "CS:GO Skins/5) Classified"
 
 ATT.Category = {"go_skins_nova"}
 ATT.Material = "csgoskins/custom/nova_" .. name
@@ -122,7 +124,7 @@ ATT.Icon = Material("csgoskins/Icons/nova_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Restricted"
+ATT.Folder = "CS:GO Skins/4) Restricted"
 
 ATT.Category = {"go_skins_nova"}
 ATT.Material = "csgoskins/custom/nova_" .. name
@@ -140,7 +142,7 @@ ATT.Icon = Material("csgoskins/Icons/nova_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Restricted"
+ATT.Folder = "CS:GO Skins/4) Restricted"
 
 ATT.Category = {"go_skins_nova"}
 ATT.Material = "csgoskins/custom/nova_" .. name
@@ -158,7 +160,7 @@ ATT.Icon = Material("csgoskins/Icons/nova_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Mil-Spec"
+ATT.Folder = "CS:GO Skins/3) Mil-Spec"
 
 ATT.Category = {"go_skins_nova"}
 ATT.Material = "csgoskins/custom/nova_" .. name
@@ -176,7 +178,7 @@ ATT.Icon = Material("csgoskins/Icons/nova_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Restricted"
+ATT.Folder = "CS:GO Skins/4) Restricted"
 
 ATT.Category = {"go_skins_nova"}
 ATT.Material = "csgoskins/custom/nova_" .. name
@@ -196,7 +198,7 @@ ATT.Icon = Material("csgoskins/Icons/nova_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Restricted"
+ATT.Folder = "CS:GO Skins/4) Restricted"
 
 ATT.Category = {"go_skins_nova"}
 ATT.Material = "csgoskins/gunsmith/nova_" .. name

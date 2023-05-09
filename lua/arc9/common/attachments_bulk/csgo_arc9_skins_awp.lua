@@ -1,3 +1,5 @@
+if not GSR_AE_Part2_Installed then return end
+
 local ATT = {}
 
 -- " Antiqued "
@@ -13,7 +15,7 @@ ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Covert"
+ATT.Folder = "CS:GO Skins/6) Covert"
 
 ATT.Category = {"go_skins_awp"}
 ATT.Material = "csgoskins/antiqued/awp_" .. name
@@ -31,7 +33,7 @@ ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Restricted"
+ATT.Folder = "CS:GO Skins/4) Restricted"
 
 ATT.Category = {"go_skins_awp"}
 ATT.Material = "csgoskins/antiqued/awp_" .. name
@@ -51,7 +53,7 @@ ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Covert"
+ATT.Folder = "CS:GO Skins/6) Covert"
 
 ATT.Category = {"go_skins_awp"}
 ATT.Material = "csgoskins/custom/awp_" .. name
@@ -69,7 +71,7 @@ ARC9.LoadAttachment(ATT, "moka_csgo_skin_awp_" .. name)
 -- ATT.SortOrder = 0
 -- ATT.Free = true
 
--- ATT.Folder = "CS:GO Skins/Classified"
+-- ATT.Folder = "CS:GO Skins/5) Classified"
 
 -- ATT.Category = {"go_skins_awp"}
 -- ATT.Material = "csgoskins/custom/awp_" .. name
@@ -87,7 +89,7 @@ ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Covert"
+ATT.Folder = "CS:GO Skins/6) Covert"
 
 ATT.Category = {"go_skins_awp"}
 ATT.Material = "csgoskins/custom/awp_" .. name
@@ -105,7 +107,7 @@ ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Covert"
+ATT.Folder = "CS:GO Skins/6) Covert"
 
 ATT.Category = {"go_skins_awp"}
 ATT.Material = "csgoskins/custom/awp_" .. name
@@ -123,7 +125,7 @@ ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Covert"
+ATT.Folder = "CS:GO Skins/6) Covert"
 
 ATT.Category = {"go_skins_awp"}
 ATT.Material = "csgoskins/custom/awp_" .. name
@@ -141,7 +143,7 @@ ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Classified"
+ATT.Folder = "CS:GO Skins/5) Classified"
 
 ATT.Category = {"go_skins_awp"}
 ATT.Material = "csgoskins/custom/awp_" .. name
@@ -159,7 +161,7 @@ ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Covert"
+ATT.Folder = "CS:GO Skins/6) Covert"
 
 ATT.Category = {"go_skins_awp"}
 ATT.Material = "csgoskins/custom/awp_" .. name
@@ -177,7 +179,7 @@ ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Classified"
+ATT.Folder = "CS:GO Skins/5) Classified"
 
 ATT.Category = {"go_skins_awp"}
 ATT.Material = "csgoskins/custom/awp_" .. name
@@ -195,7 +197,7 @@ ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Restricted"
+ATT.Folder = "CS:GO Skins/4) Restricted"
 
 ATT.Category = {"go_skins_awp"}
 ATT.Material = "csgoskins/custom/awp_" .. name
@@ -213,7 +215,7 @@ ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Restricted"
+ATT.Folder = "CS:GO Skins/4) Restricted"
 
 ATT.Category = {"go_skins_awp"}
 ATT.Material = "csgoskins/custom/awp_" .. name
@@ -231,7 +233,7 @@ ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Covert"
+ATT.Folder = "CS:GO Skins/6) Covert"
 
 ATT.Category = {"go_skins_awp"}
 ATT.Material = "csgoskins/custom/awp_" .. name
@@ -249,7 +251,7 @@ ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Covert"
+ATT.Folder = "CS:GO Skins/6) Covert"
 
 ATT.Category = {"go_skins_awp"}
 ATT.Material = "csgoskins/custom/awp_" .. name
@@ -267,7 +269,7 @@ ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Classified"
+ATT.Folder = "CS:GO Skins/5) Classified"
 
 ATT.Category = {"go_skins_awp"}
 ATT.Material = "csgoskins/custom/awp_" .. name
@@ -285,7 +287,7 @@ ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Covert"
+ATT.Folder = "CS:GO Skins/6) Covert"
 
 ATT.Category = {"go_skins_awp"}
 ATT.Material = "csgoskins/custom/awp_" .. name
@@ -305,7 +307,7 @@ ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Covert"
+ATT.Folder = "CS:GO Skins/6) Covert"
 
 ATT.Category = {"go_skins_awp"}
 ATT.Material = "csgoskins/gunsmith/awp_" .. name
@@ -323,7 +325,7 @@ ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Covert"
+ATT.Folder = "CS:GO Skins/6) Covert"
 
 ATT.Category = {"go_skins_awp"}
 ATT.Material = "csgoskins/gunsmith/awp_" .. name
@@ -341,7 +343,7 @@ ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Covert"
+ATT.Folder = "CS:GO Skins/6) Covert"
 
 ATT.Category = {"go_skins_awp"}
 ATT.Material = "csgoskins/gunsmith/awp_" .. name
@@ -359,7 +361,7 @@ ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Mil-Spec"
+ATT.Folder = "CS:GO Skins/3) Mil-Spec"
 
 ATT.Category = {"go_skins_awp"}
 ATT.Material = "csgoskins/gunsmith/awp_" .. name
@@ -377,7 +379,7 @@ ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Classified"
+ATT.Folder = "CS:GO Skins/5) Classified"
 
 ATT.Category = {"go_skins_awp"}
 ATT.Material = "csgoskins/gunsmith/awp_" .. name
@@ -395,7 +397,7 @@ ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Restricted"
+ATT.Folder = "CS:GO Skins/4) Restricted"
 
 ATT.Category = {"go_skins_awp"}
 ATT.Material = "csgoskins/gunsmith/awp_" .. name
@@ -413,7 +415,7 @@ ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Classified"
+ATT.Folder = "CS:GO Skins/5) Classified"
 
 ATT.Category = {"go_skins_awp"}
 ATT.Material = "csgoskins/gunsmith/awp_" .. name
@@ -431,7 +433,7 @@ ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/Restricted"
+ATT.Folder = "CS:GO Skins/4) Restricted"
 
 ATT.Category = {"go_skins_awp"}
 ATT.Material = "csgoskins/gunsmith/awp_" .. name

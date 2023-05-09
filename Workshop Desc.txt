@@ -109,6 +109,11 @@ As many skins as possible are included. Let's go over how many weapons have gott
 	[th]SCAR-20 (10)[/th]
 	[th]SSG 08 (14)[/th]
 [/tr][/table]
+[b]Melee[/b]
+[table][tr]
+	[th]Bayonet (3)[/th]
+	[th]Flip Knife (3)[/th]
+[/tr][/table]
 
 [h1]NOTES[/h1]
 1 - [i]All the skins converted to GMod are ported mostly as-is and will not have texture alterations. If a skin looks weird of incorrect, or is missing entirely, that's because of it being impossible to get, difficult to recreate or it was just missed entirely.[/i]
@@ -116,8 +121,8 @@ As many skins as possible are included. Let's go over how many weapons have gott
 3 - [i]The skins are categorised on their rarity in CS:GO.[/i]
 
 [h1]FAQ[/h1]
-- [b]How do I equip them?:[/b] When in the customization screen, click on [b]PERSONALIZE[/b], then [b]Skins[/b], then [b]CS:GO Skins[/b] and then select the category and skin you want to use!
-- [b]Do i require anything else to use this:[/b] You'll need the [url=https://steamcommunity.com/workshop/filedetails/?id=2910505837]ARC9 base[/url] and of course [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2910537020]Gunsmith Reloaded[/url].
+- [b]How do I equip them?[/b] - When in the customization screen, click on [b]PERSONALIZE[/b], then [b]Skins[/b], then [b]CS:GO Skins[/b] and then select the category and skin you want to use!
+- [b]Do i require anything else to use this?[/b] - You'll need the [url=https://steamcommunity.com/workshop/filedetails/?id=2910505837]ARC9 base[/url] and of course [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2910537020]Gunsmith Reloaded[/url].
 
 [h1]A big thanks to everyone who have helped bring Gunsmith Reloaded to what it is today:[/h1]
 [b] - Moka[/b]

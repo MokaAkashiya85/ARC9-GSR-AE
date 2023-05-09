@@ -1,3 +1,5 @@
+if not GSR_AE_Part2_Installed then return end
+
 local ATT = {}
 
 -- " Antiqued "
@@ -12,7 +14,7 @@ local ATT = {}
 -- ATT.SortOrder = 0
 -- ATT.Free = true
 
--- ATT.Folder = "CS:GO Skins/Covert"
+-- ATT.Folder = "CS:GO Skins/6) Covert"
 
 -- ATT.Category = {"go_skins_m4a1"}
 -- ATT.Material = "csgoskins/antiqued/m4a1_" .. name
@@ -32,7 +34,7 @@ local ATT = {}
 -- ATT.SortOrder = 0
 -- ATT.Free = true
 
--- ATT.Folder = "CS:GO Skins/Covert"
+-- ATT.Folder = "CS:GO Skins/6) Covert"
 
 -- ATT.Category = {"go_skins_m4a1"}
 -- ATT.Material = "csgoskins/custom/m4a1_" .. name
@@ -52,7 +54,7 @@ local ATT = {}
 -- ATT.SortOrder = 0
 -- ATT.Free = true
 
--- ATT.Folder = "CS:GO Skins/Covert"
+-- ATT.Folder = "CS:GO Skins/6) Covert"
 
 -- ATT.Category = {"go_skins_m4a1"}
 -- ATT.Material = "csgoskins/gunsmith/m4a1_" .. name
