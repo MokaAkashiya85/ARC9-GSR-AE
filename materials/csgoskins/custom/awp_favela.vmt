@@ -3,6 +3,14 @@ Patch
 	include materials\models\csgo\awp\awp.vmt
 	replace
 	{
-		"$basetexture"				"csgoskins/Files/custom/favela_awp"
+		"$basetexture"				"models/csgo/awp/awp_skin"
+	}
+	insert
+	{
+		"$detail"				"csgoskins/Files/custom/favela_awp"
+		"$detailscale"		"1"
+		"$detailblendmode" "4"
+		"$detailblendfactor" ".5"
+		"$detailtexturetransform" "center .5 .5 scale 1.325 1.325 rotate 0 translate -0.06 -0.1575"
 	}
 }

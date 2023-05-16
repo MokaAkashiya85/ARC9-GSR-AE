@@ -60,23 +60,23 @@ ATT.Material = "csgoskins/custom/awp_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_awp_" .. name)
 ------------------------------------------------------------------
--- ATT = {}
--- local name = "favela"
+ATT = {}
+local name = "favela"
 
--- ATT.MenuCategory = "ARC9 - CSGO Attachments"
--- ATT.PrintName = "Corticera"
--- ATT.Description = ""
--- ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
+ATT.MenuCategory = "ARC9 - CSGO Attachments"
+ATT.PrintName = "Corticera"
+ATT.Description = ""
+ATT.Icon = Material("csgoskins/Icons/awp_" .. name .. ".png", "mips smooth")
 
--- ATT.SortOrder = 0
--- ATT.Free = true
+ATT.SortOrder = 0
+ATT.Free = true
 
--- ATT.Folder = "CS:GO Skins/5) Classified"
+ATT.Folder = "CS:GO Skins/5) Classified"
 
--- ATT.Category = {"go_skins_awp"}
--- ATT.Material = "csgoskins/custom/awp_" .. name
+ATT.Category = {"go_skins_awp"}
+ATT.Material = "csgoskins/custom/awp_" .. name
 
--- ARC9.LoadAttachment(ATT, "moka_csgo_skin_awp_" .. name)
+ARC9.LoadAttachment(ATT, "moka_csgo_skin_awp_" .. name)
 ------------------------------------------------------------------
 ATT = {}
 local name = "chroma_pink"

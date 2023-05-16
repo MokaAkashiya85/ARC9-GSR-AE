@@ -66,3 +66,6 @@ lua/arc9/common/localization/skininfo/New folder/all-skins-bg.lua
 .forworkshop/20230509233417_1.jpg
 .forworkshop/logo.jpg
 .forworkshop/logo2.jpg
+workfolder/output.lua
+workfolder/alocalizersticker.py
+workfolder/alocalizersticker-batch.bat

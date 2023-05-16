@@ -93,6 +93,6 @@ anubis = "The Anubis Collection",
 secret = "HushHush-kollektionen"
 }
 
-include("skininfo/all-skins-sv-se.lua")
+IncludeCS("skininfo/all-skins-sv-se.lua")
 
-include("all-skins.lua")
+IncludeCS("all-skins.lua")

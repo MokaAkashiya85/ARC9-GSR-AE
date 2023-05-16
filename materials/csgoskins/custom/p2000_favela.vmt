@@ -3,6 +3,14 @@ Patch
 	include materials\models\csgo\p2000\pist_hkp2000.vmt
 	replace
 	{
-		"$basetexture"				"csgoskins/Files/custom/favela_p2000"
+		// "$basetexture"				"csgoskins/Files/custom/favela_p2000"
+	}
+	insert
+	{
+		"$detail"				"csgoskins/Files/custom/favela_p2000"
+		"$detailscale"		"1"
+		"$detailblendmode" "4"
+		"$detailblendfactor" ".5"
+		"$detailtexturetransform" "center .5 .5 scale 1.4 1.4 rotate 0 translate 0.12 0"
 	}
 }
