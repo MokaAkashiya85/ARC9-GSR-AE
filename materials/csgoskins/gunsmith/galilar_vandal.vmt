@@ -5,6 +5,8 @@ Patch
 	{
 		"$basetexture"				"csgoskins/Files/gunsmith/workshop/galil_vandal"
 		"$bumpmap"				"csgoskins/Files/gunsmith/workshop/galil_vandal_normal"
+		"$phongboost"				"0.25"
+		"$envmaptint"				"[ .01 .01 .01 ]"
 		 Proxies {
 			"Arc9EnvMapTint"
 			{

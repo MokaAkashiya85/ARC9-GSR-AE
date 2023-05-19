@@ -5,6 +5,8 @@ Patch
 	{
 		"$basetexture"				"csgoskins/Files/custom/workshop/galil_destroyer"
 		"$bumpmap"				"csgoskins/Files/custom/workshop/galil_destroyer_normal"
+		"$phongboost"				"0.25"
+		"$envmaptint"				"[ .01 .01 .01 ]"
 		 Proxies {
 			"Arc9EnvMapTint"
 			{
