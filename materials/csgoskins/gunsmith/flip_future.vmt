@@ -1,6 +1,6 @@
 Patch
 {
-	include materials\models\csgo\knife_bayonet\knife_bayonet.vmt
+	include materials\models\csgo\knife_flip\knife_flip.vmt
 	replace
 	{
 		"$basetexture"				"csgoskins/Files/gunsmith/flip_future"

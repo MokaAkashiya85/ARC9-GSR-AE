@@ -1,6 +1,6 @@
 Patch
 {
-	include materials\models\csgo\sawedoff\shot_sawedoff_01.vmt
+	include materials\models\csgo\sawedoff\shot_sawedoff_01_skin.vmt
 	replace
 	{
 		"$basetexture"		"csgoskins/Files/custom/workshop/sawedoff_kisslove"
