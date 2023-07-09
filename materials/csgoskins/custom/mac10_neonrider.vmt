@@ -1,18 +1,8 @@
 Patch
 {
-	include materials\models\csgo\mac10\smg_mac10_1.vmt
+	include materials\models\csgo\mac10\smg_mac10_skin.vmt
 	replace
 	{
 		"$basetexture"				"csgoskins/Files/custom/workshop/mac10_neonrider"
-		"$bumpmap"					"models/csgo/mac10/smg_mac10_1_skin_n"
-		"$basemapalphaphongmask" "0"
-		 Proxies {
-			"Arc9EnvMapTint"
-			{
-				"specularity" "1"
-				"min" "0"
-				"max" "0.01"
-			}
-		}
 	}
 }

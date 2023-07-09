@@ -1,10 +1,10 @@
 Patch
 {
-	include materials\models\csgo\mac10\smg_mac10_1.vmt
+	include materials\models\csgo\mac10\smg_mac10_skin.vmt
 	replace
 	{
 		"$basetexture"				"csgoskins/Files/gunsmith/workshop/mac10_dust_crate"
-		"$bumpmap"				"csgoskins/Files/gunsmith/workshop/mac10_dust_crate_normal"
+		"$bumpmap"					"csgoskins/Files/gunsmith/workshop/mac10_dust_crate_normal"
 		"$phongboost"				"2"
 		"$envmaptint"				"[ .01 .01 .01 ]"
 		 Proxies {
