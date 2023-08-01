@@ -1,6 +1,6 @@
 Patch
 {
-	include materials\models\csgo\m249\m249.vmt
+	include materials\models\csgo\m249\m249_skin.vmt
 	replace
 	{
 		"$basetexture"				"csgoskins/Files/gunsmith/workshop/m249_warbird_veteran"

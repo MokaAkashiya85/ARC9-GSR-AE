@@ -1,6 +1,6 @@
 Patch
 {
-	include materials\models\csgo\sg556\rif_sg556.vmt
+	include materials\models\csgo\sg556\rif_sg556_skin.vmt
 	replace
 	{
 		"$basetexture"				"csgoskins/Files/custom/workshop/sg553_atlas"

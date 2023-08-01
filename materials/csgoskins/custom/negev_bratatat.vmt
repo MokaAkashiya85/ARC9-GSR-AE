@@ -1,6 +1,6 @@
 Patch
 {
-	include materials\models\csgo\negev\mach_negev.vmt
+	include materials\models\csgo\negev\mach_negev_skin.vmt
 	insert
 	{
 		"$detail"				"csgoskins/Files/custom/bratatat_negev"

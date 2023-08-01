@@ -1,6 +1,6 @@
 Patch
 {
-	include materials\models\csgo\glock\pist_glock18.vmt
+	include materials\models\csgo\glock\pist_glock18_skin.vmt
 	replace
 	{
 		"$basetexture"				"csgoskins/Files/custom/workshop/glock18_warmaiden"

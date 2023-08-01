@@ -1,10 +1,6 @@
 Patch
 {
-	include materials\models\csgo\ssg08\snip_ssg08.vmt
-	replace
-	{
-		"$basetexture"				"models/csgo/ssg08/snip_ssg08_skin"
-	}
+	include materials\models\csgo\ssg08\snip_ssg08_skin.vmt
 	insert
 	{
 		"$detail"			"csgoskins/Files/custom/bloodinthewater_ssg08"

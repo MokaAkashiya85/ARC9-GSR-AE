@@ -1,6 +1,6 @@
 Patch
 {
-	include materials\models\csgo\negev\mach_negev.vmt
+	include materials\models\csgo\negev\mach_negev_skin.vmt
 	replace
 	{
 		"$basetexture"				"csgoskins/Files/gunsmith/negev_thor"

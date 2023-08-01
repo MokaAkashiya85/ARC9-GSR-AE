@@ -1,6 +1,6 @@
 Patch
 {
-	include materials\models\csgo\tec9\pist_tec9.vmt
+	include materials\models\csgo\tec9\pist_tec9_skin.vmt
 	replace
 	{
 		"$basetexture"				"csgoskins/Files/gunsmith/workshop/tec9_decimator"
