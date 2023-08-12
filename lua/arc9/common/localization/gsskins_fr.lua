@@ -96,3 +96,13 @@ secret = "Collection HushHush"
 IncludeCS("skininfo/all-skins-fr.lua")
 
 IncludeCS("all-skins.lua")
+
+-- For the Folders:
+-- Rarities
+L["moka_csgo_skin_rarity_1"] = "1) Artisanale"
+L["moka_csgo_skin_rarity_2"] = "2) Industrielle"
+L["moka_csgo_skin_rarity_3"] = "3) Militaire"
+L["moka_csgo_skin_rarity_4"] = "4) Limitée"
+L["moka_csgo_skin_rarity_5"] = "5) Classifiée"
+L["moka_csgo_skin_rarity_6"] = "6) Secrète"
+L["moka_csgo_skin_rarity_7"] = "7) Contrebande"

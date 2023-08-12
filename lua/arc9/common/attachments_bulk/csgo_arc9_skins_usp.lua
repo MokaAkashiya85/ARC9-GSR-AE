@@ -14,7 +14,7 @@ ATT.Icon = Material("csgoskins/Icons/usp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/3) Mil-Spec"
+ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_3")
 
 ATT.Category = {"go_skins_usp"}
 ATT.Material = "csgoskins/antiqued/usp_" .. name
@@ -34,7 +34,7 @@ ATT.Icon = Material("csgoskins/Icons/usp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/3) Mil-Spec"
+ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_3")
 
 ATT.Category = {"go_skins_usp"}
 ATT.Material = "csgoskins/custom/usp_" .. name
@@ -52,7 +52,7 @@ ATT.Icon = Material("csgoskins/Icons/usp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/4) Restricted"
+ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_4")
 
 ATT.Category = {"go_skins_usp"}
 ATT.Material = "csgoskins/custom/usp_" .. name
@@ -70,7 +70,7 @@ ATT.Icon = Material("csgoskins/Icons/usp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/5) Classified"
+ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_5")
 
 ATT.Category = {"go_skins_usp"}
 ATT.Material = "csgoskins/custom/usp_" .. name
@@ -88,7 +88,7 @@ ATT.Icon = Material("csgoskins/Icons/usp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/3) Mil-Spec"
+ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_3")
 
 ATT.Category = {"go_skins_usp"}
 ATT.Material = "csgoskins/custom/usp_" .. name
@@ -106,7 +106,7 @@ ATT.Icon = Material("csgoskins/Icons/usp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/5) Classified"
+ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_5")
 
 ATT.Category = {"go_skins_usp"}
 ATT.Material = "csgoskins/custom/usp_" .. name
@@ -124,7 +124,7 @@ ATT.Icon = Material("csgoskins/Icons/usp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/4) Restricted"
+ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_4")
 
 ATT.Category = {"go_skins_usp"}
 ATT.Material = "csgoskins/custom/usp_" .. name
@@ -142,7 +142,7 @@ ATT.Icon = Material("csgoskins/Icons/usp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/4) Restricted"
+ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_4")
 
 ATT.Category = {"go_skins_usp"}
 ATT.Material = "csgoskins/custom/usp_" .. name
@@ -160,7 +160,7 @@ ATT.Icon = Material("csgoskins/Icons/usp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/5) Classified"
+ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_5")
 
 ATT.Category = {"go_skins_usp"}
 ATT.Material = "csgoskins/custom/usp_" .. name
@@ -178,7 +178,7 @@ ATT.Icon = Material("csgoskins/Icons/usp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/6) Covert"
+ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_6")
 
 ATT.Category = {"go_skins_usp"}
 ATT.Material = "csgoskins/custom/usp_" .. name
@@ -196,7 +196,7 @@ ATT.Icon = Material("csgoskins/Icons/usp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/5) Classified"
+ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_5")
 
 ATT.Category = {"go_skins_usp"}
 ATT.Material = "csgoskins/custom/usp_" .. name
@@ -214,7 +214,7 @@ ATT.Icon = Material("csgoskins/Icons/usp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/6) Covert"
+ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_6")
 
 ATT.Category = {"go_skins_usp"}
 ATT.Material = "csgoskins/custom/usp_" .. name
@@ -232,7 +232,7 @@ ATT.Icon = Material("csgoskins/Icons/usp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/4) Restricted"
+ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_4")
 
 ATT.Category = {"go_skins_usp"}
 ATT.Material = "csgoskins/custom/usp_" .. name
@@ -250,7 +250,7 @@ ATT.Icon = Material("csgoskins/Icons/usp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/3) Mil-Spec"
+ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_3")
 
 ATT.Category = {"go_skins_usp"}
 ATT.Material = "csgoskins/custom/usp_" .. name
@@ -268,7 +268,7 @@ ATT.Icon = Material("csgoskins/Icons/usp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/4) Restricted"
+ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_4")
 
 ATT.Category = {"go_skins_usp"}
 ATT.Material = "csgoskins/custom/usp_" .. name
@@ -286,7 +286,7 @@ ATT.Icon = Material("csgoskins/Icons/usp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/6) Covert"
+ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_6")
 
 ATT.Category = {"go_skins_usp"}
 ATT.Material = "csgoskins/custom/usp_" .. name
@@ -304,7 +304,7 @@ ATT.Icon = Material("csgoskins/Icons/usp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/3) Mil-Spec"
+ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_3")
 
 ATT.Category = {"go_skins_usp"}
 ATT.Material = "csgoskins/custom/usp_" .. name
@@ -324,7 +324,7 @@ ATT.Icon = Material("csgoskins/Icons/usp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/2) Industrial"
+ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_2")
 
 ATT.Category = {"go_skins_usp"}
 ATT.Material = "csgoskins/gunsmith/usp_" .. name
@@ -342,7 +342,7 @@ ATT.Icon = Material("csgoskins/Icons/usp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/3) Mil-Spec"
+ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_3")
 
 ATT.Category = {"go_skins_usp"}
 ATT.Material = "csgoskins/gunsmith/usp_" .. name
@@ -360,7 +360,7 @@ ATT.Icon = Material("csgoskins/Icons/usp_" .. name .. ".png", "mips smooth")
 ATT.SortOrder = 0
 ATT.Free = true
 
-ATT.Folder = "CS:GO Skins/6) Covert"
+ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_6")
 
 ATT.Category = {"go_skins_usp"}
 ATT.Material = "csgoskins/gunsmith/usp_" .. name
