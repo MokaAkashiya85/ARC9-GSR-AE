@@ -17,7 +17,8 @@ ATT.Free = true
 ATT.Folder = "CS:GO Skins"
 
 ATT.Category = {"go_skins_knife_flip"}
-ATT.Material = "csgoskins/custom/flip_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/flip_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_knife_flip_" .. name)
 ------------------------------------------------------------------
@@ -37,7 +38,8 @@ ATT.Free = true
 ATT.Folder = "CS:GO Skins"
 
 ATT.Category = {"go_skins_knife_flip"}
-ATT.Material = "csgoskins/gunsmith/flip_" .. name
+
+ATT.SubMaterial0 = "csgoskins/gunsmith/flip_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_knife_flip_" .. name)
 ------------------------------------------------------------------
@@ -55,7 +57,8 @@ ATT.Free = true
 ATT.Folder = "CS:GO Skins"
 
 ATT.Category = {"go_skins_knife_flip"}
-ATT.Material = "csgoskins/gunsmith/flip_" .. name
+
+ATT.SubMaterial0 = "csgoskins/gunsmith/flip_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_knife_flip_" .. name)
 ------------------------------------------------------------------

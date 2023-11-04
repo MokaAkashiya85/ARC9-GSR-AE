@@ -17,7 +17,8 @@ local ATT = {}
 -- ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_6")
 
 -- ATT.Category = {"go_skins_m4a1"}
--- ATT.Material = "csgoskins/antiqued/m4a1_" .. name
+-- 
+ATT.SubMaterial0 = "csgoskins/antiqued/m4a1_" .. name
 
 -- ARC9.LoadAttachment(ATT, "moka_csgo_skin_m4a1_" .. name)
 ------------------------------------------------------------------
@@ -37,7 +38,8 @@ local ATT = {}
 -- ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_6")
 
 -- ATT.Category = {"go_skins_m4a1"}
--- ATT.Material = "csgoskins/custom/m4a1_" .. name
+-- 
+ATT.SubMaterial0 = "csgoskins/custom/m4a1_" .. name
 
 -- ARC9.LoadAttachment(ATT, "moka_csgo_skin_m4a1_" .. name)
 ------------------------------------------------------------------
@@ -57,6 +59,7 @@ local ATT = {}
 -- ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_6")
 
 -- ATT.Category = {"go_skins_m4a1"}
--- ATT.Material = "csgoskins/gunsmith/m4a1_" .. name
+-- 
+ATT.SubMaterial0 = "csgoskins/gunsmith/m4a1_" .. name
 
 -- ARC9.LoadAttachment(ATT, "moka_csgo_skin_m4a1_" .. name)

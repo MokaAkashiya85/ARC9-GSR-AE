@@ -1464,6 +1464,60 @@ L[skin .. "necromancer.printname"] = text.gs_sawedoff_necromancer.name
 L[skin .. "necromancer.description"] = collection.revolver .. "\n\n" .. text.gs_sawedoff_necromancer.desc
 ------------------------------------
 
+-- [[ Dual Sawed-Off ]]
+local skin = "moka_csgo_skin_sawedoff_dual_"
+
+-- [[ Antiqued ]]
+L[skin .. "blackgold.printname"] = text.aq_sawedoff_blackgold.name
+L[skin .. "blackgold.description"] = collection.vanguard .. "\n\n" .. text.aq_sawedoff_blackgold.desc
+------------------------------------
+L[skin .. "flower.printname"] = text["aq_sawed-off_flower"].name
+L[skin .. "flower.description"] = collection.spectrum2 .. "\n\n" .. text["aq_sawed-off_flower"].desc
+------------------------------------
+L[skin .. "zander2.printname"] = text.aq_sawedoff_zander2.name
+L[skin .. "zander2.description"] = collection.spectrum .. "\n\n" .. text.aq_sawedoff_zander2.desc
+------------------------------------
+
+-- [[ Custom ]]
+L[skin .. "green_leather.printname"] = text.cu_green_leather.name
+L[skin .. "green_leather.description"] = collection.baggage .. "\n\n" .. text.cu_green_leather.desc
+------------------------------------
+L[skin .. "ori.printname"] = text.cu_sawedoff_origami.name
+L[skin .. "ori.description"] = collection.chroma2 .. "\n\n" .. text.cu_sawedoff_origami.desc
+------------------------------------
+L[skin .. "lime.printname"] = text.cu_sawed_off_lime.name
+L[skin .. "lime.description"] = collection.gamma .. "\n\n" .. text.cu_sawed_off_lime.desc
+------------------------------------
+L[skin .. "wasteland_princess.printname"] = text.cu_wp_sawedoff.name
+L[skin .. "wasteland_princess.description"] = collection.glove .. "\n\n" .. text.cu_wp_sawedoff.desc
+------------------------------------
+L[skin .. "apocalypto.printname"] = text.cu_sawedoff_apocalypto.name
+L[skin .. "apocalypto.description"] = collection.prisma2 .. "\n\n" .. text.cu_sawedoff_apocalypto.desc
+------------------------------------
+L[skin .. "black_sand.printname"] = text.cu_sawedoff_black_sand.name
+L[skin .. "black_sand.description"] = collection.dangerzone .. "\n\n" .. text.cu_sawedoff_black_sand.desc
+------------------------------------
+L[skin .. "deva.printname"] = text.cu_sawedoff_deva.name
+L[skin .. "deva.description"] = collection.chroma .. "\n\n" .. text.cu_sawedoff_deva.desc
+------------------------------------
+L[skin .. "devourer.printname"] = text.cu_sawedoff_devourer.name
+L[skin .. "devourer.description"] = collection.horizon .. "\n\n" .. text.cu_sawedoff_devourer.desc
+------------------------------------
+L[skin .. "kisslove.printname"] = text.cu_sawedoff_kisslove.name
+L[skin .. "kisslove.description"] = collection.recoil .. "\n\n" .. text.cu_sawedoff_kisslove.desc
+------------------------------------
+L[skin .. "ouija.printname"] = text.cu_sawedoff_ouija.name
+L[skin .. "ouija.description"] = collection.dreams .. "\n\n" .. text.cu_sawedoff_ouija.desc
+------------------------------------
+
+-- [[ Gunsmith ]]
+L[skin .. "fubar.printname"] = text.gs_sawedoff_fubar.name
+L[skin .. "fubar.description"] = collection.chroma3 .. "\n\n" .. text.gs_sawedoff_fubar.desc
+------------------------------------
+L[skin .. "necromancer.printname"] = text.gs_sawedoff_necromancer.name
+L[skin .. "necromancer.description"] = collection.revolver .. "\n\n" .. text.gs_sawedoff_necromancer.desc
+------------------------------------
+
 -- [[ SCAR-20 ]]
 local skin = "moka_csgo_skin_scar20_"
 

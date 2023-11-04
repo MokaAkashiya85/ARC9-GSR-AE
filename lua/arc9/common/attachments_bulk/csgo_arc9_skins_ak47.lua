@@ -18,7 +18,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO" .. "/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_5")
 
 ATT.Category = {"go_skins_ak47"}
-ATT.Material = "csgoskins/antiqued/ak47_" .. name
+
+ATT.SubMaterial0 = "csgoskins/antiqued/ak47_" .. name
+ATT.SubMaterial1 = "csgoskins/antiqued/ak47_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_ak47_" .. name)
 ------------------------------------------------------------------
@@ -38,7 +40,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO" .. "/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_6")
 
 ATT.Category = {"go_skins_ak47"}
-ATT.Material = "csgoskins/custom/ak47_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/ak47_" .. name
+ATT.SubMaterial1 = "csgoskins/custom/ak47_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_ak47_" .. name)
 ------------------------------------------------------------------
@@ -56,7 +60,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO" .. "/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_6")
 
 ATT.Category = {"go_skins_ak47"}
-ATT.Material = "csgoskins/custom/ak47_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/ak47_" .. name
+ATT.SubMaterial1 = "csgoskins/custom/ak47_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_ak47_" .. name)
 ------------------------------------------------------------------
@@ -74,7 +80,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO" .. "/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_6")
 
 ATT.Category = {"go_skins_ak47"}
-ATT.Material = "csgoskins/custom/ak47_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/ak47_" .. name
+ATT.SubMaterial1 = "csgoskins/custom/ak47_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_ak47_" .. name)
 ------------------------------------------------------------------
@@ -92,7 +100,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO" .. "/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_4")
 
 ATT.Category = {"go_skins_ak47"}
-ATT.Material = "csgoskins/custom/ak47_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/ak47_" .. name
+ATT.SubMaterial1 = "csgoskins/custom/ak47_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_ak47_" .. name)
 ------------------------------------------------------------------
@@ -110,7 +120,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO" .. "/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_5")
 
 ATT.Category = {"go_skins_ak47"}
-ATT.Material = "csgoskins/custom/ak47_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/ak47_" .. name
+ATT.SubMaterial1 = "csgoskins/custom/ak47_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_ak47_" .. name)
 ------------------------------------------------------------------
@@ -128,7 +140,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO" .. "/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_6")
 
 ATT.Category = {"go_skins_ak47"}
-ATT.Material = "csgoskins/custom/ak47_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/ak47_" .. name
+ATT.SubMaterial1 = "csgoskins/custom/ak47_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_ak47_" .. name)
 ------------------------------------------------------------------
@@ -146,7 +160,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO" .. "/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_4")
 
 ATT.Category = {"go_skins_ak47"}
-ATT.Material = "csgoskins/custom/ak47_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/ak47_" .. name
+ATT.SubMaterial1 = "csgoskins/custom/ak47_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_ak47_" .. name)
 ------------------------------------------------------------------
@@ -164,7 +180,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO" .. "/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_5")
 
 ATT.Category = {"go_skins_ak47"}
-ATT.Material = "csgoskins/custom/ak47_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/ak47_" .. name
+ATT.SubMaterial1 = "csgoskins/custom/ak47_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_ak47_" .. name)
 ------------------------------------------------------------------
@@ -183,7 +201,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO" .. "/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_6")
 
 ATT.Category = {"go_skins_ak47"}
-ATT.Material = "csgoskins/custom/ak47_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/ak47_" .. name
+ATT.SubMaterial1 = "csgoskins/custom/ak47_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_ak47_" .. name)
 ------------------------------------------------------------------
@@ -201,7 +221,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO" .. "/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_6")
 
 ATT.Category = {"go_skins_ak47"}
-ATT.Material = "csgoskins/custom/ak47_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/ak47_" .. name
+ATT.SubMaterial1 = "csgoskins/custom/ak47_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_ak47_" .. name)
 ------------------------------------------------------------------
@@ -219,7 +241,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO" .. "/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_6")
 
 ATT.Category = {"go_skins_ak47"}
-ATT.Material = "csgoskins/custom/ak47_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/ak47_" .. name
+ATT.SubMaterial1 = "csgoskins/custom/ak47_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_ak47_" .. name)
 ------------------------------------------------------------------
@@ -237,7 +261,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO" .. "/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_6")
 
 ATT.Category = {"go_skins_ak47"}
-ATT.Material = "csgoskins/custom/ak47_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/ak47_" .. name
+ATT.SubMaterial1 = "csgoskins/custom/ak47_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_ak47_" .. name)
 ------------------------------------------------------------------
@@ -255,7 +281,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO" .. "/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_3")
 
 ATT.Category = {"go_skins_ak47"}
-ATT.Material = "csgoskins/custom/ak47_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/ak47_" .. name
+ATT.SubMaterial1 = "csgoskins/custom/ak47_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_ak47_" .. name)
 ------------------------------------------------------------------
@@ -273,7 +301,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO" .. "/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_5")
 
 ATT.Category = {"go_skins_ak47"}
-ATT.Material = "csgoskins/custom/ak47_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/ak47_" .. name
+ATT.SubMaterial1 = "csgoskins/custom/ak47_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_ak47_" .. name)
 ------------------------------------------------------------------
@@ -291,7 +321,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO" .. "/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_6")
 
 ATT.Category = {"go_skins_ak47"}
-ATT.Material = "csgoskins/custom/ak47_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/ak47_" .. name
+ATT.SubMaterial1 = "csgoskins/custom/ak47_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_ak47_" .. name)
 ------------------------------------------------------------------
@@ -309,7 +341,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO" .. "/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_3")
 
 ATT.Category = {"go_skins_ak47"}
-ATT.Material = "csgoskins/custom/ak47_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/ak47_" .. name
+ATT.SubMaterial1 = "csgoskins/custom/ak47_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_ak47_" .. name)
 ------------------------------------------------------------------
@@ -327,7 +361,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO" .. "/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_6")
 
 ATT.Category = {"go_skins_ak47"}
-ATT.Material = "csgoskins/custom/ak47_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/ak47_" .. name
+ATT.SubMaterial1 = "csgoskins/custom/ak47_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_ak47_" .. name)
 ------------------------------------------------------------------
@@ -345,7 +381,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO" .. "/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_5")
 
 ATT.Category = {"go_skins_ak47"}
-ATT.Material = "csgoskins/custom/ak47_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/ak47_" .. name
+ATT.SubMaterial1 = "csgoskins/custom/ak47_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_ak47_" .. name)
 ------------------------------------------------------------------
@@ -363,7 +401,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO" .. "/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_5")
 
 ATT.Category = {"go_skins_ak47"}
-ATT.Material = "csgoskins/custom/ak47_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/ak47_" .. name
+ATT.SubMaterial1 = "csgoskins/custom/ak47_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_ak47_" .. name)
 ------------------------------------------------------------------
@@ -381,7 +421,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO" .. "/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_5")
 
 ATT.Category = {"go_skins_ak47"}
-ATT.Material = "csgoskins/custom/ak47_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/ak47_" .. name
+ATT.SubMaterial1 = "csgoskins/custom/ak47_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_ak47_" .. name)
 ------------------------------------------------------------------
@@ -399,7 +441,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO" .. "/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_6")
 
 ATT.Category = {"go_skins_ak47"}
-ATT.Material = "csgoskins/custom/ak47_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/ak47_" .. name
+ATT.SubMaterial1 = "csgoskins/custom/ak47_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_ak47_" .. name)
 ------------------------------------------------------------------
@@ -417,7 +461,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO" .. "/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_6")
 
 ATT.Category = {"go_skins_ak47"}
-ATT.Material = "csgoskins/custom/ak47_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/ak47_" .. name
+ATT.SubMaterial1 = "csgoskins/custom/ak47_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_ak47_" .. name)
 ------------------------------------------------------------------
@@ -435,7 +481,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO" .. "/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_6")
 
 ATT.Category = {"go_skins_ak47"}
-ATT.Material = "csgoskins/custom/ak47_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/ak47_" .. name
+ATT.SubMaterial1 = "csgoskins/custom/ak47_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_ak47_" .. name)
 ------------------------------------------------------------------
@@ -453,7 +501,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO" .. "/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_6")
 
 ATT.Category = {"go_skins_ak47"}
-ATT.Material = "csgoskins/custom/ak47_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/ak47_" .. name
+ATT.SubMaterial1 = "csgoskins/custom/ak47_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_ak47_" .. name)
 ------------------------------------------------------------------
@@ -473,7 +523,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO" .. "/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_6")
 
 ATT.Category = {"go_skins_ak47"}
-ATT.Material = "csgoskins/gunsmith/ak47_" .. name
+
+ATT.SubMaterial0 = "csgoskins/gunsmith/ak47_" .. name
+ATT.SubMaterial1 = "csgoskins/gunsmith/ak47_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_ak47_" .. name)
 ------------------------------------------------------------------
@@ -491,7 +543,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO" .. "/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_3")
 
 ATT.Category = {"go_skins_ak47"}
-ATT.Material = "csgoskins/gunsmith/ak47_" .. name
+
+ATT.SubMaterial0 = "csgoskins/gunsmith/ak47_" .. name
+ATT.SubMaterial1 = "csgoskins/gunsmith/ak47_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_ak47_" .. name)
 ------------------------------------------------------------------
@@ -510,7 +564,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO" .. "/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_4")
 
 ATT.Category = {"go_skins_ak47"}
-ATT.Material = "csgoskins/gunsmith/ak47_" .. name
+
+ATT.SubMaterial0 = "csgoskins/gunsmith/ak47_" .. name
+ATT.SubMaterial1 = "csgoskins/gunsmith/ak47_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_ak47_" .. name)
 ------------------------------------------------------------------
@@ -528,7 +584,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO" .. "/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_6")
 
 ATT.Category = {"go_skins_ak47"}
-ATT.Material = "csgoskins/gunsmith/ak47_" .. name
+
+ATT.SubMaterial0 = "csgoskins/gunsmith/ak47_" .. name
+ATT.SubMaterial1 = "csgoskins/gunsmith/ak47_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_ak47_" .. name)
 ------------------------------------------------------------------
@@ -546,7 +604,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO" .. "/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_6")
 
 ATT.Category = {"go_skins_ak47"}
-ATT.Material = "csgoskins/gunsmith/ak47_" .. name
+
+ATT.SubMaterial0 = "csgoskins/gunsmith/ak47_" .. name
+ATT.SubMaterial1 = "csgoskins/gunsmith/ak47_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_ak47_" .. name)
 ------------------------------------------------------------------
@@ -564,7 +624,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO" .. "/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_6")
 
 ATT.Category = {"go_skins_ak47"}
-ATT.Material = "csgoskins/gunsmith/ak47_" .. name
+
+ATT.SubMaterial0 = "csgoskins/gunsmith/ak47_" .. name
+ATT.SubMaterial1 = "csgoskins/gunsmith/ak47_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_ak47_" .. name)
 ------------------------------------------------------------------
@@ -582,7 +644,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO" .. "/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_4")
 
 ATT.Category = {"go_skins_ak47"}
-ATT.Material = "csgoskins/gunsmith/ak47_" .. name
+
+ATT.SubMaterial0 = "csgoskins/gunsmith/ak47_" .. name
+ATT.SubMaterial1 = "csgoskins/gunsmith/ak47_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_ak47_" .. name)
 ------------------------------------------------------------------
@@ -600,7 +664,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO" .. "/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_4")
 
 ATT.Category = {"go_skins_ak47"}
-ATT.Material = "csgoskins/gunsmith/ak47_" .. name
+
+ATT.SubMaterial0 = "csgoskins/gunsmith/ak47_" .. name
+ATT.SubMaterial1 = "csgoskins/gunsmith/ak47_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_ak47_" .. name)
 ------------------------------------------------------------------
@@ -618,6 +684,8 @@ ATT.Free = true
 ATT.Folder = "CS:GO" .. "/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_6")
 
 ATT.Category = {"go_skins_ak47"}
-ATT.Material = "csgoskins/gunsmith/ak47_" .. name
+
+ATT.SubMaterial0 = "csgoskins/gunsmith/ak47_" .. name
+ATT.SubMaterial1 = "csgoskins/gunsmith/ak47_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_ak47_" .. name)

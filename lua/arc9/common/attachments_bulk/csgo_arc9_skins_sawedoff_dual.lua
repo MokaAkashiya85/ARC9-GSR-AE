@@ -16,12 +16,11 @@ ATT.Free = true
 
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_4")
 
-ATT.Category = {"go_skins_sawnoff"}
+ATT.Category = {"go_skins_sawnoff_dual"}
 
 ATT.SubMaterial0 = "csgoskins/antiqued/sawedoff_" .. name
-ATT.SubMaterial1 = "csgoskins/antiqued/sawedoff_" .. name
 
-ARC9.LoadAttachment(ATT, "moka_csgo_skin_sawedoff_" .. name)
+ARC9.LoadAttachment(ATT, "moka_csgo_skin_sawedoff_dual_" .. name)
 ------------------------------------------------------------------
 ATT = {}
 local name = "flower"
@@ -36,12 +35,11 @@ ATT.Free = true
 
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_3")
 
-ATT.Category = {"go_skins_sawnoff"}
+ATT.Category = {"go_skins_sawnoff_dual"}
 
 ATT.SubMaterial0 = "csgoskins/antiqued/sawedoff_" .. name
-ATT.SubMaterial1 = "csgoskins/antiqued/sawedoff_" .. name
 
-ARC9.LoadAttachment(ATT, "moka_csgo_skin_sawedoff_" .. name)
+ARC9.LoadAttachment(ATT, "moka_csgo_skin_sawedoff_dual_" .. name)
 ------------------------------------------------------------------
 ATT = {}
 local name = "zander2"
@@ -56,12 +54,11 @@ ATT.Free = true
 
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_3")
 
-ATT.Category = {"go_skins_sawnoff"}
+ATT.Category = {"go_skins_sawnoff_dual"}
 
 ATT.SubMaterial0 = "csgoskins/antiqued/sawedoff_" .. name
-ATT.SubMaterial1 = "csgoskins/antiqued/sawedoff_" .. name
 
-ARC9.LoadAttachment(ATT, "moka_csgo_skin_sawedoff_" .. name)
+ARC9.LoadAttachment(ATT, "moka_csgo_skin_sawedoff_dual_" .. name)
 ------------------------------------------------------------------
 -- " Custom "
 ------------------------------------------------------------------
@@ -78,12 +75,11 @@ ATT.Free = true
 
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_3")
 
-ATT.Category = {"go_skins_sawnoff"}
+ATT.Category = {"go_skins_sawnoff_dual"}
 
 ATT.SubMaterial0 = "csgoskins/custom/sawedoff_" .. name
-ATT.SubMaterial1 = "csgoskins/custom/sawedoff_" .. name
 
-ARC9.LoadAttachment(ATT, "moka_csgo_skin_sawedoff_" .. name)
+ARC9.LoadAttachment(ATT, "moka_csgo_skin_sawedoff_dual_" .. name)
 ------------------------------------------------------------------
 ATT = {}
 local name = "ori"
@@ -98,12 +94,11 @@ ATT.Free = true
 
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_3")
 
-ATT.Category = {"go_skins_sawnoff"}
+ATT.Category = {"go_skins_sawnoff_dual"}
 
 ATT.SubMaterial0 = "csgoskins/custom/sawedoff_" .. name
-ATT.SubMaterial1 = "csgoskins/custom/sawedoff_" .. name
 
-ARC9.LoadAttachment(ATT, "moka_csgo_skin_sawedoff_" .. name)
+ARC9.LoadAttachment(ATT, "moka_csgo_skin_sawedoff_dual_" .. name)
 ------------------------------------------------------------------
 ATT = {}
 local name = "lime"
@@ -118,12 +113,11 @@ ATT.Free = true
 
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_4")
 
-ATT.Category = {"go_skins_sawnoff"}
+ATT.Category = {"go_skins_sawnoff_dual"}
 
 ATT.SubMaterial0 = "csgoskins/custom/sawedoff_" .. name
-ATT.SubMaterial1 = "csgoskins/custom/sawedoff_" .. name
 
-ARC9.LoadAttachment(ATT, "moka_csgo_skin_sawedoff_" .. name)
+ARC9.LoadAttachment(ATT, "moka_csgo_skin_sawedoff_dual_" .. name)
 ------------------------------------------------------------------
 ATT = {}
 local name = "wasteland_princess"
@@ -138,12 +132,11 @@ ATT.Free = true
 
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_5")
 
-ATT.Category = {"go_skins_sawnoff"}
+ATT.Category = {"go_skins_sawnoff_dual"}
 
 ATT.SubMaterial0 = "csgoskins/custom/sawedoff_" .. name
-ATT.SubMaterial1 = "csgoskins/custom/sawedoff_" .. name
 
-ARC9.LoadAttachment(ATT, "moka_csgo_skin_sawedoff_" .. name)
+ARC9.LoadAttachment(ATT, "moka_csgo_skin_sawedoff_dual_" .. name)
 ------------------------------------------------------------------
 ATT = {}
 local name = "apocalypto"
@@ -158,12 +151,11 @@ ATT.Free = true
 
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_4")
 
-ATT.Category = {"go_skins_sawnoff"}
+ATT.Category = {"go_skins_sawnoff_dual"}
 
 ATT.SubMaterial0 = "csgoskins/custom/sawedoff_" .. name
-ATT.SubMaterial1 = "csgoskins/custom/sawedoff_" .. name
 
-ARC9.LoadAttachment(ATT, "moka_csgo_skin_sawedoff_" .. name)
+ARC9.LoadAttachment(ATT, "moka_csgo_skin_sawedoff_dual_" .. name)
 ------------------------------------------------------------------
 ATT = {}
 local name = "black_sand"
@@ -178,12 +170,11 @@ ATT.Free = true
 
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_3")
 
-ATT.Category = {"go_skins_sawnoff"}
+ATT.Category = {"go_skins_sawnoff_dual"}
 
 ATT.SubMaterial0 = "csgoskins/custom/sawedoff_" .. name
-ATT.SubMaterial1 = "csgoskins/custom/sawedoff_" .. name
 
-ARC9.LoadAttachment(ATT, "moka_csgo_skin_sawedoff_" .. name)
+ARC9.LoadAttachment(ATT, "moka_csgo_skin_sawedoff_dual_" .. name)
 ------------------------------------------------------------------
 ATT = {}
 local name = "deva"
@@ -198,12 +189,11 @@ ATT.Free = true
 
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_4")
 
-ATT.Category = {"go_skins_sawnoff"}
+ATT.Category = {"go_skins_sawnoff_dual"}
 
 ATT.SubMaterial0 = "csgoskins/custom/sawedoff_" .. name
-ATT.SubMaterial1 = "csgoskins/custom/sawedoff_" .. name
 
-ARC9.LoadAttachment(ATT, "moka_csgo_skin_sawedoff_" .. name)
+ARC9.LoadAttachment(ATT, "moka_csgo_skin_sawedoff_dual_" .. name)
 ------------------------------------------------------------------
 ATT = {}
 local name = "devourer"
@@ -218,12 +208,11 @@ ATT.Free = true
 
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_5")
 
-ATT.Category = {"go_skins_sawnoff"}
+ATT.Category = {"go_skins_sawnoff_dual"}
 
 ATT.SubMaterial0 = "csgoskins/custom/sawedoff_" .. name
-ATT.SubMaterial1 = "csgoskins/custom/sawedoff_" .. name
 
-ARC9.LoadAttachment(ATT, "moka_csgo_skin_sawedoff_" .. name)
+ARC9.LoadAttachment(ATT, "moka_csgo_skin_sawedoff_dual_" .. name)
 ------------------------------------------------------------------
 ATT = {}
 local name = "kisslove"
@@ -238,12 +227,11 @@ ATT.Free = true
 
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_5")
 
-ATT.Category = {"go_skins_sawnoff"}
+ATT.Category = {"go_skins_sawnoff_dual"}
 
 ATT.SubMaterial0 = "csgoskins/custom/sawedoff_" .. name
-ATT.SubMaterial1 = "csgoskins/custom/sawedoff_" .. name
 
-ARC9.LoadAttachment(ATT, "moka_csgo_skin_sawedoff_" .. name)
+ARC9.LoadAttachment(ATT, "moka_csgo_skin_sawedoff_dual_" .. name)
 ------------------------------------------------------------------
 ATT = {}
 local name = "ouija"
@@ -258,12 +246,11 @@ ATT.Free = true
 
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_3")
 
-ATT.Category = {"go_skins_sawnoff"}
+ATT.Category = {"go_skins_sawnoff_dual"}
 
 ATT.SubMaterial0 = "csgoskins/custom/sawedoff_" .. name
-ATT.SubMaterial1 = "csgoskins/custom/sawedoff_" .. name
 
-ARC9.LoadAttachment(ATT, "moka_csgo_skin_sawedoff_" .. name)
+ARC9.LoadAttachment(ATT, "moka_csgo_skin_sawedoff_dual_" .. name)
 ------------------------------------------------------------------
 -- " Gunsmith "
 ------------------------------------------------------------------
@@ -280,12 +267,11 @@ ATT.Free = true
 
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_3")
 
-ATT.Category = {"go_skins_sawnoff"}
+ATT.Category = {"go_skins_sawnoff_dual"}
 
 ATT.SubMaterial0 = "csgoskins/gunsmith/sawedoff_" .. name
-ATT.SubMaterial1 = "csgoskins/gunsmith/sawedoff_" .. name
 
-ARC9.LoadAttachment(ATT, "moka_csgo_skin_sawedoff_" .. name)
+ARC9.LoadAttachment(ATT, "moka_csgo_skin_sawedoff_dual_" .. name)
 ------------------------------------------------------------------
 ATT = {}
 local name = "necromancer"
@@ -300,9 +286,8 @@ ATT.Free = true
 
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_3")
 
-ATT.Category = {"go_skins_sawnoff"}
+ATT.Category = {"go_skins_sawnoff_dual"}
 
 ATT.SubMaterial0 = "csgoskins/gunsmith/sawedoff_" .. name
-ATT.SubMaterial1 = "csgoskins/gunsmith/sawedoff_" .. name
 
-ARC9.LoadAttachment(ATT, "moka_csgo_skin_sawedoff_" .. name)
+ARC9.LoadAttachment(ATT, "moka_csgo_skin_sawedoff_dual_" .. name)

@@ -17,7 +17,8 @@ ATT.Free = true
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_4")
 
 ATT.Category = {"go_skins_xm1014"}
-ATT.Material = "csgoskins/antiqued/xm1014_" .. name
+
+ATT.SubMaterial0 = "csgoskins/antiqued/xm1014_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_xm1014_" .. name)
 ------------------------------------------------------------------
@@ -35,7 +36,8 @@ ATT.Free = true
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_4")
 
 ATT.Category = {"go_skins_xm1014"}
-ATT.Material = "csgoskins/antiqued/xm1014_" .. name
+
+ATT.SubMaterial0 = "csgoskins/antiqued/xm1014_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_xm1014_" .. name)
 ------------------------------------------------------------------
@@ -53,7 +55,8 @@ ATT.Free = true
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_5")
 
 ATT.Category = {"go_skins_xm1014"}
-ATT.Material = "csgoskins/antiqued/xm1014_" .. name
+
+ATT.SubMaterial0 = "csgoskins/antiqued/xm1014_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_xm1014_" .. name)
 ------------------------------------------------------------------
@@ -71,7 +74,8 @@ ATT.Free = true
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_3")
 
 ATT.Category = {"go_skins_xm1014"}
-ATT.Material = "csgoskins/antiqued/xm1014_" .. name
+
+ATT.SubMaterial0 = "csgoskins/antiqued/xm1014_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_xm1014_" .. name)
 ------------------------------------------------------------------
@@ -89,7 +93,8 @@ ATT.Free = true
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_3")
 
 ATT.Category = {"go_skins_xm1014"}
-ATT.Material = "csgoskins/antiqued/xm1014_" .. name
+
+ATT.SubMaterial0 = "csgoskins/antiqued/xm1014_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_xm1014_" .. name)
 ------------------------------------------------------------------
@@ -107,7 +112,8 @@ ATT.Free = true
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_4")
 
 ATT.Category = {"go_skins_xm1014"}
-ATT.Material = "csgoskins/antiqued/xm1014_" .. name
+
+ATT.SubMaterial0 = "csgoskins/antiqued/xm1014_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_xm1014_" .. name)
 ------------------------------------------------------------------
@@ -127,7 +133,8 @@ ATT.Free = true
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_3")
 
 ATT.Category = {"go_skins_xm1014"}
-ATT.Material = "csgoskins/custom/xm1014_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/xm1014_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_xm1014_" .. name)
 ------------------------------------------------------------------
@@ -145,7 +152,8 @@ ATT.Free = true
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_1")
 
 ATT.Category = {"go_skins_xm1014"}
-ATT.Material = "csgoskins/custom/xm1014_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/xm1014_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_xm1014_" .. name)
 ------------------------------------------------------------------
@@ -163,7 +171,8 @@ ATT.Free = true
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_4")
 
 ATT.Category = {"go_skins_xm1014"}
-ATT.Material = "csgoskins/custom/xm1014_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/xm1014_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_xm1014_" .. name)
 ------------------------------------------------------------------
@@ -181,7 +190,8 @@ ATT.Free = true
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_5")
 
 ATT.Category = {"go_skins_xm1014"}
-ATT.Material = "csgoskins/custom/xm1014_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/xm1014_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_xm1014_" .. name)
 ------------------------------------------------------------------
@@ -199,7 +209,8 @@ ATT.Free = true
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_5")
 
 ATT.Category = {"go_skins_xm1014"}
-ATT.Material = "csgoskins/custom/xm1014_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/xm1014_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_xm1014_" .. name)
 ------------------------------------------------------------------
@@ -217,7 +228,8 @@ ATT.Free = true
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_5")
 
 ATT.Category = {"go_skins_xm1014"}
-ATT.Material = "csgoskins/custom/xm1014_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/xm1014_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_xm1014_" .. name)
 ------------------------------------------------------------------
@@ -235,7 +247,8 @@ ATT.Free = true
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_3")
 
 ATT.Category = {"go_skins_xm1014"}
-ATT.Material = "csgoskins/custom/xm1014_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/xm1014_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_xm1014_" .. name)
 ------------------------------------------------------------------
@@ -253,7 +266,8 @@ ATT.Free = true
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_4")
 
 ATT.Category = {"go_skins_xm1014"}
-ATT.Material = "csgoskins/custom/xm1014_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/xm1014_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_xm1014_" .. name)
 ------------------------------------------------------------------
@@ -273,6 +287,7 @@ ATT.Free = true
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_3")
 
 ATT.Category = {"go_skins_xm1014"}
-ATT.Material = "csgoskins/gunsmith/xm1014_" .. name
+
+ATT.SubMaterial0 = "csgoskins/gunsmith/xm1014_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_xm1014_" .. name)

@@ -17,7 +17,8 @@ ATT.Free = true
 ATT.Folder = "CS:GO Skins"
 
 ATT.Category = {"go_skins_knife_bayonet"}
-ATT.Material = "csgoskins/custom/bayonet_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/bayonet_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_knife_bayonet_" .. name)
 ------------------------------------------------------------------
@@ -37,7 +38,8 @@ ATT.Free = true
 ATT.Folder = "CS:GO Skins"
 
 ATT.Category = {"go_skins_knife_bayonet"}
-ATT.Material = "csgoskins/gunsmith/bayonet_" .. name
+
+ATT.SubMaterial0 = "csgoskins/gunsmith/bayonet_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_knife_bayonet_" .. name)
 ------------------------------------------------------------------
@@ -55,7 +57,8 @@ ATT.Free = true
 ATT.Folder = "CS:GO Skins"
 
 ATT.Category = {"go_skins_knife_bayonet"}
-ATT.Material = "csgoskins/gunsmith/bayonet_" .. name
+
+ATT.SubMaterial0 = "csgoskins/gunsmith/bayonet_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_knife_bayonet_" .. name)
 ------------------------------------------------------------------

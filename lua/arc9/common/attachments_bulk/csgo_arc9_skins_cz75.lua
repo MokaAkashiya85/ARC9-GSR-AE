@@ -18,7 +18,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_6")
 
 ATT.Category = {"go_skins_cz75"}
-ATT.Material = "csgoskins/antiqued/cz75_" .. name
+
+ATT.SubMaterial0 = "csgoskins/antiqued/cz75_" .. name
+ATT.SubMaterial1 = "csgoskins/antiqued/cz75_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_cz75_" .. name)
 ------------------------------------------------------------------
@@ -38,7 +40,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_3")
 
 ATT.Category = {"go_skins_cz75"}
-ATT.Material = "csgoskins/custom/cz75_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/cz75_" .. name
+ATT.SubMaterial1 = "csgoskins/custom/cz75_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_cz75_" .. name)
 ------------------------------------------------------------------
@@ -56,7 +60,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_4")
 
 ATT.Category = {"go_skins_cz75"}
-ATT.Material = "csgoskins/custom/cz75_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/cz75_" .. name
+ATT.SubMaterial1 = "csgoskins/custom/cz75_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_cz75_" .. name)
 ------------------------------------------------------------------
@@ -74,7 +80,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_3")
 
 ATT.Category = {"go_skins_cz75"}
-ATT.Material = "csgoskins/custom/cz75_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/cz75_" .. name
+ATT.SubMaterial1 = "csgoskins/custom/cz75_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_cz75_" .. name)
 ------------------------------------------------------------------
@@ -92,7 +100,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_5")
 
 ATT.Category = {"go_skins_cz75"}
-ATT.Material = "csgoskins/custom/cz75_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/cz75_" .. name
+ATT.SubMaterial1 = "csgoskins/custom/cz75_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_cz75_" .. name)
 ------------------------------------------------------------------
@@ -110,7 +120,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_4")
 
 ATT.Category = {"go_skins_cz75"}
-ATT.Material = "csgoskins/custom/cz75_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/cz75_" .. name
+ATT.SubMaterial1 = "csgoskins/custom/cz75_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_cz75_" .. name)
 ------------------------------------------------------------------
@@ -128,7 +140,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_4")
 
 ATT.Category = {"go_skins_cz75"}
-ATT.Material = "csgoskins/custom/cz75_" .. name
+
+ATT.SubMaterial0 = "csgoskins/custom/cz75_" .. name
+ATT.SubMaterial1 = "csgoskins/custom/cz75_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_cz75_" .. name)
 ------------------------------------------------------------------
@@ -148,7 +162,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_4")
 
 ATT.Category = {"go_skins_cz75"}
-ATT.Material = "csgoskins/gunsmith/cz75_" .. name
+
+ATT.SubMaterial0 = "csgoskins/gunsmith/cz75_" .. name
+ATT.SubMaterial1 = "csgoskins/gunsmith/cz75_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_cz75_" .. name)
 ------------------------------------------------------------------
@@ -166,7 +182,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_5")
 
 ATT.Category = {"go_skins_cz75"}
-ATT.Material = "csgoskins/gunsmith/cz75_" .. name
+
+ATT.SubMaterial0 = "csgoskins/gunsmith/cz75_" .. name
+ATT.SubMaterial1 = "csgoskins/gunsmith/cz75_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_cz75_" .. name)
 ------------------------------------------------------------------
@@ -184,7 +202,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_4")
 
 ATT.Category = {"go_skins_cz75"}
-ATT.Material = "csgoskins/gunsmith/cz75_" .. name
+
+ATT.SubMaterial0 = "csgoskins/gunsmith/cz75_" .. name
+ATT.SubMaterial1 = "csgoskins/gunsmith/cz75_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_cz75_" .. name)
 ------------------------------------------------------------------
@@ -202,7 +222,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_4")
 
 ATT.Category = {"go_skins_cz75"}
-ATT.Material = "csgoskins/gunsmith/cz75_" .. name
+
+ATT.SubMaterial0 = "csgoskins/gunsmith/cz75_" .. name
+ATT.SubMaterial1 = "csgoskins/gunsmith/cz75_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_cz75_" .. name)
 ------------------------------------------------------------------
@@ -220,7 +242,9 @@ ATT.Free = true
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_3")
 
 ATT.Category = {"go_skins_cz75"}
-ATT.Material = "csgoskins/gunsmith/cz75_" .. name
+
+ATT.SubMaterial0 = "csgoskins/gunsmith/cz75_" .. name
+ATT.SubMaterial1 = "csgoskins/gunsmith/cz75_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_cz75_" .. name)
 ------------------------------------------------------------------
@@ -238,6 +262,8 @@ ATT.Free = true
 ATT.Folder = "CS:GO Skins/" .. ARC9:GetPhrase("moka_csgo_skin_rarity_3")
 
 ATT.Category = {"go_skins_cz75"}
-ATT.Material = "csgoskins/gunsmith/cz75_" .. name
+
+ATT.SubMaterial0 = "csgoskins/gunsmith/cz75_" .. name
+ATT.SubMaterial1 = "csgoskins/gunsmith/cz75_" .. name
 
 ARC9.LoadAttachment(ATT, "moka_csgo_skin_cz75_" .. name)
