@@ -39,7 +39,7 @@ echo Japanese
 python alocalizer.py csgo_japanese.txt all-skins-ja.lua
 
 echo Korean
-python alocalizer.py csgo_korean.txt all-skins-ko.lua
+python alocalizer.py csgo_koreana.txt all-skins-ko.lua
 
 echo Dutch
 python alocalizer.py csgo_dutch.txt all-skins-nl.lua
